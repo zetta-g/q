@@ -1,0 +1,103 @@
+[
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "answers": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+        "correct_answer": "Albert Einstein"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "answers": ["Osmium", "Oxygen", "Oganesson", "Osmosis"],
+        "correct_answer": "Oxygen"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "answers": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+        "correct_answer": "Mount Everest"
+    },
+    {
+        "question": "In which country did the Renaissance begin?",
+        "answers": ["France", "Italy", "Spain", "England"],
+        "correct_answer": "Italy"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "answers": ["0", "32", "100", "-32"],
+        "correct_answer": "0"
+    },
+    {
+        "question": "Who painted the 'Mona Lisa'?",
+        "answers": ["Vincent van Gogh", "Michelangelo", "Leonardo da Vinci", "Pablo Picasso"],
+        "correct_answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": ["Venus", "Mars", "Saturn", "Jupiter"],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "What is the main ingredient in traditional Japanese miso soup?",
+        "answers": ["Rice", "Soybeans", "Tofu", "Fish"],
+        "correct_answer": "Soybeans"
+    },
+    {
+        "question": "Who is the author of '1984'?",
+        "answers": ["George Orwell", "Aldous Huxley", "Ernest Hemingway", "F. Scott Fitzgerald"],
+        "correct_answer": "George Orwell"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+        "answers": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "correct_answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "answers": ["Gold", "Iron", "Diamond", "Granite"],
+        "correct_answer": "Diamond"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answers": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Isaac Newton"],
+        "correct_answer": "Alexander Fleming"
+    },
+    {
+        "question": "Which country is the largest by area?",
+        "answers": ["Canada", "China", "United States", "Russia"],
+        "correct_answer": "Russia"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "answers": ["Atom", "Molecule", "Cell", "Organism"],
+        "correct_answer": "Cell"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "answers": ["Mars", "Jupiter", "Saturn", "Earth"],
+        "correct_answer": "Saturn"
+    },
+    {
+        "question": "What is the term for animals that eat both plants and meat?",
+        "answers": ["Herbivores", "Carnivores", "Omnivores", "Insectivores"],
+        "correct_answer": "Omnivores"
+    },
+    {
+        "question": "Who is known as the 'Father of Computers'?",
+        "answers": ["Alan Turing", "Bill Gates", "Charles Babbage", "Steve Jobs"],
+        "correct_answer": "Charles Babbage"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "answers": ["Asia", "Africa", "Europe", "South America"],
+        "correct_answer": "Africa"
+    },
+    {
+        "question": "Which language has the most native speakers worldwide?",
+        "answers": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+        "correct_answer": "Mandarin Chinese"
+    }
+]
+
