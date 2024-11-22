@@ -1,5 +1,1072 @@
 [
     {
+        "question": "What does the abbreviation USD stand for?",
+        "question_image": "", 
+        "answers": [
+            {"text": "United States Dollar", "image": ""},
+            {"text": "United Kingdom Dollar", "image": ""},
+            {"text": "Universal Silver Dollar", "image": ""},
+            {"text": "United States Dinar", "image": ""}
+        ],
+        "correct_answer": "United States Dollar"
+    },
+    {
+        "question": "What is the currency abbreviation for the British Pound?",
+        "question_image": "", 
+        "answers": [
+            {"text": "GBP", "image": ""},
+            {"text": "GBD", "image": ""},
+            {"text": "BPS", "image": ""},
+            {"text": "PND", "image": ""}
+        ],
+        "correct_answer": "GBP"
+    },
+    {
+        "question": "What currency does JPY represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Japanese Peso", "image": ""},
+            {"text": "Japanese Yen", "image": ""},
+            {"text": "Jordanian Pound", "image": ""},
+            {"text": "Just Pay Yen", "image": ""}
+        ],
+        "correct_answer": "Japanese Yen"
+    },
+    {
+        "question": "Which currency uses the abbreviation AUD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Austrian Dollar", "image": ""},
+            {"text": "Australian Dinar", "image": ""},
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "Atlantic Dollar", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar"
+    },
+    {
+        "question": "What is the symbol for the Euro?",
+        "question_image": "", 
+        "answers": [
+            {"text": "EUR", "image": ""},
+            {"text": "ERO", "image": ""},
+            {"text": "EUY", "image": ""},
+            {"text": "ERU", "image": ""}
+        ],
+        "correct_answer": "EUR"
+    },
+    {
+        "question": "Which currency is abbreviated as CHF?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Chinese Franc", "image": ""},
+            {"text": "Canadian Franc", "image": ""},
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "Swedish Franc", "image": ""}
+        ],
+        "correct_answer": "Swiss Franc"
+    },
+    {
+        "question": "What does CAD stand for?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Central American Dinar", "image": ""},
+            {"text": "Canadian Dinar", "image": ""},
+            {"text": "Caribbean Dollar", "image": ""}
+        ],
+        "correct_answer": "Canadian Dollar"
+    },
+    {
+        "question": "What does NZD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "New Zealand Dollar", "image": ""},
+            {"text": "New Zealand Dinar", "image": ""},
+            {"text": "Nordic Zloty Dollar", "image": ""},
+            {"text": "New Zealand Ducat", "image": ""}
+        ],
+        "correct_answer": "New Zealand Dollar"
+    },
+    {
+        "question": "What does the currency pair USD/JPY represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "US Dollar and Japanese Yen", "image": ""},
+            {"text": "US Dollar and Jordanian Yen", "image": ""},
+            {"text": "United States Franc and Japanese Peso", "image": ""},
+            {"text": "United Kingdom Dollar and Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "US Dollar and Japanese Yen"
+    },
+    {
+        "question": "What is the base currency in the pair EUR/USD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "European Franc", "image": ""},
+            {"text": "British Pound", "image": ""}
+        ],
+        "correct_answer": "Euro"
+    },
+    {
+        "question": "In the pair GBP/AUD, what is the quote currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "British Pound", "image": ""},
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar"
+    },
+    {
+        "question": "What does the pair AUD/CAD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Australian Dollar and Canadian Dollar", "image": ""},
+            {"text": "Austrian Dollar and Canadian Dinar", "image": ""},
+            {"text": "Australian Franc and Canadian Peso", "image": ""},
+            {"text": "Austrian Franc and Central American Dollar", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar and Canadian Dollar"
+    },
+    {
+        "question": "What is the base currency in the pair USD/CHF?",
+        "question_image": "", 
+        "answers": [
+            {"text": "US Dollar", "image": ""},
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "US Dollar"
+    },
+    {
+        "question": "Which two currencies are represented in the pair NZD/USD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "New Zealand Dollar and US Dollar", "image": ""},
+            {"text": "New Zealand Dollar and United States Franc", "image": ""},
+            {"text": "Norwegian Dollar and US Dollar", "image": ""},
+            {"text": "New Zealand Dinar and US Dollar", "image": ""}
+        ],
+        "correct_answer": "New Zealand Dollar and US Dollar"
+    },
+    {
+        "question": "What is the quote currency in the pair EUR/GBP?",
+        "question_image": "", 
+        "answers": [
+            {"text": "British Pound", "image": ""},
+            {"text": "Euro", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "Swiss Franc", "image": ""}
+        ],
+        "correct_answer": "British Pound"
+    },
+    {
+        "question": "What does the pair JPY/AUD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Japanese Yen and Australian Dollar", "image": ""},
+            {"text": "Japanese Peso and Austrian Dollar", "image": ""},
+            {"text": "Jordanian Yen and Australian Dinar", "image": ""},
+            {"text": "Japanese Yen and Austrian Ducat", "image": ""}
+        ],
+        "correct_answer": "Japanese Yen and Australian Dollar"
+    },
+    {
+        "question": "Which is the quote currency in the pair CAD/CHF?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "Swiss Franc"
+    },
+    {
+        "question": "What is the base currency in the pair GBP/USD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "British Pound", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "British Pound"
+    },
+    {
+        "question": "If the EUR/USD pair is rising, which of the following is true?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Euro is strengthening against the Dollar", "image": ""},
+            {"text": "The Dollar is strengthening against the Euro", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""}
+        ],
+        "correct_answer": "The Euro is strengthening against the Dollar"
+    },
+    {
+        "question": "If USD/JPY is falling, what does this mean?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The US Dollar is weakening against the Yen", "image": ""},
+            {"text": "The Yen is weakening against the US Dollar", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""},
+            {"text": "The US Dollar is strengthening against the Yen", "image": ""}
+        ],
+        "correct_answer": "The US Dollar is weakening against the Yen"
+    },
+    {
+        "question": "What does the currency pair EUR/CHF represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro and Swiss Franc", "image": ""},
+            {"text": "Euro and Canadian Franc", "image": ""},
+            {"text": "Euro and Chinese Franc", "image": ""},
+            {"text": "Euro and Swedish Franc", "image": ""}
+        ],
+        "correct_answer": "Euro and Swiss Franc"
+    },
+    {
+        "question": "What is the base currency in the pair AUD/JPY?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""},
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "Canadian Dollar", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar"
+    },
+    {
+        "question": "Which currency pair includes the New Zealand Dollar?",
+        "question_image": "", 
+        "answers": [
+            {"text": "NZD/USD", "image": ""},
+            {"text": "AUD/CAD", "image": ""},
+            {"text": "GBP/JPY", "image": ""},
+            {"text": "CHF/JPY", "image": ""}
+        ],
+        "correct_answer": "NZD/USD"
+    },
+    {
+        "question": "What is the quote currency in the pair USD/CAD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "Euro", "image": ""},
+            {"text": "British Pound", "image": ""}
+        ],
+        "correct_answer": "Canadian Dollar"
+    },
+    {
+        "question": "What does the pair CHF/JPY represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Swiss Franc and Japanese Yen", "image": ""},
+            {"text": "Canadian Franc and Japanese Peso", "image": ""},
+            {"text": "Chinese Franc and Jordanian Yen", "image": ""},
+            {"text": "Swiss Franc and Jordanian Yen", "image": ""}
+        ],
+        "correct_answer": "Swiss Franc and Japanese Yen"
+    },
+    {
+        "question": "What does the abbreviation EUR/USD signify?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro to US Dollar exchange rate", "image": ""},
+            {"text": "US Dollar to Euro exchange rate", "image": ""},
+            {"text": "Euro to Swiss Franc exchange rate", "image": ""},
+            {"text": "British Pound to US Dollar exchange rate", "image": ""}
+        ],
+        "correct_answer": "Euro to US Dollar exchange rate"
+    },
+    {
+        "question": "Which of the following pairs involves the British Pound?",
+        "question_image": "", 
+        "answers": [
+            {"text": "GBP/JPY", "image": ""},
+            {"text": "USD/CAD", "image": ""},
+            {"text": "AUD/CHF", "image": ""},
+            {"text": "EUR/USD", "image": ""}
+        ],
+        "correct_answer": "GBP/JPY"
+    },
+    {
+        "question": "What is the base currency in the pair USD/NZD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "US Dollar", "image": ""},
+            {"text": "New Zealand Dollar", "image": ""},
+            {"text": "Euro", "image": ""},
+            {"text": "Australian Dollar", "image": ""}
+        ],
+        "correct_answer": "US Dollar"
+    },
+    {
+        "question": "What does the currency pair GBP/EUR represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "British Pound and Euro", "image": ""},
+            {"text": "British Pound and US Dollar", "image": ""},
+            {"text": "British Peso and Euro", "image": ""},
+            {"text": "British Pound and Swiss Franc", "image": ""}
+        ],
+        "correct_answer": "British Pound and Euro"
+    },
+    {
+        "question": "What is the quote currency in the pair AUD/CAD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "British Pound", "image": ""},
+            {"text": "Swiss Franc", "image": ""}
+        ],
+        "correct_answer": "Canadian Dollar"
+    },
+    {
+        "question": "Which currency pair does not include the US Dollar?",
+        "question_image": "", 
+        "answers": [
+            {"text": "EUR/CHF", "image": ""},
+            {"text": "USD/JPY", "image": ""},
+            {"text": "AUD/USD", "image": ""},
+            {"text": "NZD/USD", "image": ""}
+        ],
+        "correct_answer": "EUR/CHF"
+    },
+    {
+        "question": "What is the base currency in the pair CHF/AUD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "Euro", "image": ""}
+        ],
+        "correct_answer": "Swiss Franc"
+    },
+    {
+        "question": "What does the pair EUR/JPY represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro and Japanese Yen", "image": ""},
+            {"text": "Euro and Jordanian Yen", "image": ""},
+            {"text": "British Pound and Japanese Yen", "image": ""},
+            {"text": "Euro and Swiss Franc", "image": ""}
+        ],
+        "correct_answer": "Euro and Japanese Yen"
+    },
+    {
+        "question": "What is the quote currency in the pair JPY/GBP?",
+        "question_image": "", 
+        "answers": [
+            {"text": "British Pound", "image": ""},
+            {"text": "Japanese Yen", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "Swiss Franc", "image": ""}
+        ],
+        "correct_answer": "British Pound"
+    },
+    {
+        "question": "If the pair GBP/CHF is rising, what does it mean?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The British Pound is strengthening against the Swiss Franc", "image": ""},
+            {"text": "The Swiss Franc is strengthening against the British Pound", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""}
+        ],
+        "correct_answer": "The British Pound is strengthening against the Swiss Franc"
+    },
+    {
+        "question": "Which is the base currency in the pair CAD/EUR?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Euro", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "British Pound", "image": ""}
+        ],
+        "correct_answer": "Canadian Dollar"
+    },
+    {
+        "question": "What does the pair AUD/GBP represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Australian Dollar and British Pound", "image": ""},
+            {"text": "Austrian Dollar and British Peso", "image": ""},
+            {"text": "Australian Franc and British Pound", "image": ""},
+            {"text": "Australian Dollar and Canadian Franc", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar and British Pound"
+    },
+    {
+        "question": "What is the quote currency in the pair NZD/CHF?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "New Zealand Dollar", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "Swiss Franc"
+    },
+    {
+        "question": "What does the pair EUR/AUD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro and Australian Dollar", "image": ""},
+            {"text": "Euro and Austrian Dollar", "image": ""},
+            {"text": "British Pound and Australian Dollar", "image": ""},
+            {"text": "Euro and Austrian Franc", "image": ""}
+        ],
+        "correct_answer": "Euro and Australian Dollar"
+    },
+    {
+        "question": "If the NZD/USD pair is falling, which of the following is true?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The New Zealand Dollar is weakening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is weakening against the New Zealand Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""}
+        ],
+        "correct_answer": "The New Zealand Dollar is weakening against the US Dollar"
+    },
+    {
+        "question": "What symbol is used for the US Dollar?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$", "image": ""},
+            {"text": "€", "image": ""},
+            {"text": "£", "image": ""},
+            {"text": "¥", "image": ""}
+        ],
+        "correct_answer": "$"
+    },
+    {
+        "question": "Which currency uses the symbol ¥?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Japanese Yen", "image": ""},
+            {"text": "Chinese Yuan", "image": ""},
+            {"text": "Indian Rupee", "image": ""},
+            {"text": "South Korean Won", "image": ""}
+        ],
+        "correct_answer": "Japanese Yen"
+    },
+    {
+        "question": "What is the symbol for the Euro?",
+        "question_image": "", 
+        "answers": [
+            {"text": "€", "image": ""},
+            {"text": "£", "image": ""},
+            {"text": "$", "image": ""},
+            {"text": "¥", "image": ""}
+        ],
+        "correct_answer": "€"
+    },
+    {
+        "question": "Which currency is represented by the symbol £?",
+        "question_image": "", 
+        "answers": [
+            {"text": "British Pound", "image": ""},
+            {"text": "Euro", "image": ""},
+            {"text": "Indian Rupee", "image": ""},
+            {"text": "Canadian Dollar", "image": ""}
+        ],
+        "correct_answer": "British Pound"
+    },
+    {
+        "question": "The Swiss Franc is represented by which symbol?",
+        "question_image": "", 
+        "answers": [
+            {"text": "CHF", "image": ""},
+            {"text": "SFr", "image": ""},
+            {"text": "¥", "image": ""},
+            {"text": "$", "image": ""}
+        ],
+        "correct_answer": "CHF"
+    },
+    {
+        "question": "What is the symbol for the Canadian Dollar?",
+        "question_image": "", 
+        "answers": [
+            {"text": "C$", "image": ""},
+            {"text": "CAD$", "image": ""},
+            {"text": "CA$", "image": ""},
+            {"text": "Can$", "image": ""}
+        ],
+        "correct_answer": "C$"
+    },
+    {
+        "question": "What does the symbol NZ$ represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "New Zealand Dollar", "image": ""},
+            {"text": "Norwegian Krone", "image": ""},
+            {"text": "New Zloty", "image": ""},
+            {"text": "Nepalese Rupee", "image": ""}
+        ],
+        "correct_answer": "New Zealand Dollar"
+    },
+    {
+        "question": "Which currency symbol is used for the Australian Dollar?",
+        "question_image": "", 
+        "answers": [
+            {"text": "A$", "image": ""},
+            {"text": "AUD$", "image": ""},
+            {"text": "AU$", "image": ""},
+            {"text": "Aus$", "image": ""}
+        ],
+        "correct_answer": "A$"
+    },
+    {
+        "question": "The symbol € is associated with which region’s currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Eurozone", "image": ""},
+            {"text": "United Kingdom", "image": ""},
+            {"text": "United States", "image": ""},
+            {"text": "Japan", "image": ""}
+        ],
+        "correct_answer": "Eurozone"
+    },
+    {
+        "question": "What is the common currency symbol for multiple countries' dollars?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$", "image": ""},
+            {"text": "£", "image": ""},
+            {"text": "¥", "image": ""},
+            {"text": "€", "image": ""}
+        ],
+        "correct_answer": "$"
+    },
+    {
+        "question": "Which currency symbol is often used for the Yen and Yuan?",
+        "question_image": "", 
+        "answers": [
+            {"text": "¥", "image": ""},
+            {"text": "$", "image": ""},
+            {"text": "₩", "image": ""},
+            {"text": "₹", "image": ""}
+        ],
+        "correct_answer": "¥"
+    },
+    {
+        "question": "The British Pound is symbolized by which of the following?",
+        "question_image": "", 
+        "answers": [
+            {"text": "£", "image": ""},
+            {"text": "€", "image": ""},
+            {"text": "$", "image": ""},
+            {"text": "¥", "image": ""}
+        ],
+        "correct_answer": "£"
+    },
+    {
+        "question": "Which of the following currencies uses no symbol but an abbreviation?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Swiss Franc (CHF)", "image": ""},
+            {"text": "Euro (€)", "image": ""},
+            {"text": "Japanese Yen (¥)", "image": ""},
+            {"text": "British Pound (£)", "image": ""}
+        ],
+        "correct_answer": "Swiss Franc (CHF)"
+    },
+    {
+        "question": "What is the correct symbol for the Japanese Yen?",
+        "question_image": "", 
+        "answers": [
+            {"text": "¥", "image": ""},
+            {"text": "￥", "image": ""},
+            {"text": "Y$", "image": ""},
+            {"text": "J$", "image": ""}
+        ],
+        "correct_answer": "¥"
+    },
+    {
+        "question": "The Canadian Dollar is sometimes represented as which symbol?",
+        "question_image": "", 
+        "answers": [
+            {"text": "C$", "image": ""},
+            {"text": "$", "image": ""},
+            {"text": "CAD", "image": ""},
+            {"text": "Can$", "image": ""}
+        ],
+        "correct_answer": "C$"
+    },
+    {
+        "question": "What is the full name for the currency with the symbol €?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro", "image": ""},
+            {"text": "Euron", "image": ""},
+            {"text": "Europound", "image": ""},
+            {"text": "Europeso", "image": ""}
+        ],
+        "correct_answer": "Euro"
+    },
+    {
+        "question": "What is the symbol for the Swiss Franc in trading platforms?",
+        "question_image": "", 
+        "answers": [
+            {"text": "CHF", "image": ""},
+            {"text": "SF", "image": ""},
+            {"text": "SFr", "image": ""},
+            {"text": "Fr.", "image": ""}
+        ],
+        "correct_answer": "CHF"
+    },
+    {
+        "question": "The Australian Dollar is represented by which of the following?",
+        "question_image": "", 
+        "answers": [
+            {"text": "A$", "image": ""},
+            {"text": "$A", "image": ""},
+            {"text": "Aus$", "image": ""},
+            {"text": "AUD$", "image": ""}
+        ],
+        "correct_answer": "A$"
+    },
+    {
+        "question": "Which symbol is commonly used for the New Zealand Dollar?",
+        "question_image": "", 
+        "answers": [
+            {"text": "NZ$", "image": ""},
+            {"text": "N$", "image": ""},
+            {"text": "NZD$", "image": ""},
+            {"text": "NZD", "image": ""}
+        ],
+        "correct_answer": "NZ$"
+    },
+    {
+        "question": "What is the currency symbol for the Euro, used across the Eurozone?",
+        "question_image": "", 
+        "answers": [
+            {"text": "€", "image": ""},
+            {"text": "EUR", "image": ""},
+            {"text": "EZ$", "image": ""},
+            {"text": "E$", "image": ""}
+        ],
+        "correct_answer": "€"
+    },
+    {
+        "question": "If the JPY/USD exchange rate is increasing, what does it mean?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Japanese Yen is weakening against the US Dollar", "image": ""},
+            {"text": "The Japanese Yen is strengthening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is strengthening against the Japanese Yen", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""}
+        ],
+        "correct_answer": "The Japanese Yen is strengthening against the US Dollar"
+    },
+    {
+        "question": "If the USD/EUR rate is falling, what does it imply?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The US Dollar is weakening against the Euro", "image": ""},
+            {"text": "The US Dollar is strengthening against the Euro", "image": ""},
+            {"text": "The Euro is weakening against the US Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""}
+        ],
+        "correct_answer": "The US Dollar is weakening against the Euro"
+    },
+    {
+        "question": "When the GBP/USD rate rises, which of the following is true?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The British Pound is strengthening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is strengthening against the British Pound", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "The US Dollar is weakening against the Euro", "image": ""}
+        ],
+        "correct_answer": "The British Pound is strengthening against the US Dollar"
+    },
+    {
+        "question": "If the USD/CHF exchange rate is decreasing, what does it indicate?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Swiss Franc is strengthening against the US Dollar", "image": ""},
+            {"text": "The Swiss Franc is weakening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is strengthening against the Swiss Franc", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""}
+        ],
+        "correct_answer": "The Swiss Franc is strengthening against the US Dollar"
+    },
+    {
+        "question": "If EUR/JPY is rising, which currency is gaining value?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro", "image": ""},
+            {"text": "Japanese Yen", "image": ""},
+            {"text": "Both are gaining", "image": ""},
+            {"text": "Neither currency is gaining", "image": ""}
+        ],
+        "correct_answer": "Euro"
+    },
+    {
+        "question": "What happens if AUD/USD is falling?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Australian Dollar is weakening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is weakening against the Australian Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""}
+        ],
+        "correct_answer": "The Australian Dollar is weakening against the US Dollar"
+    },
+    {
+        "question": "If NZD/USD is increasing, which is true?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The New Zealand Dollar is strengthening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is strengthening against the New Zealand Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The New Zealand Dollar is strengthening against the US Dollar"
+    },
+    {
+        "question": "When the CHF/EUR exchange rate rises, what does it mean?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Swiss Franc is strengthening against the Euro", "image": ""},
+            {"text": "The Swiss Franc is weakening against the Euro", "image": ""},
+            {"text": "The Euro is weakening against the US Dollar", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""}
+        ],
+        "correct_answer": "The Swiss Franc is strengthening against the Euro"
+    },
+    {
+        "question": "If GBP/JPY falls, what is happening?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The British Pound is weakening against the Japanese Yen", "image": ""},
+            {"text": "The Japanese Yen is weakening against the British Pound", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The British Pound is weakening against the Japanese Yen"
+    },
+    {
+        "question": "What does it mean if USD/CAD is rising?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The US Dollar is strengthening against the Canadian Dollar", "image": ""},
+            {"text": "The Canadian Dollar is strengthening against the US Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The US Dollar is strengthening against the Canadian Dollar"
+    },
+    {
+        "question": "If the EUR/USD exchange rate is decreasing, which is true?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Euro is weakening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is weakening against the Euro", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The Euro is weakening against the US Dollar"
+    },
+    {
+        "question": "If AUD/NZD is falling, which currency is gaining strength?",
+        "question_image": "", 
+        "answers": [
+            {"text": "New Zealand Dollar", "image": ""},
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "New Zealand Dollar"
+    },
+    {
+        "question": "What does a rising EUR/CHF exchange rate indicate?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Euro is strengthening against the Swiss Franc", "image": ""},
+            {"text": "The Swiss Franc is strengthening against the Euro", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The Euro is strengthening against the Swiss Franc"
+    },
+    {
+        "question": "If USD/JPY falls, what happens to the Yen?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Japanese Yen is strengthening against the US Dollar", "image": ""},
+            {"text": "The Japanese Yen is weakening against the US Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The Japanese Yen is strengthening against the US Dollar"
+    },
+    {
+        "question": "When the CAD/GBP exchange rate is rising, what is true?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Canadian Dollar is strengthening against the British Pound", "image": ""},
+            {"text": "The British Pound is strengthening against the Canadian Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The Canadian Dollar is strengthening against the British Pound"
+    },
+    {
+        "question": "If USD/JPY is increasing, what does it imply about the USD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The US Dollar is strengthening against the Japanese Yen", "image": ""},
+            {"text": "The Japanese Yen is strengthening against the US Dollar", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The US Dollar is strengthening against the Japanese Yen"
+    },
+    {
+        "question": "What happens when NZD/USD is decreasing?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The New Zealand Dollar is weakening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is weakening against the New Zealand Dollar", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The New Zealand Dollar is weakening against the US Dollar"
+    },
+    {
+        "question": "If EUR/GBP falls, which currency is strengthening?",
+        "question_image": "", 
+        "answers": [
+            {"text": "British Pound", "image": ""},
+            {"text": "Euro", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "British Pound"
+    },
+    {
+        "question": "What does it mean if CHF/USD rises?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Swiss Franc is strengthening against the US Dollar", "image": ""},
+            {"text": "The US Dollar is strengthening against the Swiss Franc", "image": ""},
+            {"text": "Both currencies are weakening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The Swiss Franc is strengthening against the US Dollar"
+    },
+    {
+        "question": "If CAD/EUR falls, which is true?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The Canadian Dollar is weakening against the Euro", "image": ""},
+            {"text": "The Euro is weakening against the Canadian Dollar", "image": ""},
+            {"text": "Both currencies are strengthening", "image": ""},
+            {"text": "Neither currency is changing", "image": ""}
+        ],
+        "correct_answer": "The Canadian Dollar is weakening against the Euro"
+    },
+    {
+        "question": "In the pair JPY/USD, which is the quote currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "USD", "image": ""},
+            {"text": "JPY", "image": ""},
+            {"text": "Both are quote currencies", "image": ""},
+            {"text": "Neither is a quote currency", "image": ""}
+        ],
+        "correct_answer": "USD"
+    },
+    {
+        "question": "In the pair USD/EUR, which is the base currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "USD", "image": ""},
+            {"text": "EUR", "image": ""},
+            {"text": "Both are base currencies", "image": ""},
+            {"text": "Neither is a base currency", "image": ""}
+        ],
+        "correct_answer": "USD"
+    },
+    {
+        "question": "In the currency pair GBP/JPY, what is the quote currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "JPY", "image": ""},
+            {"text": "GBP", "image": ""},
+            {"text": "Both are quote currencies", "image": ""},
+            {"text": "Neither is a quote currency", "image": ""}
+        ],
+        "correct_answer": "JPY"
+    },
+    {
+        "question": "In the pair EUR/CHF, which currency is the base currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "EUR", "image": ""},
+            {"text": "CHF", "image": ""},
+            {"text": "Both are base currencies", "image": ""},
+            {"text": "Neither is a base currency", "image": ""}
+        ],
+        "correct_answer": "EUR"
+    },
+    {
+        "question": "If the pair AUD/USD is quoted, what does AUD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Base currency", "image": ""},
+            {"text": "Quote currency", "image": ""},
+            {"text": "Neither", "image": ""},
+            {"text": "Both base and quote currency", "image": ""}
+        ],
+        "correct_answer": "Base currency"
+    },
+    {
+        "question": "In the pair USD/CAD, what does CAD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Quote currency", "image": ""},
+            {"text": "Base currency", "image": ""},
+            {"text": "Neither", "image": ""},
+            {"text": "Both base and quote currency", "image": ""}
+        ],
+        "correct_answer": "Quote currency"
+    },
+    {
+        "question": "What is the base currency in the pair NZD/USD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "NZD", "image": ""},
+            {"text": "USD", "image": ""},
+            {"text": "Both are base currencies", "image": ""},
+            {"text": "Neither is a base currency", "image": ""}
+        ],
+        "correct_answer": "NZD"
+    },
+    {
+        "question": "What is the quote currency in the pair CHF/EUR?",
+        "question_image": "", 
+        "answers": [
+            {"text": "EUR", "image": ""},
+            {"text": "CHF", "image": ""},
+            {"text": "Both are quote currencies", "image": ""},
+            {"text": "Neither is a quote currency", "image": ""}
+        ],
+        "correct_answer": "EUR"
+    },
+    {
+        "question": "If the pair EUR/USD is quoted, what does USD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Quote currency", "image": ""},
+            {"text": "Base currency", "image": ""},
+            {"text": "Neither", "image": ""},
+            {"text": "Both base and quote currency", "image": ""}
+        ],
+        "correct_answer": "Quote currency"
+    },
+    {
+        "question": "In the pair USD/JPY, what does USD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Base currency", "image": ""},
+            {"text": "Quote currency", "image": ""},
+            {"text": "Neither", "image": ""},
+            {"text": "Both base and quote currency", "image": ""}
+        ],
+        "correct_answer": "Base currency"
+    },
+    {
+        "question": "In the pair CAD/GBP, which is the base currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "CAD", "image": ""},
+            {"text": "GBP", "image": ""},
+            {"text": "Both are base currencies", "image": ""},
+            {"text": "Neither is a base currency", "image": ""}
+        ],
+        "correct_answer": "CAD"
+    },
+    {
+        "question": "In the pair AUD/NZD, what does NZD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Quote currency", "image": ""},
+            {"text": "Base currency", "image": ""},
+            {"text": "Neither", "image": ""},
+            {"text": "Both base and quote currency", "image": ""}
+        ],
+        "correct_answer": "Quote currency"
+    },
+    {
+        "question": "In forex trading, what is the first currency in a pair called?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Base currency", "image": ""},
+            {"text": "Quote currency", "image": ""},
+            {"text": "Primary currency", "image": ""},
+            {"text": "Exchange currency", "image": ""}
+        ],
+        "correct_answer": "Base currency"
+    },
+    {
+        "question": "In forex trading, what is the second currency in a pair called?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Quote currency", "image": ""},
+            {"text": "Base currency", "image": ""},
+            {"text": "Primary currency", "image": ""},
+            {"text": "Exchange currency", "image": ""}
+        ],
+        "correct_answer": "Quote currency"
+    },
+    {
+        "question": "In the pair GBP/USD, which is the base currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "GBP", "image": ""},
+            {"text": "USD", "image": ""},
+            {"text": "Both are base currencies", "image": ""},
+            {"text": "Neither is a base currency", "image": ""}
+        ],
+        "correct_answer": "GBP"
+    },
+    {
+        "question": "What is the quote currency in the pair EUR/GBP?",
+        "question_image": "", 
+        "answers": [
+            {"text": "GBP", "image": ""},
+            {"text": "EUR", "image": ""},
+            {"text": "Both are quote currencies", "image": ""},
+            {"text": "Neither is a quote currency", "image": ""}
+        ],
+        "correct_answer": "GBP"
+    },
+    {
+        "question": "In the pair USD/CHF, what is the base currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "USD", "image": ""},
+            {"text": "CHF", "image": ""},
+            {"text": "Both are base currencies", "image": ""},
+            {"text": "Neither is a base currency", "image": ""}
+        ],
+        "correct_answer": "USD"
+    },
+    {
         "question": "In forex trading, which currency's value is being quoted in a pair?",
         "question_image": "", 
         "answers": [
