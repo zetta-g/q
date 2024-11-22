@@ -1,0 +1,167 @@
+[
+    {
+        "question": "What does the abbreviation USD stand for?",
+        "question_image": "", 
+        "answers": [
+            {"text": "United States Dollar", "image": ""},
+            {"text": "United Kingdom Dollar", "image": ""},
+            {"text": "Universal Silver Dollar", "image": ""},
+            {"text": "United States Dinar", "image": ""}
+        ],
+        "correct_answer": "United States Dollar"
+    },
+    {
+        "question": "What is the currency abbreviation for the British Pound?",
+        "question_image": "", 
+        "answers": [
+            {"text": "GBP", "image": ""},
+            {"text": "GBD", "image": ""},
+            {"text": "BPS", "image": ""},
+            {"text": "PND", "image": ""}
+        ],
+        "correct_answer": "GBP"
+    },
+    {
+        "question": "What currency does JPY represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Japanese Peso", "image": ""},
+            {"text": "Japanese Yen", "image": ""},
+            {"text": "Jordanian Pound", "image": ""},
+            {"text": "Just Pay Yen", "image": ""}
+        ],
+        "correct_answer": "Japanese Yen"
+    },
+    {
+        "question": "Which currency uses the abbreviation AUD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Austrian Dollar", "image": ""},
+            {"text": "Australian Dinar", "image": ""},
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "Atlantic Dollar", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar"
+    },
+    {
+        "question": "What is the symbol for the Euro?",
+        "question_image": "", 
+        "answers": [
+            {"text": "EUR", "image": ""},
+            {"text": "ERO", "image": ""},
+            {"text": "EUY", "image": ""},
+            {"text": "ERU", "image": ""}
+        ],
+        "correct_answer": "EUR"
+    },
+    {
+        "question": "Which currency is abbreviated as CHF?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Chinese Franc", "image": ""},
+            {"text": "Canadian Franc", "image": ""},
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "Swedish Franc", "image": ""}
+        ],
+        "correct_answer": "Swiss Franc"
+    },
+    {
+        "question": "What does CAD stand for?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Central American Dinar", "image": ""},
+            {"text": "Canadian Dinar", "image": ""},
+            {"text": "Caribbean Dollar", "image": ""}
+        ],
+        "correct_answer": "Canadian Dollar"
+    },
+    {
+        "question": "What does NZD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "New Zealand Dollar", "image": ""},
+            {"text": "New Zealand Dinar", "image": ""},
+            {"text": "Nordic Zloty Dollar", "image": ""},
+            {"text": "New Zealand Ducat", "image": ""}
+        ],
+        "correct_answer": "New Zealand Dollar"
+    },
+    {
+        "question": "What does the currency pair USD/JPY represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "US Dollar and Japanese Yen", "image": ""},
+            {"text": "US Dollar and Jordanian Yen", "image": ""},
+            {"text": "United States Franc and Japanese Peso", "image": ""},
+            {"text": "United Kingdom Dollar and Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "US Dollar and Japanese Yen"
+    },
+    {
+        "question": "What is the base currency in the pair EUR/USD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Euro", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "European Franc", "image": ""},
+            {"text": "British Pound", "image": ""}
+        ],
+        "correct_answer": "Euro"
+    },
+    {
+        "question": "In the pair GBP/AUD, what is the quote currency?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Australian Dollar", "image": ""},
+            {"text": "British Pound", "image": ""},
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar"
+    },
+    {
+        "question": "What does the pair AUD/CAD represent?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Australian Dollar and Canadian Dollar", "image": ""},
+            {"text": "Austrian Dollar and Canadian Dinar", "image": ""},
+            {"text": "Australian Franc and Canadian Peso", "image": ""},
+            {"text": "Austrian Franc and Central American Dollar", "image": ""}
+        ],
+        "correct_answer": "Australian Dollar and Canadian Dollar"
+    },
+    {
+        "question": "What is the base currency in the pair USD/CHF?",
+        "question_image": "", 
+        "answers": [
+            {"text": "US Dollar", "image": ""},
+            {"text": "Swiss Franc", "image": ""},
+            {"text": "Canadian Dollar", "image": ""},
+            {"text": "Japanese Yen", "image": ""}
+        ],
+        "correct_answer": "US Dollar"
+    },
+    {
+        "question": "Which two currencies are represented in the pair NZD/USD?",
+        "question_image": "", 
+        "answers": [
+            {"text": "New Zealand Dollar and US Dollar", "image": ""},
+            {"text": "New Zealand Dollar and United States Franc", "image": ""},
+            {"text": "Norwegian Dollar and US Dollar", "image": ""},
+            {"text": "New Zealand Dinar and US Dollar", "image": ""}
+        ],
+        "correct_answer": "New Zealand Dollar and US Dollar"
+    },
+    {
+        "question": "What is the quote currency in the pair EUR/GBP?",
+        "question_image": "", 
+        "answers": [
+            {"text": "British Pound", "image": ""},
+            {"text": "Euro", "image": ""},
+            {"text": "US Dollar", "image": ""},
+            {"text": "Swiss Franc", "image": ""}
+        ],
+        "correct_answer": "British Pound"
+    }
+]
