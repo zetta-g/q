@@ -1,0 +1,1256 @@
+[
+    {
+        "question": "What is the purpose of a stop-loss order?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Maximize profits", "image": ""},
+            {"text": "Minimize losses", "image": ""},
+            {"text": "Increase trading volume", "image": ""},
+            {"text": "Avoid taxes", "image": ""}
+        ],
+        "correct_answer": "Minimize losses"
+    },
+    {
+        "question": "Where should a stop-loss order typically be placed?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Above the entry price", "image": ""},
+            {"text": "Below the entry price", "image": ""},
+            {"text": "At the entry price", "image": ""},
+            {"text": "At any random price", "image": ""}
+        ],
+        "correct_answer": "Below the entry price"
+    },
+    {
+        "question": "If a trader buys a stock at $50, where should they set a stop-loss to limit losses to $5?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$45", "image": ""},
+            {"text": "$50", "image": ""},
+            {"text": "$55", "image": ""},
+            {"text": "$60", "image": ""}
+        ],
+        "correct_answer": "$45"
+    },
+    {
+        "question": "What type of order is a stop-loss?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Market order", "image": ""},
+            {"text": "Limit order", "image": ""},
+            {"text": "Short order", "image": ""},
+            {"text": "Margin order", "image": ""}
+        ],
+        "correct_answer": "Market order"
+    },
+    {
+        "question": "What happens when the stop-loss price is triggered?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The order is canceled", "image": ""},
+            {"text": "A market order is executed", "image": ""},
+            {"text": "The stock is held", "image": ""},
+            {"text": "The price is renegotiated", "image": ""}
+        ],
+        "correct_answer": "A market order is executed"
+    },
+    {
+        "question": "A stop-loss order is most beneficial for which type of investor?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Long-term investors", "image": ""},
+            {"text": "Day traders", "image": ""},
+            {"text": "Index fund investors", "image": ""},
+            {"text": "Bond investors", "image": ""}
+        ],
+        "correct_answer": "Day traders"
+    },
+    {
+        "question": "What is the primary risk of setting a stop-loss order?",
+        "question_image": "", 
+        "answers": [
+            {"text": "It ensures profit", "image": ""},
+            {"text": "It locks the stock forever", "image": ""},
+            {"text": "A temporary price dip could trigger the sale", "image": ""},
+            {"text": "It incurs high commission fees", "image": ""}
+        ],
+        "correct_answer": "A temporary price dip could trigger the sale"
+    },
+    {
+        "question": "How can a stop-loss be adjusted in a rising market?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Lower the stop-loss", "image": ""},
+            {"text": "Raise the stop-loss", "image": ""},
+            {"text": "Keep it unchanged", "image": ""},
+            {"text": "Remove it entirely", "image": ""}
+        ],
+        "correct_answer": "Raise the stop-loss"
+    },
+    {
+        "question": "Which type of stop-loss follows the price as it moves upward?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Fixed stop-loss", "image": ""},
+            {"text": "Trailing stop-loss", "image": ""},
+            {"text": "Manual stop-loss", "image": ""},
+            {"text": "Adjustable stop-loss", "image": ""}
+        ],
+        "correct_answer": "Trailing stop-loss"
+    },
+    {
+        "question": "What is a disadvantage of setting a stop-loss too close to the entry price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "It doesn’t limit losses", "image": ""},
+            {"text": "It increases trading fees", "image": ""},
+            {"text": "The order might trigger unnecessarily", "image": ""},
+            {"text": "It guarantees a loss", "image": ""}
+        ],
+        "correct_answer": "The order might trigger unnecessarily"
+    },
+    {
+        "question": "What is the main goal of a stop-profit order?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Lock in profits", "image": ""},
+            {"text": "Avoid market volatility", "image": ""},
+            {"text": "Reduce investment", "image": ""},
+            {"text": "Avoid taxation", "image": ""}
+        ],
+        "correct_answer": "Lock in profits"
+    },
+    {
+        "question": "At what price should a stop-profit order be set?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Above the current market price", "image": ""},
+            {"text": "Below the entry price", "image": ""},
+            {"text": "At the break-even price", "image": ""},
+            {"text": "At a random price", "image": ""}
+        ],
+        "correct_answer": "Above the current market price"
+    },
+    {
+        "question": "What type of order is typically used to set a stop-profit level?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Limit order", "image": ""},
+            {"text": "Market order", "image": ""},
+            {"text": "Margin order", "image": ""},
+            {"text": "Short order", "image": ""}
+        ],
+        "correct_answer": "Limit order"
+    },
+    {
+        "question": "What happens if the price hits the stop-profit level?",
+        "question_image": "", 
+        "answers": [
+            {"text": "A market order to sell is triggered", "image": ""},
+            {"text": "The order is canceled", "image": ""},
+            {"text": "The stock is held", "image": ""},
+            {"text": "The trade remains open", "image": ""}
+        ],
+        "correct_answer": "A market order to sell is triggered"
+    },
+    {
+        "question": "Why might a trader use both stop-loss and stop-profit orders simultaneously?",
+        "question_image": "", 
+        "answers": [
+            {"text": "To guarantee maximum profits", "image": ""},
+            {"text": "To automate trading decisions", "image": ""},
+            {"text": "To confuse brokers", "image": ""},
+            {"text": "To minimize transaction fees", "image": ""}
+        ],
+        "correct_answer": "To automate trading decisions"
+    },
+    {
+        "question": "What is a risk of setting the stop-profit level too high?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The stock might never reach the level", "image": ""},
+            {"text": "Losses are maximized", "image": ""},
+            {"text": "Trading fees increase", "image": ""},
+            {"text": "Market orders fail", "image": ""}
+        ],
+        "correct_answer": "The stock might never reach the level"
+    },
+    {
+        "question": "A trader sets a stop-profit at $60 after buying a stock at $50. What happens if the stock reaches $60?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The stock is automatically sold", "image": ""},
+            {"text": "The stock is held", "image": ""},
+            {"text": "The stop-loss is triggered", "image": ""},
+            {"text": "A buy order is initiated", "image": ""}
+        ],
+        "correct_answer": "The stock is automatically sold"
+    },
+    {
+        "question": "What does a stop-profit ensure if the stock price increases?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The price continues rising", "image": ""},
+            {"text": "Gains are locked", "image": ""},
+            {"text": "Losses are reduced", "image": ""},
+            {"text": "Fees are eliminated", "image": ""}
+        ],
+        "correct_answer": "Gains are locked"
+    },
+    {
+        "question": "Which type of stop-profit order adjusts with price movements?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Fixed stop-profit", "image": ""},
+            {"text": "Trailing stop-profit", "image": ""},
+            {"text": "Temporary stop-profit", "image": ""},
+            {"text": "Break-even stop-profit", "image": ""}
+        ],
+        "correct_answer": "Trailing stop-profit"
+    },
+    {
+        "question": "When is the best time to move a stop-profit higher?",
+        "question_image": "", 
+        "answers": [
+            {"text": "As soon as a profit is made", "image": ""},
+            {"text": "When the stock shows consistent upward movement", "image": ""},
+            {"text": "After a market dip", "image": ""},
+            {"text": "After a large loss", "image": ""}
+        ],
+        "correct_answer": "When the stock shows consistent upward movement"
+    },
+    {
+        "question": "What is the primary benefit of using both stop-loss and stop-profit orders?",
+        "question_image": "", 
+        "answers": [
+            {"text": "To ensure the stock is never sold", "image": ""},
+            {"text": "To automate both risk and profit management", "image": ""},
+            {"text": "To reduce trading fees", "image": ""},
+            {"text": "To maximize losses", "image": ""}
+        ],
+        "correct_answer": "To automate both risk and profit management"
+    },
+    {
+        "question": "How does a trailing stop-loss differ from a fixed stop-loss?",
+        "question_image": "", 
+        "answers": [
+            {"text": "It follows the price movement", "image": ""},
+            {"text": "It remains constant", "image": ""},
+            {"text": "It locks in a specific profit", "image": ""},
+            {"text": "It reduces over time", "image": ""}
+        ],
+        "correct_answer": "It follows the price movement"
+    },
+    {
+        "question": "What happens if a stock price gaps below the stop-loss level?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The stop-loss order is skipped", "image": ""},
+            {"text": "The stock is sold at the next available price", "image": ""},
+            {"text": "The stop-loss is ignored", "image": ""},
+            {"text": "The order is executed at the original price", "image": ""}
+        ],
+        "correct_answer": "The stock is sold at the next available price"
+    },
+    {
+        "question": "Which of the following is true about trailing stop-profits?",
+        "question_image": "", 
+        "answers": [
+            {"text": "They adjust downward when the price falls", "image": ""},
+            {"text": "They only adjust upward with rising prices", "image": ""},
+            {"text": "They are triggered immediately", "image": ""},
+            {"text": "They guarantee higher profits", "image": ""}
+        ],
+        "correct_answer": "They only adjust upward with rising prices"
+    },
+    {
+        "question": "What is the difference between a stop-loss and stop-profit?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss limits gains; stop-profit limits losses", "image": ""},
+            {"text": "Stop-loss minimizes losses; stop-profit locks in gains", "image": ""},
+            {"text": "Stop-loss works in bull markets; stop-profit works in bear markets", "image": ""},
+            {"text": "They are the same order", "image": ""}
+        ],
+        "correct_answer": "Stop-loss minimizes losses; stop-profit locks in gains"
+    },
+    {
+        "question": "If a stock is bought at $100, with a stop-loss at $90 and stop-profit at $120, what happens at $120?",
+        "question_image": "", 
+        "answers": [
+            {"text": "The stock is sold for profit", "image": ""},
+            {"text": "The stock is sold for a loss", "image": ""},
+            {"text": "The stop-loss is canceled", "image": ""},
+            {"text": "The trade is closed with no action", "image": ""}
+        ],
+        "correct_answer": "The stock is sold for profit"
+    },
+    {
+        "question": "What is the primary risk of setting a stop-profit too close to the current price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Missing out on larger gains", "image": ""},
+            {"text": "Incurring higher fees", "image": ""},
+            {"text": "A sudden market dip", "image": ""},
+            {"text": "The stock remains unsold", "image": ""}
+        ],
+        "correct_answer": "Missing out on larger gains"
+    },
+    {
+        "question": "What does a stop-loss at $95 and a stop-profit at $110 ensure for a $100 stock?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Guaranteed profit", "image": ""},
+            {"text": "Loss limited to $5 and gain locked at $10", "image": ""},
+            {"text": "Price stabilization", "image": ""},
+            {"text": "No impact on trading", "image": ""}
+        ],
+        "correct_answer": "Loss limited to $5 and gain locked at $10"
+    },
+    {
+        "question": "Which combination of stop orders is best for managing both risk and reward?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Only stop-loss orders", "image": ""},
+            {"text": "Stop-loss and stop-profit orders", "image": ""},
+            {"text": "Trailing stop-loss only", "image": ""},
+            {"text": "Fixed stop-profit only", "image": ""}
+        ],
+        "correct_answer": "Stop-loss and stop-profit orders"
+    },
+    {
+        "question": "Which is a major advantage of using stop-loss orders?",
+        "question_image": "", 
+        "answers": [
+            {"text": "They ensure automatic trade execution", "image": ""},
+            {"text": "They eliminate the need for brokers", "image": ""},
+            {"text": "They remove emotions from trading decisions", "image": ""},
+            {"text": "They guarantee maximum profit", "image": ""}
+        ],
+        "correct_answer": "They remove emotions from trading decisions"
+    },
+    {
+        "question": "You buy a stock at $100 and set a stop-loss at 5%. What is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$95", "image": ""},
+            {"text": "$90", "image": ""},
+            {"text": "$105", "image": ""},
+            {"text": "$110", "image": ""}
+        ],
+        "correct_answer": "$95"
+    },
+    {
+        "question": "If you want a 10% profit from a $200 stock, what should the stop-profit be?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$220", "image": ""},
+            {"text": "$210", "image": ""},
+            {"text": "$230", "image": ""},
+            {"text": "$205", "image": ""}
+        ],
+        "correct_answer": "$220"
+    },
+    {
+        "question": "You purchase 100 shares at $50. You decide on a 7% stop-loss. What is the stop-loss price per share?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$46.50", "image": ""},
+            {"text": "$47.00", "image": ""},
+            {"text": "$53.50", "image": ""},
+            {"text": "$55.00", "image": ""}
+        ],
+        "correct_answer": "$46.50"
+    },
+    {
+        "question": "If a trader sets a stop-loss at 8% and buys at $120, what is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$110.40", "image": ""},
+            {"text": "$112.80", "image": ""},
+            {"text": "$115.60", "image": ""},
+            {"text": "$100.50", "image": ""}
+        ],
+        "correct_answer": "$110.40"
+    },
+    {
+        "question": "A trader wants to set a stop-profit at 15% above the entry price of $80. What is the stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$92", "image": ""},
+            {"text": "$88", "image": ""},
+            {"text": "$95", "image": ""},
+            {"text": "$90", "image": ""}
+        ],
+        "correct_answer": "$92"
+    },
+    {
+        "question": "You purchase a stock at $75 and place a 6% stop-loss. What is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$70.50", "image": ""},
+            {"text": "$71", "image": ""},
+            {"text": "$80", "image": ""},
+            {"text": "$73.50", "image": ""}
+        ],
+        "correct_answer": "$70.50"
+    },
+    {
+        "question": "If you set a stop-loss at $90 for a stock you bought at $100, what is the percentage loss?",
+        "question_image": "", 
+        "answers": [
+            {"text": "10%", "image": ""},
+            {"text": "9%", "image": ""},
+            {"text": "8%", "image": ""},
+            {"text": "5%", "image": ""}
+        ],
+        "correct_answer": "10%"
+    },
+    {
+        "question": "You bought 100 shares at $50 each and want a 12% stop-profit. What is your stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$56", "image": ""},
+            {"text": "$58", "image": ""},
+            {"text": "$60", "image": ""},
+            {"text": "$55.60", "image": ""}
+        ],
+        "correct_answer": "$56"
+    },
+    {
+        "question": "If you set a trailing stop-loss at 7% for a stock that rises from $50 to $55, what is the new stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$51.65", "image": ""},
+            {"text": "$52.10", "image": ""},
+            {"text": "$50.70", "image": ""},
+            {"text": "$48.50", "image": ""}
+        ],
+        "correct_answer": "$51.65"
+    },
+    {
+        "question": "You bought a stock at $120 and want a 20% profit target. What is the stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$144", "image": ""},
+            {"text": "$140", "image": ""},
+            {"text": "$130", "image": ""},
+            {"text": "$150", "image": ""}
+        ],
+        "correct_answer": "$144"
+    },
+    {
+        "question": "A trader purchases 100 shares at $30 and sets a stop-loss at 4%. What is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$28.80", "image": ""},
+            {"text": "$29", "image": ""},
+            {"text": "$32", "image": ""},
+            {"text": "$33.50", "image": ""}
+        ],
+        "correct_answer": "$28.80"
+    },
+    {
+        "question": "A trader buys 200 shares at $60. If the stop-loss is set at 10%, what is the stop-loss level?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$54", "image": ""},
+            {"text": "$55", "image": ""},
+            {"text": "$56", "image": ""},
+            {"text": "$59", "image": ""}
+        ],
+        "correct_answer": "$54"
+    },
+    {
+        "question": "You buy a stock at $90 and set a stop-profit at 8%. What is your stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$97.20", "image": ""},
+            {"text": "$96.50", "image": ""},
+            {"text": "$95", "image": ""},
+            {"text": "$98", "image": ""}
+        ],
+        "correct_answer": "$97.20"
+    },
+    {
+        "question": "You set a stop-loss for a $200 stock at 10%. What is your stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$180", "image": ""},
+            {"text": "$190", "image": ""},
+            {"text": "$185", "image": ""},
+            {"text": "$175", "image": ""}
+        ],
+        "correct_answer": "$180"
+    },
+    {
+        "question": "If a trader sets a stop-loss at 5% for a stock bought at $120, what is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$114", "image": ""},
+            {"text": "$115", "image": ""},
+            {"text": "$125", "image": ""},
+            {"text": "$116", "image": ""}
+        ],
+        "correct_answer": "$114"
+    },
+    {
+        "question": "You purchase 100 shares at $40 and place a stop-profit at 25%. What is the stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$50", "image": ""},
+            {"text": "$45", "image": ""},
+            {"text": "$52", "image": ""},
+            {"text": "$55", "image": ""}
+        ],
+        "correct_answer": "$50"
+    },
+    {
+        "question": "If you buy a stock at $75 and want to set a stop-loss at 15%, what price should the stop-loss be set at?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$63.75", "image": ""},
+            {"text": "$62", "image": ""},
+            {"text": "$67.50", "image": ""},
+            {"text": "$65", "image": ""}
+        ],
+        "correct_answer": "$63.75"
+    },
+    {
+        "question": "You purchase a stock at $100 and want to set a stop-loss at 7%. What is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$93", "image": ""},
+            {"text": "$94", "image": ""},
+            {"text": "$96", "image": ""},
+            {"text": "$97", "image": ""}
+        ],
+        "correct_answer": "$93"
+    },
+    {
+        "question": "A stock is bought at $150 and the trader wants a 10% stop-loss. What is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$135", "image": ""},
+            {"text": "$140", "image": ""},
+            {"text": "$145", "image": ""},
+            {"text": "$130", "image": ""}
+        ],
+        "correct_answer": "$135"
+    },
+    {
+        "question": "You buy a stock at $50 and set a stop-loss at $45. What is the percentage loss?",
+        "question_image": "", 
+        "answers": [
+            {"text": "10%", "image": ""},
+            {"text": "12%", "image": ""},
+            {"text": "9%", "image": ""},
+            {"text": "8%", "image": ""}
+        ],
+        "correct_answer": "10%"
+    },
+    {
+        "question": "You set a trailing stop-profit at 8% for a stock bought at $70. What is the stop-profit price when the stock rises to $80?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$86.40", "image": ""},
+            {"text": "$88", "image": ""},
+            {"text": "$85", "image": ""},
+            {"text": "$84", "image": ""}
+        ],
+        "correct_answer": "$86.40"
+    },
+    {
+        "question": "You buy a stock at $50, set a 6% stop-loss, and it drops to $47. What is your stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$47", "image": ""},
+            {"text": "$46.50", "image": ""},
+            {"text": "$45", "image": ""},
+            {"text": "$48", "image": ""}
+        ],
+        "correct_answer": "$47"
+    },
+    {
+        "question": "What is the percentage gain if a stock bought at $60 rises to $72, with a stop-profit of 20%?",
+        "question_image": "", 
+        "answers": [
+            {"text": "20%", "image": ""},
+            {"text": "15%", "image": ""},
+            {"text": "30%", "image": ""},
+            {"text": "25%", "image": ""}
+        ],
+        "correct_answer": "20%"
+    },
+    {
+        "question": "You buy a stock at $200 and set a stop-loss at $190. What is your percentage loss?",
+        "question_image": "", 
+        "answers": [
+            {"text": "5%", "image": ""},
+            {"text": "7%", "image": ""},
+            {"text": "6%", "image": ""},
+            {"text": "4%", "image": ""}
+        ],
+        "correct_answer": "5%"
+    },
+    {
+        "question": "If you buy 100 shares at $50 each and want a 10% stop-profit, what is your stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$55", "image": ""},
+            {"text": "$52", "image": ""},
+            {"text": "$60", "image": ""},
+            {"text": "$53", "image": ""}
+        ],
+        "correct_answer": "$55"
+    },
+    {
+        "question": "If the stop-loss is set at 10% below a $60 stock price, what is the stop-loss price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$54", "image": ""},
+            {"text": "$55", "image": ""},
+            {"text": "$52", "image": ""},
+            {"text": "$51", "image": ""}
+        ],
+        "correct_answer": "$54"
+    },
+    {
+        "question": "You buy a stock at $100 and decide to set a 5% stop-loss and a 20% stop-profit. What is the expected risk-to-reward ratio?",
+        "question_image": "", 
+        "answers": [
+            {"text": "1:4", "image": ""},
+            {"text": "1:5", "image": ""},
+            {"text": "1:3", "image": ""},
+            {"text": "1:2", "image": ""}
+        ],
+        "correct_answer": "1:4"
+    },
+    {
+        "question": "If you set a 7% stop-loss and a 30% stop-profit, what is your risk-to-reward ratio for this trade?",
+        "question_image": "", 
+        "answers": [
+            {"text": "1:3", "image": ""},
+            {"text": "1:4", "image": ""},
+            {"text": "1:5", "image": ""},
+            {"text": "1:6", "image": ""}
+        ],
+        "correct_answer": "1:4"
+    },
+    {
+        "question": "You have a strategy that uses a 3% stop-loss and a 15% stop-profit. Over 100 trades, how much greater is the potential reward compared to the risk?",
+        "question_image": "", 
+        "answers": [
+            {"text": "5 times the risk", "image": ""},
+            {"text": "4 times the risk", "image": ""},
+            {"text": "3 times the risk", "image": ""},
+            {"text": "6 times the risk", "image": ""}
+        ],
+        "correct_answer": "5 times the risk"
+    },
+    {
+        "question": "A stock’s price is $50. You set a 4% stop-loss and a 20% stop-profit. What would your stop-profit price be?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$60", "image": ""},
+            {"text": "$58", "image": ""},
+            {"text": "$70", "image": ""},
+            {"text": "$55", "image": ""}
+        ],
+        "correct_answer": "$60"
+    },
+    {
+        "question": "You set a 2% stop-loss and a 10% stop-profit. How many times should your stop-profit exceed the stop-loss for each winning trade to make a net profit over time?",
+        "question_image": "", 
+        "answers": [
+            {"text": "5 times", "image": ""},
+            {"text": "4 times", "image": ""},
+            {"text": "2 times", "image": ""},
+            {"text": "3 times", "image": ""}
+        ],
+        "correct_answer": "5 times"
+    },
+    {
+        "question": "If you buy a stock at $100 and set a 3% stop-loss with a 12% stop-profit, how much would your profit be if the stock hits your stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$12", "image": ""},
+            {"text": "$10", "image": ""},
+            {"text": "$15", "image": ""},
+            {"text": "$20", "image": ""}
+        ],
+        "correct_answer": "$12"
+    },
+    {
+        "question": "You buy a stock at $80, with a stop-loss at $76 and a stop-profit target at $96. What is your risk-to-reward ratio?",
+        "question_image": "", 
+        "answers": [
+            {"text": "1:5", "image": ""},
+            {"text": "1:4", "image": ""},
+            {"text": "1:3", "image": ""},
+            {"text": "1:2", "image": ""}
+        ],
+        "correct_answer": "1:5"
+    },
+    {
+        "question": "You set a 6% stop-loss and a 24% stop-profit for a stock you buy at $200. What is the expected profit if the stock reaches your stop-profit target?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$48", "image": ""},
+            {"text": "$50", "image": ""},
+            {"text": "$40", "image": ""},
+            {"text": "$45", "image": ""}
+        ],
+        "correct_answer": "$48"
+    },
+    {
+        "question": "For a stock bought at $100, you use a 3% stop-loss and a 15% stop-profit. What is your potential profit if the stock hits the stop-profit target?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$15", "image": ""},
+            {"text": "$12", "image": ""},
+            {"text": "$10", "image": ""},
+            {"text": "$20", "image": ""}
+        ],
+        "correct_answer": "$15"
+    },
+    {
+        "question": "With a 1% stop-loss and a 5% stop-profit, how much should your stop-profit be to ensure a positive risk-to-reward ratio over time?",
+        "question_image": "", 
+        "answers": [
+            {"text": "5 times the risk", "image": ""},
+            {"text": "4 times the risk", "image": ""},
+            {"text": "3 times the risk", "image": ""},
+            {"text": "2 times the risk", "image": ""}
+        ],
+        "correct_answer": "5 times the risk"
+    },
+    {
+        "question": "You buy a stock at $50, with a 4% stop-loss and a 16% stop-profit. What is your risk-to-reward ratio?",
+        "question_image": "", 
+        "answers": [
+            {"text": "1:4", "image": ""},
+            {"text": "1:3", "image": ""},
+            {"text": "1:5", "image": ""},
+            {"text": "1:2", "image": ""}
+        ],
+        "correct_answer": "1:4"
+    },
+    {
+        "question": "If you set a stop-loss at 3% and a stop-profit at 12%, what is the risk-to-reward ratio for the trade?",
+        "question_image": "", 
+        "answers": [
+            {"text": "1:3", "image": ""},
+            {"text": "1:4", "image": ""},
+            {"text": "1:2", "image": ""},
+            {"text": "1:5", "image": ""}
+        ],
+        "correct_answer": "1:4"
+    },
+    {
+        "question": "You set a 2% stop-loss and a 10% stop-profit for a stock purchased at $200. What would the stock price be when it hits your stop-profit?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$220", "image": ""},
+            {"text": "$210", "image": ""},
+            {"text": "$205", "image": ""},
+            {"text": "$230", "image": ""}
+        ],
+        "correct_answer": "$220"
+    },
+    {
+        "question": "If a stock is purchased at $75, and you set a 3% stop-loss and a 15% stop-profit, how much profit would you make if the stock reaches the stop-profit price?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$11.25", "image": ""},
+            {"text": "$10", "image": ""},
+            {"text": "$12", "image": ""},
+            {"text": "$13", "image": ""}
+        ],
+        "correct_answer": "$11.25"
+    },
+    {
+        "question": "A stock bought at $150 has a 5% stop-loss and a 25% stop-profit. What is your expected reward if the stock hits your stop-profit target?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$37.50", "image": ""},
+            {"text": "$40", "image": ""},
+            {"text": "$35", "image": ""},
+            {"text": "$45", "image": ""}
+        ],
+        "correct_answer": "$37.50"
+    },
+    {
+        "question": "You buy a stock at $200, with a stop-loss at $190 and a stop-profit at $240. What is the risk-to-reward ratio?",
+        "question_image": "", 
+        "answers": [
+            {"text": "1:4", "image": ""},
+            {"text": "1:3", "image": ""},
+            {"text": "1:5", "image": ""},
+            {"text": "1:2", "image": ""}
+        ],
+        "correct_answer": "1:4"
+    },
+    {
+        "question": "You are trading a stock with a 3% stop-loss and a 15% stop-profit. If you make 50 trades and win 60% of the time, what will be your overall profit factor?",
+        "question_image": "", 
+        "answers": [
+            {"text": "5.0", "image": ""},
+            {"text": "4.0", "image": ""},
+            {"text": "6.0", "image": ""},
+            {"text": "3.0", "image": ""}
+        ],
+        "correct_answer": "5.0"
+    },
+    {
+        "question": "You purchase a stock at $120, setting a stop-loss at 4% and a stop-profit at 16%. What is the stop-profit price for this stock?",
+        "question_image": "", 
+        "answers": [
+            {"text": "$139.20", "image": ""},
+            {"text": "$135.20", "image": ""},
+            {"text": "$140", "image": ""},
+            {"text": "$130", "image": ""}
+        ],
+        "correct_answer": "$139.20"
+    },
+    {
+        "question": "You are trading a stock that recently formed a bullish engulfing pattern on the daily chart. The stock is currently at $150. If you set a stop-loss at 3% below the entry price and a stop-profit at 15%, what are your target prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $145.50, Stop-profit at $172.50", "image": ""},
+            {"text": "Stop-loss at $145, Stop-profit at $165", "image": ""},
+            {"text": "Stop-loss at $148, Stop-profit at $172", "image": ""},
+            {"text": "Stop-loss at $140, Stop-profit at $180", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $145.50, Stop-profit at $172.50"
+    },
+    {
+        "question": "You observe a double bottom pattern forming on a stock chart, and the stock price is $80. You decide to place a 4% stop-loss and a 20% stop-profit based on the breakout above resistance. What are the stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $76.80, Stop-profit at $96", "image": ""},
+            {"text": "Stop-loss at $78, Stop-profit at $96", "image": ""},
+            {"text": "Stop-loss at $79, Stop-profit at $98", "image": ""},
+            {"text": "Stop-loss at $75, Stop-profit at $95", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $76.80, Stop-profit at $96"
+    },
+    {
+        "question": "A stock shows a strong upward momentum after forming a hammer candlestick pattern at support. You buy the stock at $120. If you set a 3% stop-loss and a 12% stop-profit, what are your stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $116.40, Stop-profit at $134.40", "image": ""},
+            {"text": "Stop-loss at $118, Stop-profit at $134", "image": ""},
+            {"text": "Stop-loss at $115, Stop-profit at $133", "image": ""},
+            {"text": "Stop-loss at $117, Stop-profit at $132", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $116.40, Stop-profit at $134.40"
+    },
+    {
+        "question": "After observing a rising wedge pattern, you decide to short a stock at $60. You set a 5% stop-loss and a 15% stop-profit. What are the stop-loss and stop-profit prices for this trade?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $63, Stop-profit at $51", "image": ""},
+            {"text": "Stop-loss at $62, Stop-profit at $54", "image": ""},
+            {"text": "Stop-loss at $65, Stop-profit at $52", "image": ""},
+            {"text": "Stop-loss at $64, Stop-profit at $56", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $63, Stop-profit at $51"
+    },
+    {
+        "question": "You spot a bullish breakout from a symmetrical triangle pattern, and the stock is currently trading at $75. You set a 3% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit targets?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $72.75, Stop-profit at $90", "image": ""},
+            {"text": "Stop-loss at $73, Stop-profit at $88", "image": ""},
+            {"text": "Stop-loss at $74.25, Stop-profit at $90", "image": ""},
+            {"text": "Stop-loss at $74, Stop-profit at $92", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $72.75, Stop-profit at $90"
+    },
+    {
+        "question": "You identify a head and shoulders reversal pattern, and the stock price is $200. If you enter the trade after the breakdown, with a 4% stop-loss and a 16% stop-profit, what are the stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $208, Stop-profit at $168", "image": ""},
+            {"text": "Stop-loss at $205, Stop-profit at $170", "image": ""},
+            {"text": "Stop-loss at $210, Stop-profit at $170", "image": ""},
+            {"text": "Stop-loss at $206, Stop-profit at $172", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $208, Stop-profit at $168"
+    },
+    {
+        "question": "A stock forms a bullish flag pattern with a breakout at $50. You set a stop-loss at 5% and a stop-profit at 20%. What are your stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $47.50, Stop-profit at $60", "image": ""},
+            {"text": "Stop-loss at $48, Stop-profit at $62", "image": ""},
+            {"text": "Stop-loss at $46, Stop-profit at $59", "image": ""},
+            {"text": "Stop-loss at $49, Stop-profit at $58", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $47.50, Stop-profit at $60"
+    },
+    {
+        "question": "You identify a morning star candlestick pattern at support and decide to buy at $40. You set a 4% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $38.40, Stop-profit at $48", "image": ""},
+            {"text": "Stop-loss at $39, Stop-profit at $50", "image": ""},
+            {"text": "Stop-loss at $38, Stop-profit at $49", "image": ""},
+            {"text": "Stop-loss at $37.50, Stop-profit at $47", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $38.40, Stop-profit at $48"
+    },
+    {
+        "question": "A stock shows a descending triangle pattern, and you plan to short the stock at $90. If you set a 5% stop-loss and a 15% stop-profit, what are your stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $94.50, Stop-profit at $76.50", "image": ""},
+            {"text": "Stop-loss at $93, Stop-profit at $78", "image": ""},
+            {"text": "Stop-loss at $95, Stop-profit at $79", "image": ""},
+            {"text": "Stop-loss at $92, Stop-profit at $75", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $94.50, Stop-profit at $76.50"
+    },
+    {
+        "question": "You notice a strong bullish trend with higher highs and higher lows. The stock is trading at $60, and you set a 3% stop-loss and a 20% stop-profit. What are your target prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $58.20, Stop-profit at $72", "image": ""},
+            {"text": "Stop-loss at $58, Stop-profit at $70", "image": ""},
+            {"text": "Stop-loss at $59, Stop-profit at $74", "image": ""},
+            {"text": "Stop-loss at $59.40, Stop-profit at $71", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $58.20, Stop-profit at $72"
+    },
+    {
+        "question": "After observing a doji candlestick pattern at the top of an uptrend, you decide to enter a short position at $100. You set a 3% stop-loss and a 12% stop-profit. What are the stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $103, Stop-profit at $88", "image": ""},
+            {"text": "Stop-loss at $104, Stop-profit at $90", "image": ""},
+            {"text": "Stop-loss at $102, Stop-profit at $85", "image": ""},
+            {"text": "Stop-loss at $101, Stop-profit at $89", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $103, Stop-profit at $88"
+    },
+    {
+        "question": "You spot a bullish flag pattern and decide to buy a stock at $30. You set a 4% stop-loss and a 20% stop-profit. What are your target prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $28.80, Stop-profit at $36", "image": ""},
+            {"text": "Stop-loss at $29, Stop-profit at $35", "image": ""},
+            {"text": "Stop-loss at $29.50, Stop-profit at $37", "image": ""},
+            {"text": "Stop-loss at $29, Stop-profit at $38", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $28.80, Stop-profit at $36"
+    },
+    {
+        "question": "A stock has formed a descending wedge pattern and is trading at $120. You decide to enter a short position with a 5% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $126, Stop-profit at $102", "image": ""},
+            {"text": "Stop-loss at $125, Stop-profit at $104", "image": ""},
+            {"text": "Stop-loss at $127, Stop-profit at $100", "image": ""},
+            {"text": "Stop-loss at $124, Stop-profit at $103", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $126, Stop-profit at $102"
+    },
+    {
+        "question": "You observe a reversal candlestick pattern at support, and the stock is currently at $50. You set a 3% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "", 
+        "answers": [
+            {"text": "Stop-loss at $48.50, Stop-profit at $57.50", "image": ""},
+            {"text": "Stop-loss at $48, Stop-profit at $58", "image": ""},
+            {"text": "Stop-loss at $47.50, Stop-profit at $57", "image": ""},
+            {"text": "Stop-loss at $49, Stop-profit at $56", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $48.50, Stop-profit at $57.50"
+    },
+    {
+        "question": "You observe a bullish engulfing candlestick pattern at support and decide to enter a long position at $150. You set a 3% stop-loss and a 12% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $145.50, Stop-profit at $168", "image": ""},
+            {"text": "Stop-loss at $146, Stop-profit at $168", "image": ""},
+            {"text": "Stop-loss at $147, Stop-profit at $164", "image": ""},
+            {"text": "Stop-loss at $148, Stop-profit at $165", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $145.50, Stop-profit at $168"
+    },
+    {
+        "question": "A stock forms a double top pattern, and you decide to short the stock at $110. You set a 4% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $114.40, Stop-profit at $93.50", "image": ""},
+            {"text": "Stop-loss at $112, Stop-profit at $92", "image": ""},
+            {"text": "Stop-loss at $115, Stop-profit at $95", "image": ""},
+            {"text": "Stop-loss at $113, Stop-profit at $94", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $114.40, Stop-profit at $93.50"
+    },
+    {
+        "question": "A stock forms a hammer candlestick at support. You decide to buy the stock at $80, setting a 5% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $76, Stop-profit at $96", "image": ""},
+            {"text": "Stop-loss at $76.50, Stop-profit at $94", "image": ""},
+            {"text": "Stop-loss at $77, Stop-profit at $97", "image": ""},
+            {"text": "Stop-loss at $75, Stop-profit at $95", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $76, Stop-profit at $96"
+    },
+    {
+        "question": "You spot a descending triangle pattern on the chart, and the stock is trading at $120. You decide to short the stock with a 4% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $124.80, Stop-profit at $102", "image": ""},
+            {"text": "Stop-loss at $123, Stop-profit at $104", "image": ""},
+            {"text": "Stop-loss at $125, Stop-profit at $110", "image": ""},
+            {"text": "Stop-loss at $126, Stop-profit at $106", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $124.80, Stop-profit at $102"
+    },
+    {
+        "question": "A stock shows a clear breakout above resistance with a flag pattern forming. The stock price is $65. You set a 3% stop-loss and a 12% stop-profit. What are the stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $63.05, Stop-profit at $72.80", "image": ""},
+            {"text": "Stop-loss at $63, Stop-profit at $72", "image": ""},
+            {"text": "Stop-loss at $62, Stop-profit at $73", "image": ""},
+            {"text": "Stop-loss at $62.50, Stop-profit at $71", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $63.05, Stop-profit at $72.80"
+    },
+    {
+        "question": "You observe a bullish flag pattern, and the stock price is $50. You decide to buy and set a 4% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $48, Stop-profit at $60", "image": ""},
+            {"text": "Stop-loss at $48.50, Stop-profit at $59", "image": ""},
+            {"text": "Stop-loss at $49, Stop-profit at $61", "image": ""},
+            {"text": "Stop-loss at $49.50, Stop-profit at $62", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $48, Stop-profit at $60"
+    },
+    {
+        "question": "A stock forms an inverse head and shoulders pattern, and the price is currently at $40. You set a 5% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $38, Stop-profit at $46", "image": ""},
+            {"text": "Stop-loss at $38.50, Stop-profit at $47", "image": ""},
+            {"text": "Stop-loss at $39, Stop-profit at $45", "image": ""},
+            {"text": "Stop-loss at $39.50, Stop-profit at $47.50", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $38, Stop-profit at $46"
+    },
+    {
+        "question": "After observing a doji candlestick at the top of an uptrend, you decide to short the stock at $95. You set a 4% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $98, Stop-profit at $80.75", "image": ""},
+            {"text": "Stop-loss at $96, Stop-profit at $81.25", "image": ""},
+            {"text": "Stop-loss at $99, Stop-profit at $82", "image": ""},
+            {"text": "Stop-loss at $97, Stop-profit at $81", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $98, Stop-profit at $80.75"
+    },
+    {
+        "question": "You notice a bullish candlestick reversal pattern after a period of consolidation, and the stock price is $55. You set a 3% stop-loss and a 12% stop-profit. What are the stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $53.35, Stop-profit at $61.60", "image": ""},
+            {"text": "Stop-loss at $53, Stop-profit at $61", "image": ""},
+            {"text": "Stop-loss at $54, Stop-profit at $60", "image": ""},
+            {"text": "Stop-loss at $54.50, Stop-profit at $62", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $53.35, Stop-profit at $61.60"
+    },
+    {
+        "question": "You spot a symmetrical triangle breakout, and the stock price is $90. You set a 5% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $85.50, Stop-profit at $108", "image": ""},
+            {"text": "Stop-loss at $86, Stop-profit at $107", "image": ""},
+            {"text": "Stop-loss at $87, Stop-profit at $110", "image": ""},
+            {"text": "Stop-loss at $88, Stop-profit at $109", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $85.50, Stop-profit at $108"
+    },
+    {
+        "question": "You spot a strong uptrend in a stock that has recently pulled back, forming a bullish flag pattern. The stock price is currently at $120. You decide to set a 3% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $116.40, Stop-profit at $144", "image": ""},
+            {"text": "Stop-loss at $116, Stop-profit at $144.50", "image": ""},
+            {"text": "Stop-loss at $117, Stop-profit at $146", "image": ""},
+            {"text": "Stop-loss at $115.50, Stop-profit at $143", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $116.40, Stop-profit at $144"
+    },
+    {
+        "question": "After identifying a reversal candlestick pattern at support, you decide to enter a long position at $65. You set a 4% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $62.40, Stop-profit at $74.75", "image": ""},
+            {"text": "Stop-loss at $62.50, Stop-profit at $74", "image": ""},
+            {"text": "Stop-loss at $63, Stop-profit at $75", "image": ""},
+            {"text": "Stop-loss at $63.25, Stop-profit at $73", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $62.40, Stop-profit at $74.75"
+    },
+    {
+        "question": "You observe a bullish engulfing candlestick pattern at support, and the stock is priced at $50. You decide to buy with a 3% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $48.50, Stop-profit at $57.50", "image": ""},
+            {"text": "Stop-loss at $49, Stop-profit at $58", "image": ""},
+            {"text": "Stop-loss at $49.50, Stop-profit at $57", "image": ""},
+            {"text": "Stop-loss at $48, Stop-profit at $56.50", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $48.50, Stop-profit at $57.50"
+    },
+    {
+        "question": "A stock forms a double bottom pattern, and the price is at $80. You enter a long position with a 4% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $76.80, Stop-profit at $96", "image": ""},
+            {"text": "Stop-loss at $77, Stop-profit at $95", "image": ""},
+            {"text": "Stop-loss at $76, Stop-profit at $94", "image": ""},
+            {"text": "Stop-loss at $75.50, Stop-profit at $97", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $76.80, Stop-profit at $96"
+    },
+    {
+        "question": "You see a doji candlestick at the top of a bullish trend, indicating a potential reversal. The stock price is $60. You decide to short with a 5% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $63, Stop-profit at $51", "image": ""},
+            {"text": "Stop-loss at $62, Stop-profit at $52", "image": ""},
+            {"text": "Stop-loss at $61.50, Stop-profit at $53", "image": ""},
+            {"text": "Stop-loss at $64, Stop-profit at $50", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $63, Stop-profit at $51"
+    },
+    {
+        "question": "A stock forms an ascending triangle, and the price is $90. You decide to buy with a 4% stop-loss and a 18% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $86.40, Stop-profit at $106.20", "image": ""},
+            {"text": "Stop-loss at $86, Stop-profit at $106", "image": ""},
+            {"text": "Stop-loss at $87, Stop-profit at $107", "image": ""},
+            {"text": "Stop-loss at $85, Stop-profit at $105", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $86.40, Stop-profit at $106.20"
+    },
+    {
+        "question": "You observe a hammer candlestick at the bottom of a downtrend, and the stock is priced at $30. You set a 3% stop-loss and a 12% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $29.10, Stop-profit at $33.60", "image": ""},
+            {"text": "Stop-loss at $29.50, Stop-profit at $33.40", "image": ""},
+            {"text": "Stop-loss at $29.80, Stop-profit at $33", "image": ""},
+            {"text": "Stop-loss at $30, Stop-profit at $34", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $29.10, Stop-profit at $33.60"
+    },
+    {
+    "question": "You spot a doji candlestick at the top of a strong uptrend, signaling potential reversal. The stock price is $72. You decide to short with a 4% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+    "question_image": "",
+    "answers": [
+        {"text": "Stop-loss at $74.88, Stop-profit at $61.20", "image": ""},
+        {"text": "Stop-loss at $74, Stop-profit at $60", "image": ""},
+        {"text": "Stop-loss at $75, Stop-profit at $61.50", "image": ""},
+        {"text": "Stop-loss at $73.50, Stop-profit at $61", "image": ""}
+    ],
+    "correct_answer": "Stop-loss at $74.88, Stop-profit at $61.20"
+    },
+    {
+        "question": "You identify a head and shoulders pattern forming at the top of an uptrend, with the stock at $110. You decide to short with a 5% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $115.50, Stop-profit at $88", "image": ""},
+            {"text": "Stop-loss at $114, Stop-profit at $89", "image": ""},
+            {"text": "Stop-loss at $116, Stop-profit at $90", "image": ""},
+            {"text": "Stop-loss at $117, Stop-profit at $87", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $115.50, Stop-profit at $88"
+    },
+    {
+        "question": "You spot a bullish reversal candlestick pattern at $55 after a brief pullback. You set a 3% stop-loss and a 18% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $53.35, Stop-profit at $64.90", "image": ""},
+            {"text": "Stop-loss at $54, Stop-profit at $64", "image": ""},
+            {"text": "Stop-loss at $54.50, Stop-profit at $64.50", "image": ""},
+            {"text": "Stop-loss at $53, Stop-profit at $63.50", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $53.35, Stop-profit at $64.90"
+    },
+    {
+        "question": "A stock forms a bearish engulfing candlestick at resistance, and the stock is currently at $100. You decide to short with a 4% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $104, Stop-profit at $85", "image": ""},
+            {"text": "Stop-loss at $105, Stop-profit at $86", "image": ""},
+            {"text": "Stop-loss at $103, Stop-profit at $87", "image": ""},
+            {"text": "Stop-loss at $106, Stop-profit at $88", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $104, Stop-profit at $85"
+    },
+    {
+        "question": "You observe a symmetrical triangle forming with the price at $75. You decide to buy with a 5% stop-loss and a 18% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $71.25, Stop-profit at $88.50", "image": ""},
+            {"text": "Stop-loss at $72, Stop-profit at $88", "image": ""},
+            {"text": "Stop-loss at $73, Stop-profit at $87", "image": ""},
+            {"text": "Stop-loss at $71, Stop-profit at $89", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $71.25, Stop-profit at $88.50"
+    },
+    {
+        "question": "You spot a bullish flag pattern, and the price of the stock is $40. You set a 4% stop-loss and a 20% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $38.40, Stop-profit at $48", "image": ""},
+            {"text": "Stop-loss at $38, Stop-profit at $48.50", "image": ""},
+            {"text": "Stop-loss at $39, Stop-profit at $47", "image": ""},
+            {"text": "Stop-loss at $37.50, Stop-profit at $49", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $38.40, Stop-profit at $48"
+    },
+    {
+        "question": "You notice a cup and handle pattern forming, with the stock at $120. You set a 3% stop-loss and a 15% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $116.40, Stop-profit at $138", "image": ""},
+            {"text": "Stop-loss at $116, Stop-profit at $138.50", "image": ""},
+            {"text": "Stop-loss at $117, Stop-profit at $139", "image": ""},
+            {"text": "Stop-loss at $115.50, Stop-profit at $137", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $116.40, Stop-profit at $138"
+    },
+    {
+        "question": "A stock forms a rising wedge pattern, and the price is $85. You decide to short the stock with a 5% stop-loss and a 18% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $89.25, Stop-profit at $69.70", "image": ""},
+            {"text": "Stop-loss at $89, Stop-profit at $70", "image": ""},
+            {"text": "Stop-loss at $88.50, Stop-profit at $71", "image": ""},
+            {"text": "Stop-loss at $90, Stop-profit at $68", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $89.25, Stop-profit at $69.70"
+    },
+    {
+        "question": "You observe a morning star pattern at a support level, and the stock is priced at $45. You set a 4% stop-loss and a 12% stop-profit. What are your stop-loss and stop-profit prices?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stop-loss at $43.20, Stop-profit at $50.40", "image": ""},
+            {"text": "Stop-loss at $43.50, Stop-profit at $50", "image": ""},
+            {"text": "Stop-loss at $44, Stop-profit at $51", "image": ""},
+            {"text": "Stop-loss at $43.10, Stop-profit at $50.50", "image": ""}
+        ],
+        "correct_answer": "Stop-loss at $43.20, Stop-profit at $50.40"
+    }
+]
