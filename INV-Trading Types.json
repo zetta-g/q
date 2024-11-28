@@ -1,0 +1,1256 @@
+[
+    {
+        "question": "What is the typical time frame for swing trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "A few seconds", "image": ""},
+            {"text": "A few hours", "image": ""},
+            {"text": "A few days to weeks", "image": ""},
+            {"text": "A few months", "image": ""}
+        ],
+        "correct_answer": "A few days to weeks"
+    },
+    {
+        "question": "Swing trading is most effective in which type of market condition?",
+        "question_image": "",
+        "answers": [
+            {"text": "Highly volatile markets", "image": ""},
+            {"text": "Sideways markets", "image": ""},
+            {"text": "Trending markets", "image": ""},
+            {"text": "Markets with low liquidity", "image": ""}
+        ],
+        "correct_answer": "Trending markets"
+    },
+    {
+        "question": "What is the primary goal of swing trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Profit from intraday price movements", "image": ""},
+            {"text": "Profit from short-term price swings", "image": ""},
+            {"text": "Profit from long-term investments", "image": ""},
+            {"text": "Avoid market risks entirely", "image": ""}
+        ],
+        "correct_answer": "Profit from short-term price swings"
+    },
+    {
+        "question": "Swing traders usually rely on which type of analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Fundamental analysis only", "image": ""},
+            {"text": "Sentiment analysis", "image": ""},
+            {"text": "Technical analysis", "image": ""},
+            {"text": "Seasonal trends", "image": ""}
+        ],
+        "correct_answer": "Technical analysis"
+    },
+    {
+        "question": "What type of stop-loss strategy is common in swing trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Tight stop-loss close to entry price", "image": ""},
+            {"text": "Wide stop-loss to allow for price swings", "image": ""},
+            {"text": "No stop-loss", "image": ""},
+            {"text": "Automatic trailing stop", "image": ""}
+        ],
+        "correct_answer": "Wide stop-loss to allow for price swings"
+    },
+    {
+        "question": "What defines day trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding trades for a week", "image": ""},
+            {"text": "Holding trades overnight", "image": ""},
+            {"text": "Closing all positions within the same trading day", "image": ""},
+            {"text": "Holding positions for months", "image": ""}
+        ],
+        "correct_answer": "Closing all positions within the same trading day"
+    },
+    {
+        "question": "What is the main advantage of day trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Tax benefits", "image": ""},
+            {"text": "Avoiding overnight risk", "image": ""},
+            {"text": "Long-term capital gains", "image": ""},
+            {"text": "High dividend yields", "image": ""}
+        ],
+        "correct_answer": "Avoiding overnight risk"
+    },
+    {
+        "question": "Which of the following is a critical skill for day traders?",
+        "question_image": "",
+        "answers": [
+            {"text": "Reading annual reports", "image": ""},
+            {"text": "Quick decision-making", "image": ""},
+            {"text": "Building diversified portfolios", "image": ""},
+            {"text": "Market trend forecasting for years", "image": ""}
+        ],
+        "correct_answer": "Quick decision-making"
+    },
+    {
+        "question": "Day traders aim to profit from which type of market movements?",
+        "question_image": "",
+        "answers": [
+            {"text": "Fundamental changes", "image": ""},
+            {"text": "Small intraday price changes", "image": ""},
+            {"text": "Long-term growth", "image": ""},
+            {"text": "Dividends", "image": ""}
+        ],
+        "correct_answer": "Small intraday price changes"
+    },
+    {
+        "question": "Which of these is a common tool for day traders?",
+        "question_image": "",
+        "answers": [
+            {"text": "Moving averages", "image": ""},
+            {"text": "Credit analysis reports", "image": ""},
+            {"text": "Dividend payout schedules", "image": ""},
+            {"text": "Earnings calls", "image": ""}
+        ],
+        "correct_answer": "Moving averages"
+    },
+    {
+        "question": "Intraday trading requires traders to close all positions by what time?",
+        "question_image": "",
+        "answers": [
+            {"text": "End of the trading day", "image": ""},
+            {"text": "End of the month", "image": ""},
+            {"text": "At any time of their choice", "image": ""},
+            {"text": "After 24 hours", "image": ""}
+        ],
+        "correct_answer": "End of the trading day"
+    },
+    {
+        "question": "What is a key characteristic of intraday trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding stocks overnight", "image": ""},
+            {"text": "Leveraging margin", "image": ""},
+            {"text": "Investing in mutual funds", "image": ""},
+            {"text": "Minimal trading volume", "image": ""}
+        ],
+        "correct_answer": "Leveraging margin"
+    },
+    {
+        "question": "What is the biggest risk in intraday trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Overnight risk", "image": ""},
+            {"text": "Slippage", "image": ""},
+            {"text": "Inflation risk", "image": ""},
+            {"text": "Diversification risk", "image": ""}
+        ],
+        "correct_answer": "Slippage"
+    },
+    {
+        "question": "Which indicator is often used in intraday trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Moving averages", "image": ""},
+            {"text": "Bollinger Bands", "image": ""},
+            {"text": "Debt-to-equity ratio", "image": ""},
+            {"text": "Earnings growth", "image": ""}
+        ],
+        "correct_answer": "Bollinger Bands"
+    },
+    {
+        "question": "In intraday trading, which market trend is preferred?",
+        "question_image": "",
+        "answers": [
+            {"text": "Highly volatile markets", "image": ""},
+            {"text": "Slow-moving markets", "image": ""},
+            {"text": "Stable markets", "image": ""},
+            {"text": "Markets with no movement", "image": ""}
+        ],
+        "correct_answer": "Highly volatile markets"
+    },
+    {
+        "question": "What is positional trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding positions for seconds", "image": ""},
+            {"text": "Holding positions for months or years", "image": ""},
+            {"text": "Closing all trades within a day", "image": ""},
+            {"text": "Speculating on penny stocks", "image": ""}
+        ],
+        "correct_answer": "Holding positions for months or years"
+    },
+    {
+        "question": "What is the main goal of positional trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Exploit intraday volatility", "image": ""},
+            {"text": "Capitalize on short-term swings", "image": ""},
+            {"text": "Maximize long-term growth", "image": ""},
+            {"text": "Avoid long-term risks", "image": ""}
+        ],
+        "correct_answer": "Maximize long-term growth"
+    },
+    {
+        "question": "What type of analysis do positional traders typically use?",
+        "question_image": "",
+        "answers": [
+            {"text": "Technical analysis only", "image": ""},
+            {"text": "Fundamental analysis", "image": ""},
+            {"text": "Sentiment analysis", "image": ""},
+            {"text": "Seasonal analysis", "image": ""}
+        ],
+        "correct_answer": "Fundamental analysis"
+    },
+    {
+        "question": "Which type of investor is most likely to use positional trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Risk-averse investors", "image": ""},
+            {"text": "Momentum traders", "image": ""},
+            {"text": "Scalpers", "image": ""},
+            {"text": "Arbitrageurs", "image": ""}
+        ],
+        "correct_answer": "Risk-averse investors"
+    },
+    {
+        "question": "What is a common risk in positional trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Low liquidity", "image": ""},
+            {"text": "Overnight risk", "image": ""},
+            {"text": "Sudden margin calls", "image": ""},
+            {"text": "Broker commissions", "image": ""}
+        ],
+        "correct_answer": "Overnight risk"
+    },
+    {
+        "question": "What is scalping in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding positions for weeks", "image": ""},
+            {"text": "Making small profits from quick trades", "image": ""},
+            {"text": "Investing in long-term bonds", "image": ""},
+            {"text": "Buying and holding dividend stocks", "image": ""}
+        ],
+        "correct_answer": "Making small profits from quick trades"
+    },
+    {
+        "question": "Which type of market is ideal for scalping?",
+        "question_image": "",
+        "answers": [
+            {"text": "Highly liquid markets", "image": ""},
+            {"text": "Low-volatility markets", "image": ""},
+            {"text": "Illiquid markets", "image": ""},
+            {"text": "Emerging markets", "image": ""}
+        ],
+        "correct_answer": "Highly liquid markets"
+    },
+    {
+        "question": "What is a common timeframe for scalping trades?",
+        "question_image": "",
+        "answers": [
+            {"text": "Hours", "image": ""},
+            {"text": "Minutes to seconds", "image": ""},
+            {"text": "Days", "image": ""},
+            {"text": "Weeks", "image": ""}
+        ],
+        "correct_answer": "Minutes to seconds"
+    },
+    {
+        "question": "Scalpers focus on which type of price movement?",
+        "question_image": "",
+        "answers": [
+            {"text": "Large trends", "image": ""},
+            {"text": "Tiny price fluctuations", "image": ""},
+            {"text": "Fundamental shifts", "image": ""},
+            {"text": "Economic cycles", "image": ""}
+        ],
+        "correct_answer": "Tiny price fluctuations"
+    },
+    {
+        "question": "What tool is critical for scalpers?",
+        "question_image": "",
+        "answers": [
+            {"text": "High-speed trading platforms", "image": ""},
+            {"text": "Dividend reinvestment plans", "image": ""},
+            {"text": "Fundamental company reports", "image": ""},
+            {"text": "Real estate data", "image": ""}
+        ],
+        "correct_answer": "High-speed trading platforms"
+    },
+    {
+        "question": "What is the primary goal of arbitrage trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Long-term investment", "image": ""},
+            {"text": "Profiting from market inefficiencies", "image": ""},
+            {"text": "Short-term speculation", "image": ""},
+            {"text": "Building diversified portfolios", "image": ""}
+        ],
+        "correct_answer": "Profiting from market inefficiencies"
+    },
+    {
+        "question": "Which of the following is an example of arbitrage?",
+        "question_image": "",
+        "answers": [
+            {"text": "Buying a stock and holding for dividends", "image": ""},
+            {"text": "Buying in one market and selling in another at a higher price", "image": ""},
+            {"text": "Investing in mutual funds", "image": ""},
+            {"text": "Trading based on chart patterns", "image": ""}
+        ],
+        "correct_answer": "Buying in one market and selling in another at a higher price"
+    },
+    {
+        "question": "Arbitrage opportunities are typically available in which markets?",
+        "question_image": "",
+        "answers": [
+            {"text": "Highly efficient markets", "image": ""},
+            {"text": "Emerging markets", "image": ""},
+            {"text": "Markets with inefficiencies", "image": ""},
+            {"text": "Markets with no liquidity", "image": ""}
+        ],
+        "correct_answer": "Markets with inefficiencies"
+    },
+    {
+        "question": "Which is a key risk in arbitrage trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Overnight risk", "image": ""},
+            {"text": "Execution risk", "image": ""},
+            {"text": "Low returns", "image": ""},
+            {"text": "Currency fluctuation", "image": ""}
+        ],
+        "correct_answer": "Execution risk"
+    },
+    {
+        "question": "Which type of trader relies on fundamental analysis the most?",
+        "question_image": "",
+        "answers": [
+            {"text": "Scalpers", "image": ""},
+            {"text": "Swing traders", "image": ""},
+            {"text": "Positional traders", "image": ""},
+            {"text": "Day traders", "image": ""}
+        ],
+        "correct_answer": "Positional traders"
+    },
+    {
+        "question": "Which trading type is best for individuals with limited time?",
+        "question_image": "",
+        "answers": [
+            {"text": "Intraday trading", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Scalping", "image": ""},
+            {"text": "Arbitrage trading", "image": ""}
+        ],
+        "correct_answer": "Swing trading"
+    },
+    {
+        "question": "What is the key advantage of scalping?",
+        "question_image": "",
+        "answers": [
+            {"text": "Low risk per trade", "image": ""},
+            {"text": "Long-term profits", "image": ""},
+            {"text": "High dividends", "image": ""},
+            {"text": "Minimal market monitoring", "image": ""}
+        ],
+        "correct_answer": "Low risk per trade"
+    },
+    {
+        "question": "What is a common disadvantage of day trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "High tax benefits", "image": ""},
+            {"text": "High stress levels", "image": ""},
+            {"text": "Illiquidity", "image": ""},
+            {"text": "Low trading volume", "image": ""}
+        ],
+        "correct_answer": "High stress levels"
+    },
+    {
+        "question": "Which trading strategy is most suitable for beginners?",
+        "question_image": "",
+        "answers": [
+            {"text": "Day trading", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Scalping", "image": ""},
+            {"text": "Arbitrage trading", "image": ""}
+        ],
+        "correct_answer": "Swing trading"
+    },
+    {
+        "question": "What is the most common tool used by swing traders?",
+        "question_image": "",
+        "answers": [
+            {"text": "Support and resistance levels", "image": ""},
+            {"text": "Dividend reports", "image": ""},
+            {"text": "Debt-to-income ratios", "image": ""},
+            {"text": "Economic cycles", "image": ""}
+        ],
+        "correct_answer": "Support and resistance levels"
+    },
+    {
+        "question": "Which trading style is considered the fastest-paced?",
+        "question_image": "",
+        "answers": [
+            {"text": "Swing trading", "image": ""},
+            {"text": "Day trading", "image": ""},
+            {"text": "Positional trading", "image": ""},
+            {"text": "Scalping", "image": ""}
+        ],
+        "correct_answer": "Scalping"
+    },
+    {
+        "question": "What is one advantage of positional trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Lower transaction costs", "image": ""},
+            {"text": "Avoiding market trends", "image": ""},
+            {"text": "Lower capital requirement", "image": ""},
+            {"text": "Profiting from short-term volatility", "image": ""}
+        ],
+        "correct_answer": "Lower transaction costs"
+    },
+    {
+        "question": "Which trading style allows positions to be held overnight?",
+        "question_image": "",
+        "answers": [
+            {"text": "Day trading", "image": ""},
+            {"text": "Intraday trading", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Scalping", "image": ""}
+        ],
+        "correct_answer": "Swing trading"
+    },
+    {
+        "question": "Which of these is a key characteristic of day trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "No positions held overnight", "image": ""},
+            {"text": "Investments in blue-chip stocks", "image": ""},
+            {"text": "Using fundamental analysis", "image": ""},
+            {"text": "Low market activity", "image": ""}
+        ],
+        "correct_answer": "No positions held overnight"
+    },
+    {
+        "question": "What is one of the biggest challenges in scalping?",
+        "question_image": "",
+        "answers": [
+            {"text": "Slow execution", "image": ""},
+            {"text": "Low returns per trade", "image": ""},
+            {"text": "High overnight risk", "image": ""},
+            {"text": "Long holding periods", "image": ""}
+        ],
+        "correct_answer": "Low returns per trade"
+    },
+    {
+        "question": "What is algorithmic trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Trading based on gut feelings", "image": ""},
+            {"text": "Using computer programs to execute trades", "image": ""},
+            {"text": "Trading only with cryptocurrencies", "image": ""},
+            {"text": "Investing in bonds", "image": ""}
+        ],
+        "correct_answer": "Using computer programs to execute trades"
+    },
+    {
+        "question": "Which type of trading involves buying assets in one market and selling them in another simultaneously?",
+        "question_image": "",
+        "answers": [
+            {"text": "Day trading", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Arbitrage trading", "image": ""},
+            {"text": "Position trading", "image": ""}
+        ],
+        "correct_answer": "Arbitrage trading"
+    },
+    {
+        "question": "Which type of trading is commonly associated with high-frequency trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Scalping", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Positional trading", "image": ""},
+            {"text": "Value investing", "image": ""}
+        ],
+        "correct_answer": "Scalping"
+    },
+    {
+        "question": "What does fundamental analysis primarily focus on?",
+        "question_image": "",
+        "answers": [
+            {"text": "Price patterns", "image": ""},
+            {"text": "Market psychology", "image": ""},
+            {"text": "Economic and financial factors", "image": ""},
+            {"text": "Short-term momentum", "image": ""}
+        ],
+        "correct_answer": "Economic and financial factors"
+    },
+    {
+        "question": "Technical analysis involves which of the following tools?",
+        "question_image": "",
+        "answers": [
+            {"text": "Company balance sheets", "image": ""},
+            {"text": "Stock price charts", "image": ""},
+            {"text": "Economic policies", "image": ""},
+            {"text": "Dividend histories", "image": ""}
+        ],
+        "correct_answer": "Stock price charts"
+    },
+    {
+        "question": "What is options trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Trading stocks for a long-term gain", "image": ""},
+            {"text": "Buying or selling the right to trade an asset at a specific price", "image": ""},
+            {"text": "Trading real estate contracts", "image": ""},
+            {"text": "Investing in exchange-traded funds", "image": ""}
+        ],
+        "correct_answer": "Buying or selling the right to trade an asset at a specific price"
+    },
+    {
+        "question": "In options trading, what does the term 'call' mean?",
+        "question_image": "",
+        "answers": [
+            {"text": "The option to sell an asset", "image": ""},
+            {"text": "The option to buy an asset", "image": ""},
+            {"text": "A market order", "image": ""},
+            {"text": "The expiration of an option", "image": ""}
+        ],
+        "correct_answer": "The option to buy an asset"
+    },
+    {
+        "question": "Which of the following is a derivative?",
+        "question_image": "",
+        "answers": [
+            {"text": "A government bond", "image": ""},
+            {"text": "A mutual fund", "image": ""},
+            {"text": "A futures contract", "image": ""},
+            {"text": "A savings account", "image": ""}
+        ],
+        "correct_answer": "A futures contract"
+    },
+    {
+        "question": "Which market is known for trading currencies?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stock market", "image": ""},
+            {"text": "Forex market", "image": ""},
+            {"text": "Commodities market", "image": ""},
+            {"text": "Derivatives market", "image": ""}
+        ],
+        "correct_answer": "Forex market"
+    },
+    {
+        "question": "What is the primary objective of hedging?",
+        "question_image": "",
+        "answers": [
+            {"text": "Maximizing profits", "image": ""},
+            {"text": "Minimizing risks", "image": ""},
+            {"text": "Speculating on prices", "image": ""},
+            {"text": "Avoiding taxes", "image": ""}
+        ],
+        "correct_answer": "Minimizing risks"
+    },
+    {
+        "question": "Which financial instrument is used for hedging in commodities trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stocks", "image": ""},
+            {"text": "Bonds", "image": ""},
+            {"text": "Futures contracts", "image": ""},
+            {"text": "Mutual funds", "image": ""}
+        ],
+        "correct_answer": "Futures contracts"
+    },
+    {
+        "question": "Which trading strategy focuses on profiting from small, quick trades multiple times a day?",
+        "question_image": "",
+        "answers": [
+            {"text": "Swing trading", "image": ""},
+            {"text": "Scalping", "image": ""},
+            {"text": "Day trading", "image": ""},
+            {"text": "Arbitrage", "image": ""}
+        ],
+        "correct_answer": "Scalping"
+    },
+    {
+        "question": "Which type of trading involves leveraging borrowed capital to increase the size of trades?",
+        "question_image": "",
+        "answers": [
+            {"text": "Leverage trading", "image": ""},
+            {"text": "Hedging", "image": ""},
+            {"text": "Options trading", "image": ""},
+            {"text": "Cryptocurrency trading", "image": ""}
+        ],
+        "correct_answer": "Leverage trading"
+    },
+    {
+        "question": "What does the term 'short selling' mean?",
+        "question_image": "",
+        "answers": [
+            {"text": "Buying low and selling high", "image": ""},
+            {"text": "Selling high and buying back lower", "image": ""},
+            {"text": "Holding assets for dividends", "image": ""},
+            {"text": "Investing in index funds", "image": ""}
+        ],
+        "correct_answer": "Selling high and buying back lower"
+    },
+    {
+        "question": "Which type of trading strategy involves investing based on a stock's undervaluation?",
+        "question_image": "",
+        "answers": [
+            {"text": "Momentum trading", "image": ""},
+            {"text": "Value investing", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Arbitrage trading", "image": ""}
+        ],
+        "correct_answer": "Value investing"
+    },
+    {
+        "question": "What is cryptocurrency trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Trading government-issued bonds", "image": ""},
+            {"text": "Trading digital assets like Bitcoin", "image": ""},
+            {"text": "Buying and selling mutual funds", "image": ""},
+            {"text": "Investing in the stock market", "image": ""}
+        ],
+        "correct_answer": "Trading digital assets like Bitcoin"
+    },
+    {
+        "question": "What does the term 'liquidity' mean in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "The ease of converting assets to cash", "image": ""},
+            {"text": "The rate of market inflation", "image": ""},
+            {"text": "The interest earned on a loan", "image": ""},
+            {"text": "The stability of a market", "image": ""}
+        ],
+        "correct_answer": "The ease of converting assets to cash"
+    },
+    {
+        "question": "Which type of trading focuses on price momentum and trends?",
+        "question_image": "",
+        "answers": [
+            {"text": "Value investing", "image": ""},
+            {"text": "Momentum trading", "image": ""},
+            {"text": "Arbitrage trading", "image": ""},
+            {"text": "Positional trading", "image": ""}
+        ],
+        "correct_answer": "Momentum trading"
+    },
+    {
+        "question": "What is the purpose of a stop-loss order?",
+        "question_image": "",
+        "answers": [
+            {"text": "To guarantee a profit", "image": ""},
+            {"text": "To limit potential losses", "image": ""},
+            {"text": "To execute a trade at the highest price", "image": ""},
+            {"text": "To increase trading fees", "image": ""}
+        ],
+        "correct_answer": "To limit potential losses"
+    },
+    {
+        "question": "What is the role of a broker in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Providing investment advice only", "image": ""},
+            {"text": "Executing trades on behalf of clients", "image": ""},
+            {"text": "Issuing company stocks", "image": ""},
+            {"text": "Predicting market crashes", "image": ""}
+        ],
+        "correct_answer": "Executing trades on behalf of clients"
+    },
+    {
+        "question": "Which of these is a key feature of margin trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Using your own full capital to trade", "image": ""},
+            {"text": "Borrowing money to increase position size", "image": ""},
+            {"text": "Trading only blue-chip stocks", "image": ""},
+            {"text": "Focusing on long-term investments", "image": ""}
+        ],
+        "correct_answer": "Borrowing money to increase position size"
+    },
+    {
+        "question": "What is the main characteristic of swing trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding positions for minutes or hours", "image": ""},
+            {"text": "Holding positions for several days or weeks", "image": ""},
+            {"text": "Executing trades within a single trading session", "image": ""},
+            {"text": "Investing in illiquid assets", "image": ""}
+        ],
+        "correct_answer": "Holding positions for several days or weeks"
+    },
+    {
+        "question": "Which financial market is known for 24/7 trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stock market", "image": ""},
+            {"text": "Forex market", "image": ""},
+            {"text": "Cryptocurrency market", "image": ""},
+            {"text": "Commodity market", "image": ""}
+        ],
+        "correct_answer": "Cryptocurrency market"
+    },
+    {
+        "question": "Which trading strategy is typically used by institutional investors to execute large orders?",
+        "question_image": "",
+        "answers": [
+            {"text": "Scalping", "image": ""},
+            {"text": "Algorithmic trading", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Momentum trading", "image": ""}
+        ],
+        "correct_answer": "Algorithmic trading"
+    },
+    {
+        "question": "What is the key focus of trend trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Identifying short-term price reversals", "image": ""},
+            {"text": "Following the direction of the market trend", "image": ""},
+            {"text": "Ignoring market trends completely", "image": ""},
+            {"text": "Hedging against currency risks", "image": ""}
+        ],
+        "correct_answer": "Following the direction of the market trend"
+    },
+    {
+        "question": "What does 'bull market' signify?",
+        "question_image": "",
+        "answers": [
+            {"text": "A declining market", "image": ""},
+            {"text": "A stagnant market", "image": ""},
+            {"text": "A rising market", "image": ""},
+            {"text": "A volatile market", "image": ""}
+        ],
+        "correct_answer": "A rising market"
+    },
+    {
+        "question": "What is the term for selling a security you don't own, with the intention of buying it back later at a lower price?",
+        "question_image": "",
+        "answers": [
+            {"text": "Short selling", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Leverage trading", "image": ""},
+            {"text": "Day trading", "image": ""}
+        ],
+        "correct_answer": "Short selling"
+    },
+    {
+        "question": "What is an ETF?",
+        "question_image": "",
+        "answers": [
+            {"text": "Exchange-Traded Fund", "image": ""},
+            {"text": "Equity Trading Facility", "image": ""},
+            {"text": "Enterprise Tax Framework", "image": ""},
+            {"text": "Emerging Trade Futures", "image": ""}
+        ],
+        "correct_answer": "Exchange-Traded Fund"
+    },
+    {
+        "question": "Which type of trading uses patterns like 'head and shoulders' or 'double bottom'?",
+        "question_image": "",
+        "answers": [
+            {"text": "Fundamental analysis", "image": ""},
+            {"text": "Technical analysis", "image": ""},
+            {"text": "Value investing", "image": ""},
+            {"text": "Algorithmic trading", "image": ""}
+        ],
+        "correct_answer": "Technical analysis"
+    },
+    {
+        "question": "Which market primarily involves the trading of commodities like gold and oil?",
+        "question_image": "",
+        "answers": [
+            {"text": "Stock market", "image": ""},
+            {"text": "Forex market", "image": ""},
+            {"text": "Commodity market", "image": ""},
+            {"text": "Cryptocurrency market", "image": ""}
+        ],
+        "correct_answer": "Commodity market"
+    },
+    {
+        "question": "What is the primary risk of leverage trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "High brokerage fees", "image": ""},
+            {"text": "Magnified losses", "image": ""},
+            {"text": "Low market volatility", "image": ""},
+            {"text": "Long holding periods", "image": ""}
+        ],
+        "correct_answer": "Magnified losses"
+    },
+    {
+        "question": "Which trading style is characterized by trades that last only a few seconds to minutes?",
+        "question_image": "",
+        "answers": [
+            {"text": "Swing trading", "image": ""},
+            {"text": "Scalping", "image": ""},
+            {"text": "Momentum trading", "image": ""},
+            {"text": "Positional trading", "image": ""}
+        ],
+        "correct_answer": "Scalping"
+    },
+    {
+        "question": "What is the goal of diversification in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Maximizing short-term returns", "image": ""},
+            {"text": "Reducing risk by spreading investments", "image": ""},
+            {"text": "Trading only in one sector", "image": ""},
+            {"text": "Predicting future market trends", "image": ""}
+        ],
+        "correct_answer": "Reducing risk by spreading investments"
+    },
+    {
+        "question": "Which trading strategy relies heavily on financial statements and economic data?",
+        "question_image": "",
+        "answers": [
+            {"text": "Technical analysis", "image": ""},
+            {"text": "Fundamental analysis", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Scalping", "image": ""}
+        ],
+        "correct_answer": "Fundamental analysis"
+    },
+    {
+        "question": "Which of the following is a characteristic of the Forex market?",
+        "question_image": "",
+        "answers": [
+            {"text": "Operates only during business hours", "image": ""},
+            {"text": "High liquidity and 24/5 operation", "image": ""},
+            {"text": "Requires trading physical currencies", "image": ""},
+            {"text": "Low leverage availability", "image": ""}
+        ],
+        "correct_answer": "High liquidity and 24/5 operation"
+    },
+    {
+        "question": "Which type of trading strategy seeks to exploit small price gaps caused by news or announcements?",
+        "question_image": "",
+        "answers": [
+            {"text": "Momentum trading", "image": ""},
+            {"text": "Scalping", "image": ""},
+            {"text": "Gap trading", "image": ""},
+            {"text": "Swing trading", "image": ""}
+        ],
+        "correct_answer": "Gap trading"
+    },
+    {
+        "question": "Which type of trader typically has the longest holding period?",
+        "question_image": "",
+        "answers": [
+            {"text": "Swing traders", "image": ""},
+            {"text": "Day traders", "image": ""},
+            {"text": "Positional traders", "image": ""},
+            {"text": "Scalpers", "image": ""}
+        ],
+        "correct_answer": "Positional traders"
+    },
+    {
+        "question": "What does the term 'volatility' mean in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "The steady increase of an asset's price", "image": ""},
+            {"text": "The rate of price fluctuations in a market", "image": ""},
+            {"text": "The absence of market movement", "image": ""},
+            {"text": "The long-term growth potential of a stock", "image": ""}
+        ],
+        "correct_answer": "The rate of price fluctuations in a market"
+    },
+    {
+        "question": "Which type of trading strategy benefits from trending markets?",
+        "question_image": "",
+        "answers": [
+            {"text": "Mean reversion", "image": ""},
+            {"text": "Range trading", "image": ""},
+            {"text": "Trend following", "image": ""},
+            {"text": "Scalping", "image": ""}
+        ],
+        "correct_answer": "Trend following"
+    },
+    {
+        "question": "What is a key disadvantage of high-frequency trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Lower transaction costs", "image": ""},
+            {"text": "Increased competition from algorithms", "image": ""},
+            {"text": "Long holding periods", "image": ""},
+            {"text": "Minimal market data usage", "image": ""}
+        ],
+        "correct_answer": "Increased competition from algorithms"
+    },
+    {
+        "question": "What is position trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding trades for minutes", "image": ""},
+            {"text": "Holding trades for weeks, months, or years", "image": ""},
+            {"text": "Executing trades within a single day", "image": ""},
+            {"text": "Buying and selling multiple times per day", "image": ""}
+        ],
+        "correct_answer": "Holding trades for weeks, months, or years"
+    },
+    {
+        "question": "What is a 'pip' in Forex trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "A unit of price movement in a currency pair", "image": ""},
+            {"text": "A fee charged by brokers", "image": ""},
+            {"text": "A term for profit in trading", "image": ""},
+            {"text": "An economic indicator", "image": ""}
+        ],
+        "correct_answer": "A unit of price movement in a currency pair"
+    },
+    {
+        "question": "Which trading style is most likely to use leverage extensively?",
+        "question_image": "",
+        "answers": [
+            {"text": "Day trading", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Positional trading", "image": ""},
+            {"text": "Value investing", "image": ""}
+        ],
+        "correct_answer": "Day trading"
+    },
+    {
+        "question": "What is the main goal of arbitrage trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding trades for long-term profits", "image": ""},
+            {"text": "Exploiting price differences between markets", "image": ""},
+            {"text": "Analyzing company fundamentals", "image": ""},
+            {"text": "Following market trends", "image": ""}
+        ],
+        "correct_answer": "Exploiting price differences between markets"
+    },
+    {
+        "question": "Which type of trading focuses on small, frequent profits?",
+        "question_image": "",
+        "answers": [
+            {"text": "Value investing", "image": ""},
+            {"text": "Scalping", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Position trading", "image": ""}
+        ],
+        "correct_answer": "Scalping"
+    },
+    {
+        "question": "What is a common characteristic of day trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Trades are held overnight", "image": ""},
+            {"text": "Trades are executed and closed within the same day", "image": ""},
+            {"text": "Trades involve long-term market analysis", "image": ""},
+            {"text": "Trades are based on dividend earnings", "image": ""}
+        ],
+        "correct_answer": "Trades are executed and closed within the same day"
+    },
+    {
+        "question": "What is the primary risk of short selling?",
+        "question_image": "",
+        "answers": [
+            {"text": "Limited upside potential", "image": ""},
+            {"text": "Unlimited potential losses", "image": ""},
+            {"text": "Lack of market data", "image": ""},
+            {"text": "High commission fees", "image": ""}
+        ],
+        "correct_answer": "Unlimited potential losses"
+    },
+    {
+        "question": "What is a CFD (Contract for Difference)?",
+        "question_image": "",
+        "answers": [
+            {"text": "A type of physical stock", "image": ""},
+            {"text": "An agreement to exchange the difference in price of an asset", "image": ""},
+            {"text": "A long-term government bond", "image": ""},
+            {"text": "A type of cryptocurrency", "image": ""}
+        ],
+        "correct_answer": "An agreement to exchange the difference in price of an asset"
+    },
+    {
+        "question": "What is the primary focus of news-based trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Identifying long-term economic trends", "image": ""},
+            {"text": "Exploiting market reactions to breaking news", "image": ""},
+            {"text": "Analyzing dividend histories", "image": ""},
+            {"text": "Tracking price momentum", "image": ""}
+        ],
+        "correct_answer": "Exploiting market reactions to breaking news"
+    },
+    {
+        "question": "Which type of trading uses Bollinger Bands and Moving Averages as tools?",
+        "question_image": "",
+        "answers": [
+            {"text": "Fundamental analysis", "image": ""},
+            {"text": "Technical analysis", "image": ""},
+            {"text": "Value investing", "image": ""},
+            {"text": "Arbitrage trading", "image": ""}
+        ],
+        "correct_answer": "Technical analysis"
+    },
+    {
+        "question": "What does it mean to 'go long' in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Betting that an asset’s price will decrease", "image": ""},
+            {"text": "Betting that an asset’s price will increase", "image": ""},
+            {"text": "Selling an asset without owning it", "image": ""},
+            {"text": "Exiting a trade early", "image": ""}
+        ],
+        "correct_answer": "Betting that an asset’s price will increase"
+    },
+    {
+        "question": "What is paper trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Trading with virtual money to practice", "image": ""},
+            {"text": "Trading stocks listed in newspapers", "image": ""},
+            {"text": "Using physical paper contracts", "image": ""},
+            {"text": "Trading commodities like timber", "image": ""}
+        ],
+        "correct_answer": "Trading with virtual money to practice"
+    },
+    {
+        "question": "What is the 'ask price' in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "The price a seller is willing to accept for an asset", "image": ""},
+            {"text": "The price a buyer is willing to pay for an asset", "image": ""},
+            {"text": "The average trading price of an asset", "image": ""},
+            {"text": "The opening price of an asset", "image": ""}
+        ],
+        "correct_answer": "The price a seller is willing to accept for an asset"
+    },
+    {
+        "question": "Which type of trading is most reliant on patterns such as 'cup and handle'?",
+        "question_image": "",
+        "answers": [
+            {"text": "Technical analysis", "image": ""},
+            {"text": "Fundamental analysis", "image": ""},
+            {"text": "Scalping", "image": ""},
+            {"text": "Arbitrage", "image": ""}
+        ],
+        "correct_answer": "Technical analysis"
+    },
+    {
+        "question": "What is a common feature of over-the-counter (OTC) trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Trades are conducted via centralized exchanges", "image": ""},
+            {"text": "Trades occur directly between parties", "image": ""},
+            {"text": "Trades are executed only during market hours", "image": ""},
+            {"text": "Trades require regulatory approval", "image": ""}
+        ],
+        "correct_answer": "Trades occur directly between parties"
+    },
+    {
+        "question": "What is the purpose of a trailing stop order?",
+        "question_image": "",
+        "answers": [
+            {"text": "Locking in profits while limiting losses", "image": ""},
+            {"text": "Guaranteeing a fixed profit", "image": ""},
+            {"text": "Increasing the size of a trade", "image": ""},
+            {"text": "Reducing broker commissions", "image": ""}
+        ],
+        "correct_answer": "Locking in profits while limiting losses"
+    },
+    {
+        "question": "Which type of market condition is best for range trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "A highly volatile market", "image": ""},
+            {"text": "A trending market", "image": ""},
+            {"text": "A stagnant or sideways market", "image": ""},
+            {"text": "A market with low liquidity", "image": ""}
+        ],
+        "correct_answer": "A stagnant or sideways market"
+    },
+    {
+        "question": "What is backtesting in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Testing a strategy on historical data", "image": ""},
+            {"text": "Simulating future market movements", "image": ""},
+            {"text": "Practicing with real money trades", "image": ""},
+            {"text": "Analyzing live trading results", "image": ""}
+        ],
+        "correct_answer": "Testing a strategy on historical data"
+    },
+    {
+        "question": "What is the bid-ask spread?",
+        "question_image": "",
+        "answers": [
+            {"text": "The difference between the highest bid and the lowest ask price", "image": ""},
+            {"text": "The total volume of shares available", "image": ""},
+            {"text": "The average price of an asset", "image": ""},
+            {"text": "The difference between the opening and closing price", "image": ""}
+        ],
+        "correct_answer": "The difference between the highest bid and the lowest ask price"
+    },
+    {
+        "question": "What is the primary advantage of algorithmic trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Eliminates human error and emotion", "image": ""},
+            {"text": "Guarantees profits", "image": ""},
+            {"text": "Requires no knowledge of the market", "image": ""},
+            {"text": "Involves no risk", "image": ""}
+        ],
+        "correct_answer": "Eliminates human error and emotion"
+    },
+    {
+        "question": "What is swing trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Holding positions for a few minutes", "image": ""},
+            {"text": "Holding positions for days or weeks to capitalize on price swings", "image": ""},
+            {"text": "Analyzing economic reports for long-term investments", "image": ""},
+            {"text": "Trading based on intraday news events", "image": ""}
+        ],
+        "correct_answer": "Holding positions for days or weeks to capitalize on price swings"
+    },
+    {
+        "question": "What is the main characteristic of momentum trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Buying low and selling high", "image": ""},
+            {"text": "Following trends and taking advantage of strong price movements", "image": ""},
+            {"text": "Investing in undervalued assets", "image": ""},
+            {"text": "Short selling exclusively", "image": ""}
+        ],
+        "correct_answer": "Following trends and taking advantage of strong price movements"
+    },
+    {
+        "question": "What does liquidity mean in financial trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "The availability of cash in your portfolio", "image": ""},
+            {"text": "The ease of buying or selling an asset without affecting its price", "image": ""},
+            {"text": "A measure of an asset's price volatility", "image": ""},
+            {"text": "The number of trades executed in a day", "image": ""}
+        ],
+        "correct_answer": "The ease of buying or selling an asset without affecting its price"
+    },
+    {
+        "question": "What type of trader typically relies on the Relative Strength Index (RSI)?",
+        "question_image": "",
+        "answers": [
+            {"text": "Value investors", "image": ""},
+            {"text": "Technical traders", "image": ""},
+            {"text": "Fundamental analysts", "image": ""},
+            {"text": "News-based traders", "image": ""}
+        ],
+        "correct_answer": "Technical traders"
+    },
+    {
+        "question": "What does a breakout trader look for?",
+        "question_image": "",
+        "answers": [
+            {"text": "Assets with stable prices", "image": ""},
+            {"text": "Assets breaking above resistance or below support levels", "image": ""},
+            {"text": "Assets with strong dividends", "image": ""},
+            {"text": "Assets in a consistent sideways trend", "image": ""}
+        ],
+        "correct_answer": "Assets breaking above resistance or below support levels"
+    },
+    {
+        "question": "What is a key goal of high-frequency trading (HFT)?",
+        "question_image": "",
+        "answers": [
+            {"text": "Making large profits from single trades", "image": ""},
+            {"text": "Executing a large number of trades in milliseconds for small gains", "image": ""},
+            {"text": "Investing in undervalued companies", "image": ""},
+            {"text": "Analyzing macroeconomic indicators for long-term trends", "image": ""}
+        ],
+        "correct_answer": "Executing a large number of trades in milliseconds for small gains"
+    },
+    {
+        "question": "What is an ETF in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Exchange-Traded Fund", "image": ""},
+            {"text": "Electronic Trading Fund", "image": ""},
+            {"text": "Earnings Tax Fund", "image": ""},
+            {"text": "Equity Trading Facility", "image": ""}
+        ],
+        "correct_answer": "Exchange-Traded Fund"
+    },
+    {
+        "question": "Which trading strategy typically involves low-frequency trades?",
+        "question_image": "",
+        "answers": [
+            {"text": "Scalping", "image": ""},
+            {"text": "Swing trading", "image": ""},
+            {"text": "Day trading", "image": ""},
+            {"text": "Position trading", "image": ""}
+        ],
+        "correct_answer": "Position trading"
+    },
+    {
+        "question": "What is the purpose of diversification in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Maximizing returns from a single stock", "image": ""},
+            {"text": "Reducing risk by investing in a variety of assets", "image": ""},
+            {"text": "Focusing solely on high-risk, high-reward trades", "image": ""},
+            {"text": "Avoiding the use of stop-loss orders", "image": ""}
+        ],
+        "correct_answer": "Reducing risk by investing in a variety of assets"
+    },
+    {
+        "question": "What does it mean to hedge in trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Taking a position to offset potential losses in another trade", "image": ""},
+            {"text": "Doubling down on a losing trade", "image": ""},
+            {"text": "Investing all funds in a single asset", "image": ""},
+            {"text": "Trading exclusively on technical indicators", "image": ""}
+        ],
+        "correct_answer": "Taking a position to offset potential losses in another trade"
+    },
+    {
+        "question": "What is a blue-chip stock?",
+        "question_image": "",
+        "answers": [
+            {"text": "A highly speculative stock", "image": ""},
+            {"text": "A well-established, financially sound company stock", "image": ""},
+            {"text": "A stock with low trading volume", "image": ""},
+            {"text": "A stock with frequent price fluctuations", "image": ""}
+        ],
+        "correct_answer": "A well-established, financially sound company stock"
+    },
+    {
+        "question": "What type of analysis uses financial statements to evaluate investments?",
+        "question_image": "",
+        "answers": [
+            {"text": "Technical analysis", "image": ""},
+            {"text": "Fundamental analysis", "image": ""},
+            {"text": "Momentum trading", "image": ""},
+            {"text": "Swing trading", "image": ""}
+        ],
+        "correct_answer": "Fundamental analysis"
+    },
+    {
+        "question": "What is an IPO in financial trading?",
+        "question_image": "",
+        "answers": [
+            {"text": "Initial Private Offering", "image": ""},
+            {"text": "Initial Public Offering", "image": ""},
+            {"text": "Intermediary Price Order", "image": ""},
+            {"text": "Income Portfolio Option", "image": ""}
+        ],
+        "correct_answer": "Initial Public Offering"
+    },
+    {
+        "question": "What does a contrarian trader do?",
+        "question_image": "",
+        "answers": [
+            {"text": "Follows market trends", "image": ""},
+            {"text": "Trades against prevailing market sentiment", "image": ""},
+            {"text": "Holds trades for several years", "image": ""},
+            {"text": "Avoids high-risk trades entirely", "image": ""}
+        ],
+        "correct_answer": "Trades against prevailing market sentiment"
+    }
+]
