@@ -1,0 +1,1256 @@
+[
+    {
+        "question": "What is the primary purpose of financial statements?",
+        "question_image": "",
+        "answers": [
+            {"text": "To track employee productivity", "image": ""},
+            {"text": "To analyze customer preferences", "image": ""},
+            {"text": "To provide insights into a company’s financial health", "image": ""},
+            {"text": "To forecast future weather conditions", "image": ""}
+        ],
+        "correct_answer": "To provide insights into a company’s financial health"
+    },
+    {
+        "question": "Which financial statement shows a company’s profitability over a specific period?",
+        "question_image": "",
+        "answers": [
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Income Statement", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Statement of Retained Earnings", "image": ""}
+        ],
+        "correct_answer": "Income Statement"
+    },
+    {
+        "question": "What does EPS stand for in financial analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Earnings Per Share", "image": ""},
+            {"text": "Equity Per Stock", "image": ""},
+            {"text": "Expense Per Stock", "image": ""},
+            {"text": "Exchange Price Standard", "image": ""}
+        ],
+        "correct_answer": "Earnings Per Share"
+    },
+    {
+        "question": "Which metric measures a company’s ability to pay short-term liabilities with short-term assets?",
+        "question_image": "",
+        "answers": [
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Price-to-Earnings Ratio", "image": ""}
+        ],
+        "correct_answer": "Current Ratio"
+    },
+    {
+        "question": "What does a company’s cash flow statement primarily indicate?",
+        "question_image": "",
+        "answers": [
+            {"text": "Liquidity position", "image": ""},
+            {"text": "Inventory management", "image": ""},
+            {"text": "Revenue sources", "image": ""},
+            {"text": "Profit margin", "image": ""}
+        ],
+        "correct_answer": "Liquidity position"
+    },
+    {
+        "question": "In a balance sheet, assets must equal the sum of which two components?",
+        "question_image": "",
+        "answers": [
+            {"text": "Revenues and Expenses", "image": ""},
+            {"text": "Liabilities and Equity", "image": ""},
+            {"text": "Cash and Marketable Securities", "image": ""},
+            {"text": "Investments and Dividends", "image": ""}
+        ],
+        "correct_answer": "Liabilities and Equity"
+    },
+    {
+        "question": "What does the term “liquidity” refer to in financial analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Profitability of a firm", "image": ""},
+            {"text": "Ability to meet short-term obligations", "image": ""},
+            {"text": "Long-term investment potential", "image": ""},
+            {"text": "Debt repayment capability", "image": ""}
+        ],
+        "correct_answer": "Ability to meet short-term obligations"
+    },
+    {
+        "question": "Which ratio is used to evaluate the profitability of a company?",
+        "question_image": "",
+        "answers": [
+            {"text": "Return on Assets (ROA)", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Inventory Turnover Ratio", "image": ""}
+        ],
+        "correct_answer": "Return on Assets (ROA)"
+    },
+    {
+        "question": "What does a high Price-to-Earnings (P/E) ratio typically indicate?",
+        "question_image": "",
+        "answers": [
+            {"text": "A company is undervalued", "image": ""},
+            {"text": "A company has high growth expectations", "image": ""},
+            {"text": "The company is in financial trouble", "image": ""},
+            {"text": "High liquidity", "image": ""}
+        ],
+        "correct_answer": "A company has high growth expectations"
+    },
+    {
+        "question": "Which financial statement details a company’s revenues and expenses?",
+        "question_image": "",
+        "answers": [
+            {"text": "Income Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Statement of Retained Earnings", "image": ""}
+        ],
+        "correct_answer": "Income Statement"
+    },
+    {
+        "question": "What does a low debt-to-equity ratio signify?",
+        "question_image": "",
+        "answers": [
+            {"text": "The company is highly leveraged", "image": ""},
+            {"text": "The company relies more on equity financing", "image": ""},
+            {"text": "The company has excessive liabilities", "image": ""},
+            {"text": "The company is unprofitable", "image": ""}
+        ],
+        "correct_answer": "The company relies more on equity financing"
+    },
+    {
+        "question": "Which financial metric is most relevant when comparing companies in the same industry?",
+        "question_image": "",
+        "answers": [
+            {"text": "Gross Margin", "image": ""},
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Total Revenue", "image": ""},
+            {"text": "Total Debt", "image": ""}
+        ],
+        "correct_answer": "Gross Margin"
+    },
+    {
+        "question": "What is the formula for calculating gross profit?",
+        "question_image": "",
+        "answers": [
+            {"text": "Revenue - Operating Expenses", "image": ""},
+            {"text": "Revenue - Cost of Goods Sold (COGS)", "image": ""},
+            {"text": "Operating Income - Taxes", "image": ""},
+            {"text": "Net Income - Depreciation", "image": ""}
+        ],
+        "correct_answer": "Revenue - Cost of Goods Sold (COGS)"
+    },
+    {
+        "question": "Which financial document would you examine to determine the company’s solvency?",
+        "question_image": "",
+        "answers": [
+            {"text": "Income Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Annual Report", "image": ""}
+        ],
+        "correct_answer": "Balance Sheet"
+    },
+    {
+        "question": "What does a cash flow from operating activities indicate?",
+        "question_image": "",
+        "answers": [
+            {"text": "Company’s net income", "image": ""},
+            {"text": "Cash generated from core business operations", "image": ""},
+            {"text": "Changes in equity", "image": ""},
+            {"text": "Long-term investments", "image": ""}
+        ],
+        "correct_answer": "Cash generated from core business operations"
+    },
+    {
+        "question": "The term 'equity' in financial analysis refers to what?",
+        "question_image": "",
+        "answers": [
+            {"text": "Total liabilities of a firm", "image": ""},
+            {"text": "Ownership interest in the company", "image": ""},
+            {"text": "Company’s debts", "image": ""},
+            {"text": "Operating expenses", "image": ""}
+        ],
+        "correct_answer": "Ownership interest in the company"
+    },
+    {
+        "question": "What is the purpose of the statement of retained earnings?",
+        "question_image": "",
+        "answers": [
+            {"text": "To show revenue sources", "image": ""},
+            {"text": "To show net income growth", "image": ""},
+            {"text": "To detail profits retained for reinvestment", "image": ""},
+            {"text": "To evaluate employee bonuses", "image": ""}
+        ],
+        "correct_answer": "To detail profits retained for reinvestment"
+    },
+    {
+        "question": "Which metric is used to measure how efficiently a company utilizes its assets?",
+        "question_image": "",
+        "answers": [
+            {"text": "Return on Assets (ROA)", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Gross Margin", "image": ""}
+        ],
+        "correct_answer": "Return on Assets (ROA)"
+    },
+    {
+        "question": "A company’s profitability is best assessed using which ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Inventory Turnover", "image": ""}
+        ],
+        "correct_answer": "Net Profit Margin"
+    },
+    {
+        "question": "Which term refers to the difference between current assets and current liabilities?",
+        "question_image": "",
+        "answers": [
+            {"text": "Gross Profit", "image": ""},
+            {"text": "Net Income", "image": ""},
+            {"text": "Working Capital", "image": ""},
+            {"text": "Retained Earnings", "image": ""}
+        ],
+        "correct_answer": "Working Capital"
+    },
+    {
+        "question": "Which financial statement shows a company’s financial position at a specific point in time?",
+        "question_image": "",
+        "answers": [
+            {"text": "Income Statement", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Profitability Statement", "image": ""}
+        ],
+        "correct_answer": "Balance Sheet"
+    },
+    {
+        "question": "In forex trading, how can a company’s financial report help predict currency movement?",
+        "question_image": "",
+        "answers": [
+            {"text": "By analyzing economic growth projections", "image": ""},
+            {"text": "By evaluating interest rate trends", "image": ""},
+            {"text": "By examining liquidity ratios", "image": ""},
+            {"text": "By tracking dividend yields", "image": ""}
+        ],
+        "correct_answer": "By analyzing economic growth projections"
+    },
+    {
+        "question": "What is EBITDA used for in financial analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Evaluating tax obligations", "image": ""},
+            {"text": "Measuring core profitability", "image": ""},
+            {"text": "Assessing equity value", "image": ""},
+            {"text": "Comparing dividend payments", "image": ""}
+        ],
+        "correct_answer": "Measuring core profitability"
+    },
+    {
+        "question": "A company’s dividend payout ratio is calculated using which formula?",
+        "question_image": "",
+        "answers": [
+            {"text": "Dividends / Net Income", "image": ""},
+            {"text": "Revenue / Gross Profit", "image": ""},
+            {"text": "Net Income / Total Assets", "image": ""},
+            {"text": "Total Equity / Total Debt", "image": ""}
+        ],
+        "correct_answer": "Dividends / Net Income"
+    },
+    {
+        "question": "Which of the following is an example of a non-cash expense?",
+        "question_image": "",
+        "answers": [
+            {"text": "Salary Payments", "image": ""},
+            {"text": "Depreciation", "image": ""},
+            {"text": "Inventory Purchases", "image": ""},
+            {"text": "Dividend Payments", "image": ""}
+        ],
+        "correct_answer": "Depreciation"
+    },
+    {
+        "question": "Which financial metric measures a company’s operating efficiency?",
+        "question_image": "",
+        "answers": [
+            {"text": "Gross Margin", "image": ""},
+            {"text": "Operating Margin", "image": ""},
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Debt Ratio", "image": ""}
+        ],
+        "correct_answer": "Operating Margin"
+    },
+    {
+        "question": "What does the current ratio measure?",
+        "question_image": "",
+        "answers": [
+            {"text": "Liquidity", "image": ""},
+            {"text": "Profitability", "image": ""},
+            {"text": "Asset Utilization", "image": ""},
+            {"text": "Debt Leverage", "image": ""}
+        ],
+        "correct_answer": "Liquidity"
+    },
+    {
+        "question": "Which ratio helps assess a company’s ability to generate profits from its total revenue?",
+        "question_image": "",
+        "answers": [
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Operating Margin", "image": ""}
+        ],
+        "correct_answer": "Net Profit Margin"
+    },
+    {
+        "question": "What does the term 'leverage' refer to in financial analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Use of debt in a company’s capital structure", "image": ""},
+            {"text": "Revenue growth over time", "image": ""},
+            {"text": "Profit margins relative to competitors", "image": ""},
+            {"text": "Efficiency in operations", "image": ""}
+        ],
+        "correct_answer": "Use of debt in a company’s capital structure"
+    },
+    {
+        "question": "How is return on equity (ROE) calculated?",
+        "question_image": "",
+        "answers": [
+            {"text": "Net Income / Total Equity", "image": ""},
+            {"text": "Revenue / Total Assets", "image": ""},
+            {"text": "Operating Income / Total Revenue", "image": ""},
+            {"text": "Net Profit / Total Liabilities", "image": ""}
+        ],
+        "correct_answer": "Net Income / Total Equity"
+    },
+    {
+        "question": "What does a high inventory turnover ratio typically signify?",
+        "question_image": "",
+        "answers": [
+            {"text": "Efficient inventory management", "image": ""},
+            {"text": "Excessive stock levels", "image": ""},
+            {"text": "High operational costs", "image": ""},
+            {"text": "Poor liquidity", "image": ""}
+        ],
+        "correct_answer": "Efficient inventory management"
+    },
+    {
+        "question": "Which statement is true about the cash flow from investing activities?",
+        "question_image": "",
+        "answers": [
+            {"text": "It includes operational expenses", "image": ""},
+            {"text": "It reflects investment in or sale of assets", "image": ""},
+            {"text": "It measures core profitability", "image": ""},
+            {"text": "It tracks dividend payments", "image": ""}
+        ],
+        "correct_answer": "It reflects investment in or sale of assets"
+    },
+    {
+        "question": "What is the significance of the quick ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "Evaluates liquidity excluding inventory", "image": ""},
+            {"text": "Measures gross profitability", "image": ""},
+            {"text": "Assesses financial leverage", "image": ""},
+            {"text": "Tracks long-term solvency", "image": ""}
+        ],
+        "correct_answer": "Evaluates liquidity excluding inventory"
+    },
+    {
+        "question": "What does a negative free cash flow indicate?",
+        "question_image": "",
+        "answers": [
+            {"text": "Company is generating excess cash", "image": ""},
+            {"text": "Company is facing liquidity issues", "image": ""},
+            {"text": "Company is highly profitable", "image": ""},
+            {"text": "Company is reducing debt", "image": ""}
+        ],
+        "correct_answer": "Company is facing liquidity issues"
+    },
+    {
+        "question": "What is an Altman Z-score used for?",
+        "question_image": "",
+        "answers": [
+            {"text": "Predicting bankruptcy risk", "image": ""},
+            {"text": "Calculating tax liability", "image": ""},
+            {"text": "Assessing dividend yield", "image": ""},
+            {"text": "Tracking inventory efficiency", "image": ""}
+        ],
+        "correct_answer": "Predicting bankruptcy risk"
+    },
+    {
+        "question": "Which metric is most relevant for dividend investors?",
+        "question_image": "",
+        "answers": [
+            {"text": "Dividend Yield", "image": ""},
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Gross Profit", "image": ""}
+        ],
+        "correct_answer": "Dividend Yield"
+    },
+    {
+        "question": "What does the Price-to-Book (P/B) ratio evaluate?",
+        "question_image": "",
+        "answers": [
+            {"text": "A company’s asset valuation", "image": ""},
+            {"text": "A company’s market capitalization", "image": ""},
+            {"text": "Debt repayment capability", "image": ""},
+            {"text": "Profitability trends", "image": ""}
+        ],
+        "correct_answer": "A company’s asset valuation"
+    },
+    {
+        "question": "What is a high operating margin indicative of?",
+        "question_image": "",
+        "answers": [
+            {"text": "High operational efficiency", "image": ""},
+            {"text": "Poor cost control", "image": ""},
+            {"text": "Declining revenues", "image": ""},
+            {"text": "Weak market position", "image": ""}
+        ],
+        "correct_answer": "High operational efficiency"
+    },
+    {
+        "question": "What is a significant use of retained earnings?",
+        "question_image": "",
+        "answers": [
+            {"text": "Dividend distribution", "image": ""},
+            {"text": "Asset purchase", "image": ""},
+            {"text": "Reinvestment in business growth", "image": ""},
+            {"text": "Tax reductions", "image": ""}
+        ],
+        "correct_answer": "Reinvestment in business growth"
+    },
+    {
+        "question": "What does a high Return on Equity (ROE) imply?",
+        "question_image": "",
+        "answers": [
+            {"text": "Strong shareholder returns", "image": ""},
+            {"text": "High operational costs", "image": ""},
+            {"text": "Excess inventory levels", "image": ""},
+            {"text": "Weak cash flow management", "image": ""}
+        ],
+        "correct_answer": "Strong shareholder returns"
+    },
+    {
+        "question": "What does the acronym ROCE stand for?",
+        "question_image": "",
+        "answers": [
+            {"text": "Return on Capital Employed", "image": ""},
+            {"text": "Revenue on Core Equity", "image": ""},
+            {"text": "Rate of Cash Expenditure", "image": ""},
+            {"text": "Reserve of Collateral Equity", "image": ""}
+        ],
+        "correct_answer": "Return on Capital Employed"
+    },
+    {
+        "question": "What is the main purpose of the debt-to-asset ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "To measure liquidity", "image": ""},
+            {"text": "To assess solvency", "image": ""},
+            {"text": "To calculate profitability", "image": ""},
+            {"text": "To evaluate market position", "image": ""}
+        ],
+        "correct_answer": "To assess solvency"
+    },
+    {
+        "question": "Which term represents the earnings before interest and taxes (EBIT) as a percentage of revenue?",
+        "question_image": "",
+        "answers": [
+            {"text": "Gross Margin", "image": ""},
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Operating Margin", "image": ""},
+            {"text": "Liquidity Ratio", "image": ""}
+        ],
+        "correct_answer": "Operating Margin"
+    },
+    {
+        "question": "What is a key indicator of a company’s liquidity?",
+        "question_image": "",
+        "answers": [
+            {"text": "Return on Equity (ROE)", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Asset Turnover Ratio", "image": ""}
+        ],
+        "correct_answer": "Current Ratio"
+    },
+    {
+        "question": "What does the term 'book value' signify?",
+        "question_image": "",
+        "answers": [
+            {"text": "Market value of a stock", "image": ""},
+            {"text": "Net asset value per share", "image": ""},
+            {"text": "Current liabilities of a firm", "image": ""},
+            {"text": "Gross profit margin", "image": ""}
+        ],
+        "correct_answer": "Net asset value per share"
+    },
+    {
+        "question": "Which financial document is essential for analyzing cash inflows and outflows?",
+        "question_image": "",
+        "answers": [
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Income Statement", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Equity Report", "image": ""}
+        ],
+        "correct_answer": "Cash Flow Statement"
+    },
+    {
+        "question": "What does the interest coverage ratio evaluate?",
+        "question_image": "",
+        "answers": [
+            {"text": "Ability to meet debt obligations", "image": ""},
+            {"text": "Liquidity of a company", "image": ""},
+            {"text": "Efficiency in operations", "image": ""},
+            {"text": "Market valuation accuracy", "image": ""}
+        ],
+        "correct_answer": "Ability to meet debt obligations"
+    },
+    {
+        "question": "Which ratio is most relevant for analyzing a company’s long-term solvency?",
+        "question_image": "",
+        "answers": [
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Inventory Turnover", "image": ""},
+            {"text": "Net Profit Margin", "image": ""}
+        ],
+        "correct_answer": "Debt-to-Equity Ratio"
+    },
+    {
+        "question": "What is the purpose of trend analysis in financial reporting?",
+        "question_image": "",
+        "answers": [
+            {"text": "To compare financial metrics over time", "image": ""},
+            {"text": "To identify profitability sources", "image": ""},
+            {"text": "To measure asset growth", "image": ""},
+            {"text": "To determine market share", "image": ""}
+        ],
+        "correct_answer": "To compare financial metrics over time"
+    },
+    {
+        "question": "What is indicated by a declining gross profit margin?",
+        "question_image": "",
+        "answers": [
+            {"text": "Improved cost control", "image": ""},
+            {"text": "Increasing cost of goods sold", "image": ""},
+            {"text": "Higher net income", "image": ""},
+            {"text": "Improved asset efficiency", "image": ""}
+        ],
+        "correct_answer": "Increasing cost of goods sold"
+    },
+    {
+        "question": "Which financial metric is used to measure a company’s efficiency in managing inventory?",
+        "question_image": "",
+        "answers": [
+            {"text": "Inventory Turnover", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Return on Equity", "image": ""},
+            {"text": "Operating Margin", "image": ""}
+        ],
+        "correct_answer": "Inventory Turnover"
+    },
+    {
+        "question": "What does the term 'market capitalization' refer to?",
+        "question_image": "",
+        "answers": [
+            {"text": "Total book value of assets", "image": ""},
+            {"text": "Value of shares outstanding", "image": ""},
+            {"text": "Net income per share", "image": ""},
+            {"text": "Equity minus liabilities", "image": ""}
+        ],
+        "correct_answer": "Value of shares outstanding"
+    },
+    {
+        "question": "How is the dividend yield calculated?",
+        "question_image": "",
+        "answers": [
+            {"text": "Dividend per share / Earnings per share", "image": ""},
+            {"text": "Dividend per share / Market price per share", "image": ""},
+            {"text": "Net income / Total equity", "image": ""},
+            {"text": "Revenue / Gross profit", "image": ""}
+        ],
+        "correct_answer": "Dividend per share / Market price per share"
+    },
+    {
+        "question": "What is the main focus of horizontal analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Comparison of financial data across periods", "image": ""},
+            {"text": "Detailed breakdown of ratios", "image": ""},
+            {"text": "Allocation of retained earnings", "image": ""},
+            {"text": "Valuation of current liabilities", "image": ""}
+        ],
+        "correct_answer": "Comparison of financial data across periods"
+    },
+    {
+        "question": "Which financial statement provides a snapshot of a company’s financial position?",
+        "question_image": "",
+        "answers": [
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Income Statement", "image": ""},
+            {"text": "Equity Statement", "image": ""}
+        ],
+        "correct_answer": "Balance Sheet"
+    },
+    {
+        "question": "Which metric evaluates how much profit is earned for each dollar of sales?",
+        "question_image": "",
+        "answers": [
+            {"text": "Gross Profit Margin", "image": ""},
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Return on Assets", "image": ""},
+            {"text": "Current Ratio", "image": ""}
+        ],
+        "correct_answer": "Net Profit Margin"
+    },
+    {
+        "question": "What does the term 'capital expenditure' refer to?",
+        "question_image": "",
+        "answers": [
+            {"text": "Daily operational costs", "image": ""},
+            {"text": "Funds used to acquire fixed assets", "image": ""},
+            {"text": "Dividends paid to shareholders", "image": ""},
+            {"text": "Short-term liabilities", "image": ""}
+        ],
+        "correct_answer": "Funds used to acquire fixed assets"
+    },
+    {
+        "question": "Which ratio is most useful for evaluating short-term financial health?",
+        "question_image": "",
+        "answers": [
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Price-to-Earnings Ratio", "image": ""},
+            {"text": "Return on Equity", "image": ""}
+        ],
+        "correct_answer": "Quick Ratio"
+    },
+    {
+        "question": "Which financial statement shows a company's profitability over a specific time period?",
+        "question_image": "",
+        "answers": [
+            {"text": "Income Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Equity Statement", "image": ""}
+        ],
+        "correct_answer": "Income Statement"
+    },
+    {
+        "question": "What does the Price-to-Earnings (P/E) ratio assess?",
+        "question_image": "",
+        "answers": [
+            {"text": "Market value compared to earnings", "image": ""},
+            {"text": "Profitability of operations", "image": ""},
+            {"text": "Liquidity status", "image": ""},
+            {"text": "Asset utilization efficiency", "image": ""}
+        ],
+        "correct_answer": "Market value compared to earnings"
+    },
+    {
+        "question": "Which component is excluded from the quick ratio calculation?",
+        "question_image": "",
+        "answers": [
+            {"text": "Cash", "image": ""},
+            {"text": "Accounts Receivable", "image": ""},
+            {"text": "Inventory", "image": ""},
+            {"text": "Short-term Investments", "image": ""}
+        ],
+        "correct_answer": "Inventory"
+    },
+    {
+        "question": "What does a high debt-to-equity ratio indicate?",
+        "question_image": "",
+        "answers": [
+            {"text": "Low risk of default", "image": ""},
+            {"text": "Company is heavily reliant on debt", "image": ""},
+            {"text": "High profitability", "image": ""},
+            {"text": "Strong cash flow position", "image": ""}
+        ],
+        "correct_answer": "Company is heavily reliant on debt"
+    },
+    {
+        "question": "What is the purpose of vertical analysis in financial reports?",
+        "question_image": "",
+        "answers": [
+            {"text": "Analyze each component as a percentage of a total", "image": ""},
+            {"text": "Compare data across different periods", "image": ""},
+            {"text": "Measure market competitiveness", "image": ""},
+            {"text": "Assess long-term liabilities", "image": ""}
+        ],
+        "correct_answer": "Analyze each component as a percentage of a total"
+    },
+    {
+        "question": "Which metric is used to evaluate how effectively a company uses its assets to generate sales?",
+        "question_image": "",
+        "answers": [
+            {"text": "Asset Turnover Ratio", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Operating Margin", "image": ""},
+            {"text": "Net Profit Margin", "image": ""}
+        ],
+        "correct_answer": "Asset Turnover Ratio"
+    },
+    {
+        "question": "What does an increase in accounts receivable imply?",
+        "question_image": "",
+        "answers": [
+            {"text": "Higher cash inflows", "image": ""},
+            {"text": "More sales on credit", "image": ""},
+            {"text": "Better operational efficiency", "image": ""},
+            {"text": "Decreasing revenue", "image": ""}
+        ],
+        "correct_answer": "More sales on credit"
+    },
+    {
+        "question": "Which term describes the cost of borrowed funds?",
+        "question_image": "",
+        "answers": [
+            {"text": "Equity Yield", "image": ""},
+            {"text": "Interest Expense", "image": ""},
+            {"text": "Debt Leverage", "image": ""},
+            {"text": "Operating Costs", "image": ""}
+        ],
+        "correct_answer": "Interest Expense"
+    },
+    {
+        "question": "Which metric measures the proportion of earnings distributed as dividends?",
+        "question_image": "",
+        "answers": [
+            {"text": "Dividend Payout Ratio", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Net Profit Margin", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""}
+        ],
+        "correct_answer": "Dividend Payout Ratio"
+    },
+    {
+        "question": "What is the significance of the equity multiplier?",
+        "question_image": "",
+        "answers": [
+            {"text": "Evaluates asset efficiency", "image": ""},
+            {"text": "Measures financial leverage", "image": ""},
+            {"text": "Calculates net income", "image": ""},
+            {"text": "Assesses liquidity", "image": ""}
+        ],
+        "correct_answer": "Measures financial leverage"
+    },
+    {
+        "question": "Which ratio indicates how many times a company’s interest obligations can be covered by its earnings?",
+        "question_image": "",
+        "answers": [
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Interest Coverage Ratio", "image": ""},
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Current Ratio", "image": ""}
+        ],
+        "correct_answer": "Interest Coverage Ratio"
+    },
+    {
+        "question": "What does the operating cash flow ratio measure?",
+        "question_image": "",
+        "answers": [
+            {"text": "Liquidity from operating activities", "image": ""},
+            {"text": "Overall profitability", "image": ""},
+            {"text": "Debt-to-Equity balance", "image": ""},
+            {"text": "Dividend payout strength", "image": ""}
+        ],
+        "correct_answer": "Liquidity from operating activities"
+    },
+    {
+        "question": "Which financial statement reports on a company’s revenues and expenses?",
+        "question_image": "",
+        "answers": [
+            {"text": "Income Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Statement of Retained Earnings", "image": ""}
+        ],
+        "correct_answer": "Income Statement"
+    },
+    {
+        "question": "What is the primary focus of the DuPont analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Breaking down ROE into components", "image": ""},
+            {"text": "Analyzing short-term liquidity", "image": ""},
+            {"text": "Valuing market capitalization", "image": ""},
+            {"text": "Tracking dividend yields", "image": ""}
+        ],
+        "correct_answer": "Breaking down ROE into components"
+    },
+    {
+        "question": "Which ratio measures the ability of a company to pay off its short-term liabilities with its most liquid assets?",
+        "question_image": "",
+        "answers": [
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Debt Ratio", "image": ""},
+            {"text": "Asset Turnover Ratio", "image": ""}
+        ],
+        "correct_answer": "Quick Ratio"
+    },
+    {
+        "question": "What does a high working capital ratio indicate?",
+        "question_image": "",
+        "answers": [
+            {"text": "High operational risk", "image": ""},
+            {"text": "Strong short-term liquidity", "image": ""},
+            {"text": "Increased profitability", "image": ""},
+            {"text": "Over-leveraging of assets", "image": ""}
+        ],
+        "correct_answer": "Strong short-term liquidity"
+    },
+    {
+        "question": "What does the earnings per share (EPS) metric represent?",
+        "question_image": "",
+        "answers": [
+            {"text": "Net income per share outstanding", "image": ""},
+            {"text": "Dividends paid per share", "image": ""},
+            {"text": "Revenue generated per share", "image": ""},
+            {"text": "Cash flow per share", "image": ""}
+        ],
+        "correct_answer": "Net income per share outstanding"
+    },
+    {
+        "question": "Which section of the cash flow statement tracks changes in long-term investments?",
+        "question_image": "",
+        "answers": [
+            {"text": "Operating Activities", "image": ""},
+            {"text": "Investing Activities", "image": ""},
+            {"text": "Financing Activities", "image": ""},
+            {"text": "Revenue Activities", "image": ""}
+        ],
+        "correct_answer": "Investing Activities"
+    },
+    {
+        "question": "What does the term 'current liabilities' refer to?",
+        "question_image": "",
+        "answers": [
+            {"text": "Liabilities due within one year", "image": ""},
+            {"text": "Total liabilities of the firm", "image": ""},
+            {"text": "Short-term loans and debts", "image": ""},
+            {"text": "Revenue generated annually", "image": ""}
+        ],
+        "correct_answer": "Liabilities due within one year"
+    },
+    {
+        "question": "What is a limitation of using financial ratios for analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "Ratios provide detailed operational insights", "image": ""},
+            {"text": "Ratios are always comparable across industries", "image": ""},
+            {"text": "Ratios rely on historical data", "image": ""},
+            {"text": "Ratios ensure future predictability", "image": ""}
+        ],
+        "correct_answer": "Ratios rely on historical data"
+    },
+    {
+        "question": "Which metric evaluates the total value of a company's stock based on its current share price?",
+        "question_image": "",
+        "answers": [
+            {"text": "Market Capitalization", "image": ""},
+            {"text": "Net Asset Value", "image": ""},
+            {"text": "Earnings per Share", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""}
+        ],
+        "correct_answer": "Market Capitalization"
+    },
+    {
+        "question": "What does the cash ratio specifically measure?",
+        "question_image": "",
+        "answers": [
+            {"text": "The proportion of cash to total revenue", "image": ""},
+            {"text": "The ability to cover short-term liabilities with cash", "image": ""},
+            {"text": "The operational efficiency of a company", "image": ""},
+            {"text": "The investment potential of the firm", "image": ""}
+        ],
+        "correct_answer": "The ability to cover short-term liabilities with cash"
+    },
+    {
+        "question": "Which of the following is NOT a typical line item found on a balance sheet?",
+        "question_image": "",
+        "answers": [
+            {"text": "Revenue", "image": ""},
+            {"text": "Cash", "image": ""},
+            {"text": "Liabilities", "image": ""},
+            {"text": "Shareholder's Equity", "image": ""}
+        ],
+        "correct_answer": "Revenue"
+    },
+    {
+        "question": "Which financial ratio measures a company’s ability to cover its short-term obligations?",
+        "question_image": "",
+        "answers": [
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Return on Assets", "image": ""},
+            {"text": "Price-to-Earnings Ratio", "image": ""}
+        ],
+        "correct_answer": "Quick Ratio"
+    },
+    {
+        "question": "What is the primary purpose of the Statement of Cash Flows?",
+        "question_image": "",
+        "answers": [
+            {"text": "To summarize the changes in equity", "image": ""},
+            {"text": "To track the company’s profitability", "image": ""},
+            {"text": "To report how cash moves in and out of a business", "image": ""},
+            {"text": "To record the company’s sales and expenses", "image": ""}
+        ],
+        "correct_answer": "To report how cash moves in and out of a business"
+    },
+    {
+        "question": "What does a high current ratio typically indicate?",
+        "question_image": "",
+        "answers": [
+            {"text": "Strong liquidity position", "image": ""},
+            {"text": "Low profitability", "image": ""},
+            {"text": "Inefficient asset utilization", "image": ""},
+            {"text": "High debt levels", "image": ""}
+        ],
+        "correct_answer": "Strong liquidity position"
+    },
+    {
+        "question": "Which ratio would you use to measure a company’s profitability?",
+        "question_image": "",
+        "answers": [
+            {"text": "Return on Assets (ROA)", "image": ""},
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Inventory Turnover", "image": ""}
+        ],
+        "correct_answer": "Return on Assets (ROA)"
+    },
+    {
+        "question": "What is the purpose of the Price-to-Book (P/B) ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "To compare the market value with the book value of equity", "image": ""},
+            {"text": "To measure the company’s cash flow generation", "image": ""},
+            {"text": "To assess the company’s debt levels", "image": ""},
+            {"text": "To track profitability over time", "image": ""}
+        ],
+        "correct_answer": "To compare the market value with the book value of equity"
+    },
+    {
+        "question": "Which financial metric is used to measure the proportion of earnings reinvested into the company?",
+        "question_image": "",
+        "answers": [
+            {"text": "Retention Ratio", "image": ""},
+            {"text": "Earnings per Share (EPS)", "image": ""},
+            {"text": "Price-to-Earnings (P/E) Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""}
+        ],
+        "correct_answer": "Retention Ratio"
+    },
+    {
+        "question": "What does the term 'liquidity' refer to in financial analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "The ability to meet short-term obligations", "image": ""},
+            {"text": "The ability to generate profits over the long term", "image": ""},
+            {"text": "The company’s market share", "image": ""},
+            {"text": "The proportion of debt relative to equity", "image": ""}
+        ],
+        "correct_answer": "The ability to meet short-term obligations"
+    },
+    {
+        "question": "What is a common drawback of using the debt-to-equity ratio as a financial indicator?",
+        "question_image": "",
+        "answers": [
+            {"text": "It ignores the company’s profitability", "image": ""},
+            {"text": "It does not account for interest rates", "image": ""},
+            {"text": "It does not differentiate between short-term and long-term debt", "image": ""},
+            {"text": "It is difficult to calculate", "image": ""}
+        ],
+        "correct_answer": "It does not differentiate between short-term and long-term debt"
+    },
+    {
+        "question": "Which type of financial statement is used to assess the long-term solvency of a company?",
+        "question_image": "",
+        "answers": [
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Cash Flow Statement", "image": ""},
+            {"text": "Income Statement", "image": ""},
+            {"text": "Statement of Retained Earnings", "image": ""}
+        ],
+        "correct_answer": "Balance Sheet"
+    },
+    {
+        "question": "Which of the following best describes the operating income on an income statement?",
+        "question_image": "",
+        "answers": [
+            {"text": "Revenue minus cost of goods sold", "image": ""},
+            {"text": "Revenue minus expenses", "image": ""},
+            {"text": "Sales minus taxes", "image": ""},
+            {"text": "Gross profit minus operating expenses", "image": ""}
+        ],
+        "correct_answer": "Gross profit minus operating expenses"
+    },
+    {
+        "question": "What does the dividend yield ratio measure?",
+        "question_image": "",
+        "answers": [
+            {"text": "The company’s earnings per share", "image": ""},
+            {"text": "The rate of return on dividends relative to stock price", "image": ""},
+            {"text": "The profitability of a company’s operations", "image": ""},
+            {"text": "The growth in company revenues", "image": ""}
+        ],
+        "correct_answer": "The rate of return on dividends relative to stock price"
+    },
+    {
+        "question": "Which financial metric helps investors evaluate the profitability of a company in relation to its revenue?",
+        "question_image": "",
+        "answers": [
+            {"text": "Operating Margin", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Earnings per Share (EPS)", "image": ""},
+            {"text": "Price-to-Book Ratio", "image": ""}
+        ],
+        "correct_answer": "Operating Margin"
+    },
+    {
+        "question": "Which financial statement provides information on a company’s cash inflows and outflows over a period?",
+        "question_image": "",
+        "answers": [
+            {"text": "Statement of Cash Flows", "image": ""},
+            {"text": "Income Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Statement of Retained Earnings", "image": ""}
+        ],
+        "correct_answer": "Statement of Cash Flows"
+    },
+    {
+        "question": "What does the term 'capital structure' refer to in financial analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "The mix of debt and equity financing used by a company", "image": ""},
+            {"text": "The profitability of a company", "image": ""},
+            {"text": "The liquidity of a company’s assets", "image": ""},
+            {"text": "The total assets owned by a company", "image": ""}
+        ],
+        "correct_answer": "The mix of debt and equity financing used by a company"
+    },
+    {
+        "question": "Which of the following is a non-operating item on an income statement?",
+        "question_image": "",
+        "answers": [
+            {"text": "Interest expense", "image": ""},
+            {"text": "Sales revenue", "image": ""},
+            {"text": "Cost of goods sold", "image": ""},
+            {"text": "Operating income", "image": ""}
+        ],
+        "correct_answer": "Interest expense"
+    },
+    {
+        "question": "What is the significance of the Return on Equity (ROE) ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "It measures how much profit is generated with shareholder’s equity", "image": ""},
+            {"text": "It evaluates the efficiency of the company’s operations", "image": ""},
+            {"text": "It indicates the liquidity of the company", "image": ""},
+            {"text": "It tracks the company’s market share growth", "image": ""}
+        ],
+        "correct_answer": "It measures how much profit is generated with shareholder’s equity"
+    },
+    {
+        "question": "What is the formula for calculating the quick ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "(Current Assets - Inventory) / Current Liabilities", "image": ""},
+            {"text": "Current Assets / Current Liabilities", "image": ""},
+            {"text": "Cash Flow from Operations / Current Liabilities", "image": ""},
+            {"text": "Total Assets / Total Liabilities", "image": ""}
+        ],
+        "correct_answer": "(Current Assets - Inventory) / Current Liabilities"
+    },
+    {
+        "question": "Which ratio is commonly used to evaluate a company's ability to pay off its long-term debt?",
+        "question_image": "",
+        "answers": [
+            {"text": "Interest Coverage Ratio", "image": ""},
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Return on Assets", "image": ""},
+            {"text": "Price-to-Earnings Ratio", "image": ""}
+        ],
+        "correct_answer": "Interest Coverage Ratio"
+    },
+    {
+        "question": "What does the term 'earnings quality' refer to in financial analysis?",
+        "question_image": "",
+        "answers": [
+            {"text": "The consistency and sustainability of earnings", "image": ""},
+            {"text": "The total amount of earnings generated over a period", "image": ""},
+            {"text": "The price at which the company’s stock trades", "image": ""},
+            {"text": "The impact of non-operating revenues on earnings", "image": ""}
+        ],
+        "correct_answer": "The consistency and sustainability of earnings"
+    },
+    {
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+        "question_image": "",
+        "answers": [
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Income Statement", "image": ""},
+            {"text": "Statement of Cash Flows", "image": ""},
+            {"text": "Statement of Shareholder's Equity", "image": ""}
+        ],
+        "correct_answer": "Balance Sheet"
+    },
+    {
+        "question": "What does the Price-to-Earnings (P/E) ratio measure?",
+        "question_image": "",
+        "answers": [
+            {"text": "The price of the stock relative to its earnings", "image": ""},
+            {"text": "The amount of debt in relation to equity", "image": ""},
+            {"text": "The value of a company's assets", "image": ""},
+            {"text": "The earnings generated per share of stock", "image": ""}
+        ],
+        "correct_answer": "The price of the stock relative to its earnings"
+    },
+    {
+        "question": "What is the primary purpose of depreciation in financial accounting?",
+        "question_image": "",
+        "answers": [
+            {"text": "To allocate the cost of tangible assets over time", "image": ""},
+            {"text": "To reduce the company's tax burden", "image": ""},
+            {"text": "To increase the company’s earnings", "image": ""},
+            {"text": "To assess the fair market value of an asset", "image": ""}
+        ],
+        "correct_answer": "To allocate the cost of tangible assets over time"
+    },
+    {
+        "question": "Which of the following is a liquidity ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Return on Equity", "image": ""},
+            {"text": "Gross Profit Margin", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""}
+        ],
+        "correct_answer": "Current Ratio"
+    },
+    {
+        "question": "Which ratio measures how efficiently a company utilizes its assets to generate revenue?",
+        "question_image": "",
+        "answers": [
+            {"text": "Asset Turnover Ratio", "image": ""},
+            {"text": "Quick Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Price-to-Book Ratio", "image": ""}
+        ],
+        "correct_answer": "Asset Turnover Ratio"
+    },
+    {
+        "question": "Which of the following is a common method used to assess a company’s profitability?",
+        "question_image": "",
+        "answers": [
+            {"text": "Return on Assets (ROA)", "image": ""},
+            {"text": "Current Ratio", "image": ""},
+            {"text": "Price-to-Earnings Ratio", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""}
+        ],
+        "correct_answer": "Return on Assets (ROA)"
+    },
+    {
+        "question": "Which of the following would likely cause a company's net income to increase?",
+        "question_image": "",
+        "answers": [
+            {"text": "An increase in sales and a decrease in expenses", "image": ""},
+            {"text": "A decrease in sales and an increase in expenses", "image": ""},
+            {"text": "An increase in debt and a decrease in equity", "image": ""},
+            {"text": "A decrease in asset turnover", "image": ""}
+        ],
+        "correct_answer": "An increase in sales and a decrease in expenses"
+    },
+    {
+        "question": "Which financial statement includes information about a company’s revenues and expenses over a period of time?",
+        "question_image": "",
+        "answers": [
+            {"text": "Income Statement", "image": ""},
+            {"text": "Balance Sheet", "image": ""},
+            {"text": "Statement of Cash Flows", "image": ""},
+            {"text": "Statement of Shareholder's Equity", "image": ""}
+        ],
+        "correct_answer": "Income Statement"
+    },
+    {
+        "question": "Which financial metric is typically used to assess a company’s ability to generate profits from its sales?",
+        "question_image": "",
+        "answers": [
+            {"text": "Profit Margin", "image": ""},
+            {"text": "Debt-to-Equity Ratio", "image": ""},
+            {"text": "Return on Assets", "image": ""},
+            {"text": "Price-to-Book Ratio", "image": ""}
+        ],
+        "correct_answer": "Profit Margin"
+    },
+    {
+        "question": "What does the Return on Equity (ROE) ratio measure?",
+        "question_image": "",
+        "answers": [
+            {"text": "The profitability of a company in relation to shareholders' equity", "image": ""},
+            {"text": "The proportion of assets funded by debt", "image": ""},
+            {"text": "The ability to cover short-term liabilities", "image": ""},
+            {"text": "The value of the company’s equity in relation to market price", "image": ""}
+        ],
+        "correct_answer": "The profitability of a company in relation to shareholders' equity"
+    },
+    {
+        "question": "Which of the following is considered a non-current asset?",
+        "question_image": "",
+        "answers": [
+            {"text": "Property, Plant, and Equipment", "image": ""},
+            {"text": "Accounts Receivable", "image": ""},
+            {"text": "Inventory", "image": ""},
+            {"text": "Cash and Cash Equivalents", "image": ""}
+        ],
+        "correct_answer": "Property, Plant, and Equipment"
+    },
+    {
+        "question": "Which of the following would likely be included in a company’s operating activities section of the cash flow statement?",
+        "question_image": "",
+        "answers": [
+            {"text": "Receipts from customers", "image": ""},
+            {"text": "Sale of long-term investments", "image": ""},
+            {"text": "Issuance of common stock", "image": ""},
+            {"text": "Payment of dividends", "image": ""}
+        ],
+        "correct_answer": "Receipts from customers"
+    },
+    {
+        "question": "What is a key limitation of the Price-to-Earnings (P/E) ratio?",
+        "question_image": "",
+        "answers": [
+            {"text": "It ignores company debt", "image": ""},
+            {"text": "It only considers long-term revenue growth", "image": ""},
+            {"text": "It cannot be used for companies with negative earnings", "image": ""},
+            {"text": "It is difficult to calculate", "image": ""}
+        ],
+        "correct_answer": "It cannot be used for companies with negative earnings"
+    },
+    {
+        "question": "Which of the following is a key feature of a cash flow statement?",
+        "question_image": "",
+        "answers": [
+            {"text": "It tracks cash flows from operating, investing, and financing activities", "image": ""},
+            {"text": "It tracks a company's net income over a period of time", "image": ""},
+            {"text": "It summarizes the company's balance sheet", "image": ""},
+            {"text": "It provides information about shareholder's equity", "image": ""}
+        ],
+        "correct_answer": "It tracks cash flows from operating, investing, and financing activities"
+    }
+]
