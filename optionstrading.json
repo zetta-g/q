@@ -1,0 +1,1333 @@
+[
+{
+  "type": "Options Trading",
+  "question": "NebulaSandwich RailTech trades at $47.80. RSI is 74 (overbought), MACD flattening, and a long upper wick shows sellers stepping in. The $48 puts have Delta 0.44 and IV Rank 59 (rising). What’s the logical move?",
+  "answers": [
+    {"text": "Buy the $48 put because overbought weakness combined with rising IV usually boosts put premium movement"},
+    {"text": "Buy the $50 call because overbought momentum reinforces upward volatility layering"},
+    {"text": "Sell the $48 put because rising IV disrupts downward-chain consistency across the strikes"},
+    {"text": "Sell a call spread because exhaustion phases distort upper-volatility calibration at resistance"}
+  ],
+  "correct_answer": "Buy the $48 put because overbought weakness combined with rising IV usually boosts put premium movement"
+},
+  {
+    "type": "Options Trading",
+    "question": "NebulaChurro Dynamics trades at $44.70. RSI is 31 (oversold), MACD turning up, support holding strong. The $45 calls have Delta 0.28 and IV Rank 18 (cheap). What’s the logical play?",
+    "answers": [
+      {"text": "Buy the $45 call because oversold reversal with cheap IV usually gives strong upside sensitivity"},
+      {"text": "Buy the $43 put because reversal phases rewrite downward skew mechanics"},
+      {"text": "Sell the $45 call because cheap IV disrupts premium structure at upper strikes"},
+      {"text": "Sell a put spread because reversal strength destabilizes lower-strike volatility flows"}
+    ],
+    "correct_answer": "Buy the $45 call because oversold reversal with cheap IV usually gives strong upside sensitivity"
+  },
+  {
+    "type": "Options Trading",
+    "question": "QuantumMuffin Railways trades at $61.30. RSI 76 (overbought), MACD flattening, bearish wick forming. $61 puts have Delta 0.42 and IV rising. What fits?",
+    "answers": [
+      {"text": "Buy the $61 put because overbought weakness paired with rising IV usually accelerates put value"},
+      {"text": "Buy the $64 call because flattening cycles strengthen upward volatility streams"},
+      {"text": "Sell the $61 put because elevated IV disrupts premium mapping downward"},
+      {"text": "Sell a call spread because exhaustion phases reshape upper-volatility dynamics"}
+    ],
+    "correct_answer": "Buy the $61 put because overbought weakness paired with rising IV usually accelerates put value"
+  },
+  {
+    "type": "Options Trading",
+    "question": "SpicyGear Lumberworks trades at $23.90. RSI 55 (healthy), MACD climbing, volume steady. $24 calls have Delta 0.27 and IV Rank 15. What’s optimal?",
+    "answers": [
+      {"text": "Buy the $24 call because solid momentum with cheap IV typically enhances call responsiveness"},
+      {"text": "Buy the $22 put because upward progress restructures downward volatility logic"},
+      {"text": "Sell the $24 call because premium channels weaken when IV is low"},
+      {"text": "Sell a put spread because upward structure distorts lower-strike modeling"}
+    ],
+    "correct_answer": "Buy the $24 call because solid momentum with cheap IV typically enhances call responsiveness"
+  },
+  {
+    "type": "Options Trading",
+    "question": "GalacticSyrup Biochem trades at $92.60. RSI 72 (overbought), MACD losing strength, bearish divergence printed. $93 puts show Delta 0.46 and IV rising. Which trade makes sense?",
+    "answers": [
+      {"text": "Buy the $93 put because overbought divergence with rising IV often boosts put premium movement"},
+      {"text": "Buy the $95 call because divergence enhances upward volatility architecture"},
+      {"text": "Sell the $93 put because rising IV destabilizes chain predictability beneath price"},
+      {"text": "Sell a call spread because exhaustion phases distort upper-premium distribution"}
+    ],
+    "correct_answer": "Buy the $93 put because overbought divergence with rising IV often boosts put premium movement"
+  },
+  {
+    "type": "Options Trading",
+    "question": "MuffinBlaze Shipping trades at $36.80. RSI 40 (slightly weak), MACD negative. $37 puts have Delta 0.33 and IV Rank 64. Bearish setup?",
+    "answers": [
+      {"text": "Buy the $37 put because weakening indicators with elevated IV typically increase put sensitivity"},
+      {"text": "Buy the $39 call because downward cycles reinforce upward skew symmetry"},
+      {"text": "Sell the $37 put because IV elevation distorts premium pacing"},
+      {"text": "Sell a call spread because weak alignment disrupts upper-strike premium mechanics"}
+    ],
+    "correct_answer": "Buy the $37 put because weakening indicators with elevated IV typically increase put sensitivity"
+  },
+  {
+    "type": "Options Trading",
+    "question": "NebulaSprocket Marine trades at $58.40. RSI 63 (bullish), MACD widening. $59 calls show Delta 0.38 and IV Rank 17 (cheap). What’s the correct move?",
+    "answers": [
+      {"text": "Buy the $59 call because bullish momentum with cheap IV usually makes calls highly responsive"},
+      {"text": "Buy the $56 put because rising strength distorts downward skew channels"},
+      {"text": "Sell the $59 call because strong structure disrupts upper-strike premium mapping"},
+      {"text": "Sell a put spread because upward power misaligns volatility at lower strikes"}
+    ],
+    "correct_answer": "Buy the $59 call because bullish momentum with cheap IV usually makes calls highly responsive"
+  },
+  {
+    "type": "Options Trading",
+    "question": "CrispyOrbit Metals trades at $17.40. RSI 26 (oversold), MACD curling upward, strong reversal candle shows. $17.50 calls have Delta 0.31 and IV Rank 19. Action?",
+    "answers": [
+      {"text": "Buy the $17.50 call because oversold reversal with cheap IV often makes calls expand quickly"},
+      {"text": "Buy the $16 put because upward reversals recalibrate downward volatility sections"},
+      {"text": "Sell the $17.50 call because low IV suppresses premium extension"},
+      {"text": "Sell a put spread because reversal tension disrupts lower-volatility consistency"}
+    ],
+    "correct_answer": "Buy the $17.50 call because oversold reversal with cheap IV often makes calls expand quickly"
+  },
+  {
+    "type": "Options Trading",
+    "question": "GalaxyTaco Innovations trades at $101.20. RSI 68 (strong), MACD rising fast. $102 calls have Delta 0.40 and IV stable. What’s the right upward move?",
+    "answers": [
+      {"text": "Buy the $102 call because strong rising structure with stable IV lifts call premium efficiently"},
+      {"text": "Buy the $98 put because expanding strength reshapes downward volatility architecture"},
+      {"text": "Sell the $102 call because upward thrust distorts premium retention at higher strikes"},
+      {"text": "Sell a put spread because strong bias destabilizes lower-chain volatility control"}
+    ],
+    "correct_answer": "Buy the $102 call because strong rising structure with stable IV lifts call premium efficiently"
+  },
+  {
+    "type": "Options Trading",
+    "question": "TurboYogurt Aerospace trades at $54.10. RSI 79 (very overbought), MACD flattening. $54 puts show Delta 0.49 and IV rising. Best bearish setup?",
+    "answers": [
+      {"text": "Buy the $54 put because extreme overbought weakness with rising IV typically accelerates put value"},
+      {"text": "Buy the $57 call because exhaustion phases strengthen upward volatility construction"},
+      {"text": "Sell the $54 put because rising IV distorts premium mobility downward"},
+      {"text": "Sell a call spread because exhaustion dynamics impair upper volatility flow"}
+    ],
+    "correct_answer": "Buy the $54 put because extreme overbought weakness with rising IV typically accelerates put value"
+  },
+  {
+    "type": "Options Trading",
+    "question": "MegaWaffle Electrics trades at $83.60. RSI 51 (neutral), MACD slightly up. $84 calls have Delta 0.27 and IV Rank 14. Optimal upward setup?",
+    "answers": [
+      {"text": "Buy the $84 call because mild bullishness with cheap IV usually increases call responsiveness"},
+      {"text": "Buy the $80 put because neutral alignment rewrites downward skew layers"},
+      {"text": "Sell the $84 call because low IV restricts upper-level premium efficiency"},
+      {"text": "Sell a put spread because consolidation disrupts lower-strike premium timing"}
+    ],
+    "correct_answer": "Buy the $84 call because mild bullishness with cheap IV usually increases call responsiveness"
+  },
+  {
+    "type": "Options Trading",
+    "question": "FrostedCrank Nutrition trades at $39.30. RSI 72 (overbought), MACD rolling down. $39 puts have Delta 0.42 and IV rising. Best choice?",
+    "answers": [
+      {"text": "Buy the $39 put because overbought weakness with rising IV frequently boosts put premium growth"},
+      {"text": "Buy the $41 call because downward roll enhances upward volatility potential"},
+      {"text": "Sell the $39 put because rising IV destabilizes chain uniformity"},
+      {"text": "Sell a call spread because overextension misaligns upper volatility grids"}
+    ],
+    "correct_answer": "Buy the $39 put because overbought weakness with rising IV frequently boosts put premium growth"
+  },
+  {
+    "type": "Options Trading",
+    "question": "QuantumBagel Holdings trades at $120.40. RSI 60 (healthy), MACD accelerating. $121 calls show Delta 0.39 and IV Rank 22. Right move?",
+    "answers": [
+      {"text": "Buy the $121 call because strong acceleration with moderate IV gives clean call momentum"},
+      {"text": "Buy the $118 put because bullish acceleration rearranges downward volatility"},
+      {"text": "Sell the $121 call because strong trends distort upper-premium expansion"},
+      {"text": "Sell a put spread because rising momentum reshapes lower-chain balance"}
+    ],
+    "correct_answer": "Buy the $121 call because strong acceleration with moderate IV gives clean call momentum"
+  },
+  {
+    "type": "Options Trading",
+    "question": "NebulaSundae Robotics trades at $26.80. RSI 37 (weak), MACD trending down. $27 puts have Delta 0.35 and IV Rank 58. Correct bearish approach?",
+    "answers": [
+      {"text": "Buy the $27 put because weakening indicators with higher IV typically increase put responsiveness"},
+      {"text": "Buy the $29 call because downward pressure stimulates upward volatility layers"},
+      {"text": "Sell the $27 put because elevated IV interrupts premium timing"},
+      {"text": "Sell a call spread because weak action distorts upper volatility grids"}
+    ],
+    "correct_answer": "Buy the $27 put because weakening indicators with higher IV typically increase put responsiveness"
+  },
+  {
+    "type": "Options Trading",
+    "question": "SpiralPepper Motors trades at $63.20. RSI 28 (oversold), MACD curling up, volume expanding. $64 calls have Delta 0.30 and IV Rank 16. Which fits?",
+    "answers": [
+      {"text": "Buy the $64 call because oversold reversal with cheap IV typically boosts call premium quickly"},
+      {"text": "Buy the $61 put because reversal momentum restructures downward volatility"},
+      {"text": "Sell the $64 call because low IV restricts call-chain expansion"},
+      {"text": "Sell a put spread because reversal uplift distorts lower volatility responsiveness"}
+    ],
+    "correct_answer": "Buy the $64 call because oversold reversal with cheap IV typically boosts call premium quickly"
+  },
+  {
+    "type": "Options Trading",
+    "question": "NebulaPickle Robotics trades at $41.20. RSI is 66 (bullish momentum), MACD rising, and price stays above VWAP. The $42 calls have Delta 0.35 and IV 28% (normal). What’s the play?",
+    "answers": [
+      {"text": "Buy the $42 call because bullish indicators with normal IV usually provide efficient premium expansion"},
+      {"text": "Buy the $39 put because upward momentum restructures downward volatility patterns"},
+      {"text": "Sell the $42 call because bullish flows destabilize call-chain pricing at resistance levels"},
+      {"text": "Sell a put spread because upward strength disrupts lower-strike premium distribution"}
+    ],
+    "correct_answer": "Buy the $42 call because bullish indicators with normal IV usually provide efficient premium expansion"
+  },
+  {
+    "type": "Options Trading",
+    "question": "QuantumPretzel Electronics trades at $73.80. RSI 26 (oversold), MACD turning up, strong reversal candle appears. $75 calls show Delta 0.29 and IV Rank 21 (cheap). What's optimal?",
+    "answers": [
+      {"text": "Buy the $75 call because oversold reversals combined with cheap IV often make calls highly responsive"},
+      {"text": "Buy the $72 put because reversal cycles distort downward volatility pathways"},
+      {"text": "Sell the $75 call because low IV disrupts upper-strike premium mobility"},
+      {"text": "Sell a put spread because reversal alignment destabilizes premium timing underneath"}
+    ],
+    "correct_answer": "Buy the $75 call because oversold reversals combined with cheap IV often make calls highly responsive"
+  },
+  {
+    "type": "Options Trading",
+    "question": "SpicyNebula Mining trades at $28.50. RSI 77 (overbought), MACD flattening, bearish candle forming. $28 puts have Delta 0.43 and IV rising. What’s best?",
+    "answers": [
+      {"text": "Buy the $28 put because overbought weakness with rising IV usually accelerates put premium growth"},
+      {"text": "Buy the $30 call because exhaustion phases reinforce upward volatility clusters"},
+      {"text": "Sell the $28 put because rising IV weakens put-chain predictability"},
+      {"text": "Sell a call spread because overbought action disrupts upper-strike premium consistency"}
+    ],
+    "correct_answer": "Buy the $28 put because overbought weakness with rising IV usually accelerates put premium growth"
+  },
+  {
+    "type": "Options Trading",
+    "question": "MangoCrank Communications trades at $95.00. RSI 58 (healthy uptrend), MACD rising, volume expanding. $97 calls have Delta 0.31 and IV low. Correct choice?",
+    "answers": [
+      {"text": "Buy the $97 call because strong uptrend with low IV typically boosts call efficiency dramatically"},
+      {"text": "Buy the $93 put because rising structure disrupts downward skew mechanics"},
+      {"text": "Sell the $97 call because improving strength destabilizes premium extension"},
+      {"text": "Sell a put spread because upward flows weaken lower-level premium calibration"}
+    ],
+    "correct_answer": "Buy the $97 call because strong uptrend with low IV typically boosts call efficiency dramatically"
+  },
+  {
+    "type": "Options Trading",
+    "question": "CrispyBolt Automation trades at $67.40. RSI 40 (slightly weak), MACD negative, VWAP overhead. $67 puts have Delta 0.37 and IV Rank 63 (high). What’s the bearish play?",
+    "answers": [
+      {"text": "Buy the $67 put because weak indicators with high IV usually generate strong put responsiveness"},
+      {"text": "Buy the $70 call because downward signals reconfigure upward volatility axes"},
+      {"text": "Sell the $67 put because elevated IV disrupts downward premium continuity"},
+      {"text": "Sell a call spread because weak structure misaligns upper-contract pricing"}
+    ],
+    "correct_answer": "Buy the $67 put because weak indicators with high IV usually generate strong put responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboFunnel Aerospace trades at $122.70. RSI 63 (bullish), MACD widening, breakout confirmed. The $125 calls show Delta 0.33 and IV stable. What’s the right move?",
+    "answers": [
+      {"text": "Buy the $125 call because breakout momentum with stable IV usually lifts call premiums efficiently"},
+      {"text": "Buy the $120 put because upward expansions compress downward volatility clusters"},
+      {"text": "Sell the $125 call because breakout movement weakens premium reliability"},
+      {"text": "Sell a put spread because rising momentum alters volatility mechanics under price"}
+    ],
+    "correct_answer": "Buy the $125 call because breakout momentum with stable IV usually lifts call premiums efficiently"
+  },
+  {
+    "type": "Options Trading",
+    "question": "GalacticWaffle Systems trades at $13.80. RSI 31 (oversold), MACD turning up, bullish engulfing candle. $14 calls have Delta 0.23 and IV low. What’s optimal?",
+    "answers": [
+      {"text": "Buy the $14 call because oversold rebound with low IV gives strong call premium potential"},
+      {"text": "Buy the $13 put because upward reversals reshape downward volatility"},
+      {"text": "Sell the $14 call because low IV weakens upward premium responsiveness"},
+      {"text": "Sell a put spread because reversal stages distort premium relationships underneath"}
+    ],
+    "correct_answer": "Buy the $14 call because oversold rebound with low IV gives strong call premium potential"
+  },
+  {
+    "type": "Options Trading",
+    "question": "CosmicRaccoon Energy trades at $58.10. RSI 70 (overbought), MACD slowing, bearish wick forming. $58 puts have Delta 0.44 and IV rising. Which trade fits?",
+    "answers": [
+      {"text": "Buy the $58 put because overbought exhaustion with rising IV often triggers fast put expansion"},
+      {"text": "Buy the $60 call because weakening cycles intensify upward skew alignment"},
+      {"text": "Sell the $58 put because rising IV destabilizes downward chain accuracy"},
+      {"text": "Sell a call spread because exhaustion reshapes upper-strike premium imbalance"}
+    ],
+    "correct_answer": "Buy the $58 put because overbought exhaustion with rising IV often triggers fast put expansion"
+  },
+  {
+    "type": "Options Trading",
+    "question": "GlitterHammer Tech trades at $46.40. RSI 49 (neutral), MACD slightly bullish, support holding. $47 calls have Delta 0.26 and IV Rank 17 (cheap). What fits?",
+    "answers": [
+      {"text": "Buy the $47 call because neutral-bullish stability with cheap IV gives clean call pricing"},
+      {"text": "Buy the $44 put because consolidation disrupts downward volatility structures"},
+      {"text": "Sell the $47 call because low IV weakens premium extension on upper strikes"},
+      {"text": "Sell a put spread because mild upward bias redistributes volatility underneath"}
+    ],
+    "correct_answer": "Buy the $47 call because neutral-bullish stability with cheap IV gives clean call pricing"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MuffinNova Cloudworks trades at $24.90. RSI 78 (very overbought), MACD flattening, bearish divergence signaling. $25 puts have Delta 0.48 and IV climbing. What's best?",
+    "answers": [
+      {"text": "Buy the $25 put because extreme overbought divergence with rising IV reliably lifts put premiums"},
+      {"text": "Buy the $27 call because divergence strengthens upward volatility pathways"},
+      {"text": "Sell the $25 put because elevated IV destabilizes put-chain variance"},
+      {"text": "Sell a call spread because upward exhaustion impairs premium control above price"}
+    ],
+    "correct_answer": "Buy the $25 put because extreme overbought divergence with rising IV reliably lifts put premiums"
+  },
+
+
+  {
+    "type": "Options Trading",
+    "question": "SparkleToad Mobility trades at $31.60. RSI 42 (slightly weak), MACD negative, VWAP overhead. $31 puts have Delta 0.36 and IV Rank 55. Bearish setup?",
+    "answers": [
+      {"text": "Buy the $31 put because weakening indicators with moderate-high IV typically strengthen put activity"},
+      {"text": "Buy the $34 call because weak alignment enhances upward volatility formations"},
+      {"text": "Sell the $31 put because IV correlation disrupts premium dependability"},
+      {"text": "Sell a call spread because downward cycles impair premium balance above price"}
+    ],
+    "correct_answer": "Buy the $31 put because weakening indicators with moderate-high IV typically strengthen put activity"
+  },
+  {
+    "type": "Options Trading",
+    "question": "NebulaCrank Aerotech trades at $52.10. RSI 63 (bullish), MACD rising, price near breakout. $53 calls show Delta 0.31 and IV Rank 19 (cheap). Right move?",
+    "answers": [
+      {"text": "Buy the $53 call because bullish structure with cheap IV usually boosts call premium efficiency"},
+      {"text": "Buy the $50 put because rising momentum restructures downward chain structure"},
+      {"text": "Sell the $53 call because low IV restricts call premium potential"},
+      {"text": "Sell a put spread because upward breakouts weaken premium calibration underneath"}
+    ],
+    "correct_answer": "Buy the $53 call because bullish structure with cheap IV usually boosts call premium efficiency"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "FrostyQuantum Retail trades at $14.70. RSI 30 (oversold), MACD crossing upward. $15 calls have Delta 0.27 and IV low. What fits?",
+    "answers": [
+      {"text": "Buy the $15 call because oversold reversal plus low IV typically provides strong upside sensitivity"},
+      {"text": "Buy the $13.50 put because recovery alignment adjusts downward skew"},
+      {"text": "Sell the $15 call because low IV weakens upward premium expansion"},
+      {"text": "Sell a put spread because reversal formations destabilize lower-strike premium clusters"}
+    ],
+    "correct_answer": "Buy the $15 call because oversold reversal plus low IV typically provides strong upside sensitivity"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "PancakeNebula Waterworks trades at $84.10. RSI 73 (overbought), MACD flattening. $84 puts show Delta 0.45 and IV rising. What’s optimal?",
+    "answers": [
+      {"text": "Buy the $84 put because overbought weakness with rising IV often accelerates put premium expansion"},
+      {"text": "Buy the $86 call because flattening cycles enhance upward volatility orientation"},
+      {"text": "Sell the $84 put because rising IV disrupts downward structures"},
+      {"text": "Sell a call spread because exhaustion realigns premium pressure across upper strikes"}
+    ],
+    "correct_answer": "Buy the $84 put because overbought weakness with rising IV often accelerates put premium expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboLattice Industrial trades at $109.80. RSI 57 (healthy), MACD widening, volume building. $110 calls have Delta 0.40 and IV Rank 22. Best move?",
+    "answers": [
+      {"text": "Buy the $110 call because strong upward structure with moderate IV offers clean call responsiveness"},
+      {"text": "Buy the $106 put because rising patterns reconfigure downward volatility"},
+      {"text": "Sell the $110 call because upward cycles distort premium expansion"},
+      {"text": "Sell a put spread because trend strength weakens lower-chain reliability"}
+    ],
+    "correct_answer": "Buy the $110 call because strong upward structure with moderate IV offers clean call responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SpicyGolem Foods trades at $32.10. RSI 43 (slightly weak), MACD trending down. $32 puts have Delta 0.38 and IV Rank 65. Bearish choice?",
+    "answers": [
+      {"text": "Buy the $32 put because weakening indicators with high IV usually boost put premiums effectively"},
+      {"text": "Buy the $34 call because downward momentum intensifies upward skew flows"},
+      {"text": "Sell the $32 put because elevated IV disrupts premium uniformity"},
+      {"text": "Sell a call spread because downward trends misalign upper-strike pricing"}
+    ],
+    "correct_answer": "Buy the $32 put because weakening indicators with high IV usually boost put premiums effectively"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MegaNebula Steel trades at $51.20. RSI 47 (neutral), MACD slightly up, price near support. $52 calls have Delta 0.24 and IV Rank 14. Bullish move?",
+    "answers": [
+      {"text": "Buy the $52 call because low IV with stabilizing momentum gives efficient upside exposure"},
+      {"text": "Buy the $49 put because neutral flows disrupt downward volatility geometry"},
+      {"text": "Sell the $52 call because low IV restricts premium behavior upward"},
+      {"text": "Sell a put spread because neutral structure destabilizes lower-chain volatility"}
+    ],
+    "correct_answer": "Buy the $52 call because low IV with stabilizing momentum gives efficient upside exposure"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "OrbitPineapple Maritime trades at $76.60. RSI 75 (overbought), MACD rolling down. $76 puts have Delta 0.42 and IV rising. Best bearish play?",
+    "answers": [
+      {"text": "Buy the $76 put because overbought weakness with rising IV typically strengthens put expansion"},
+      {"text": "Buy the $79 call because weakening cycles enhance upward volatility"},
+      {"text": "Sell the $76 put because IV increases distort put-chain consistency"},
+      {"text": "Sell a call spread because saturation phases destabilize upward premium modeling"}
+    ],
+    "correct_answer": "Buy the $76 put because overbought weakness with rising IV typically strengthens put expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GigaHelix Automotive trades at $44.50. RSI 29 (oversold), MACD rising. $45 calls have Delta 0.31 and IV Rank 20 (cheap). What’s best?",
+    "answers": [
+      {"text": "Buy the $45 call because oversold reversal with cheap IV creates strong call responsiveness"},
+      {"text": "Buy the $43 put because recovery phases distort downward skew dynamics"},
+      {"text": "Sell the $45 call because cheap IV disrupts premium uplift"},
+      {"text": "Sell a put spread because upward reversals destabilize lower-chain stability"}
+    ],
+    "correct_answer": "Buy the $45 call because oversold reversal with cheap IV creates strong call responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MightyNoodle Robotics trades at $91.40. RSI 69 (strong), MACD rising. $92 calls show Delta 0.41 and IV normal. What fits?",
+    "answers": [
+      {"text": "Buy the $92 call because strong uptrend with normal IV usually improves call premium sensitivity"},
+      {"text": "Buy the $89 put because upward flows compress downward volatility pathways"},
+      {"text": "Sell the $92 call because strong momentum reduces premium viability"},
+      {"text": "Sell a put spread because rising pressure unbalances volatility under price"}
+    ],
+    "correct_answer": "Buy the $92 call because strong uptrend with normal IV usually improves call premium sensitivity"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaSauce Packaging trades at $18.90. RSI 79 (very overbought), MACD losing energy. $19 puts have Delta 0.46 and IV increasing. Best trade?",
+    "answers": [
+      {"text": "Buy the $19 put because extreme overbought weakness with rising IV usually accelerates put movement"},
+      {"text": "Buy the $21 call because exhaustion phases enhance upward volatility channels"},
+      {"text": "Sell the $19 put because high IV destabilizes premium consistency"},
+      {"text": "Sell a call spread because weakening cycles distort premium formation at upper levels"}
+    ],
+    "correct_answer": "Buy the $19 put because extreme overbought weakness with rising IV usually accelerates put movement"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "FrostCrank Biotechnology trades at $57.60. RSI 48 (neutral), MACD slightly up. $58 calls have Delta 0.25 and IV Rank 12. Bullish choice?",
+    "answers": [
+      {"text": "Buy the $58 call because low IV with mild bullishness produces clean upward premium potential"},
+      {"text": "Buy the $55 put because upward neutrality changes downward volatility order"},
+      {"text": "Sell the $58 call because low IV weakens premium acceleration"},
+      {"text": "Sell a put spread because neutral structure distorts volatility under price"}
+    ],
+    "correct_answer": "Buy the $58 call because low IV with mild bullishness produces clean upward premium potential"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "QuantumBanana Semiconductors trades at $142.30. RSI 62 (healthy), MACD rising hard. $145 calls have Delta 0.37 and IV stable. The correct move?",
+    "answers": [
+      {"text": "Buy the $145 call because strong demand with stable IV often increases call responsiveness"},
+      {"text": "Buy the $139 put because acceleration phases reconfigure downward skew"},
+      {"text": "Sell the $145 call because strong trends destabilize upper-chain premium"},
+      {"text": "Sell a put spread because rising pressure disrupts lower-volatility regions"}
+    ],
+    "correct_answer": "Buy the $145 call because strong demand with stable IV often increases call responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MuffinVortex Clean Energy trades at $34.70. RSI 33 (weak), MACD negative. $34 puts have Delta 0.37 and IV Rank 58. Best bearish position?",
+    "answers": [
+      {"text": "Buy the $34 put because weakening structure combined with high IV supports strong put gains"},
+      {"text": "Buy the $36 call because downward intensity improves upward skew conditions"},
+      {"text": "Sell the $34 put because elevated IV interferes with downward accuracy"},
+      {"text": "Sell a call spread because weak momentum alters upper premium boundaries"}
+    ],
+    "correct_answer": "Buy the $34 put because weakening structure combined with high IV supports strong put gains"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SpiralNoodle Pharma trades at $11.90. RSI 30 (oversold), MACD crossing up, volume rising. $12 calls have Delta 0.29 and IV Rank 15. Correct choice?",
+    "answers": [
+      {"text": "Buy the $12 call because oversold reversal with low IV often gives clean premium expansion"},
+      {"text": "Buy the $11 put because reversal disruptions adjust downward volatility"},
+      {"text": "Sell the $12 call because low IV restricts upward premium potential"},
+      {"text": "Sell a put spread because reversal tension misaligns volatility beneath price"}
+    ],
+    "correct_answer": "Buy the $12 call because oversold reversal with low IV often gives clean premium expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboCoconut Oil trades at $28.40. RSI 77 (overbought), MACD rolling down. $28.50 puts show Delta 0.43 and IV increasing. Action?",
+    "answers": [
+      {"text": "Buy the $28.50 put because overbought weakness with rising IV usually boosts put value"},
+      {"text": "Buy the $30 call because weakening flows reshape upward volatility"},
+      {"text": "Sell the $28.50 put because high IV destabilizes continuity across put chains"},
+      {"text": "Sell a call spread because exhaustion alters premium equilibrium above resistance"}
+    ],
+    "correct_answer": "Buy the $28.50 put because overbought weakness with rising IV usually boosts put value"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GalaxyGrinder Logistics trades at $63.50. RSI 59 (healthy), MACD rising steadily. $65 calls have Delta 0.33 and IV Rank 18. Best play?",
+    "answers": [
+      {"text": "Buy the $65 call because rising strength with cheap IV offers excellent call sensitivity"},
+      {"text": "Buy the $60 put because upward accelerations distort downward skew"},
+      {"text": "Sell the $65 call because low IV dampens premium expansion"},
+      {"text": "Sell a put spread because upward momentum disrupts lower-pricing logic"}
+    ],
+    "correct_answer": "Buy the $65 call because rising strength with cheap IV offers excellent call sensitivity"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaFritter Robotics trades at $71.90. RSI 75 (overbought), MACD flattening, bearish wick. $72 puts have Delta 0.46 and IV rising. Which is best?",
+    "answers": [
+      {"text": "Buy the $72 put because overbought exhaustion with rising IV accelerates put premium movements"},
+      {"text": "Buy the $75 call because exhaustion strengthens upward volatility steps"},
+      {"text": "Sell the $72 put because rising IV weakens chain efficiency"},
+      {"text": "Sell a call spread because stabilization issues distort premium overhead"}
+    ],
+    "correct_answer": "Buy the $72 put because overbought exhaustion with rising IV accelerates put premium movements"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TacoCrank Holdings trades at $17.90. RSI 39 (slightly weak), MACD downward, VWAP overhead. $18 puts have Delta 0.34 and IV Rank 62. Bearish?",
+    "answers": [
+      {"text": "Buy the $18 put because weakening structure with elevated IV tends to increase put sensitivity"},
+      {"text": "Buy the $20 call because downward timing influences upward volatility flows"},
+      {"text": "Sell the $18 put because high IV disrupts premium alignment"},
+      {"text": "Sell a call spread because weak cycles destabilize upper volatility channels"}
+    ],
+    "correct_answer": "Buy the $18 put because weakening structure with elevated IV tends to increase put sensitivity"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GammaPancake Robotics trades at $134.10. RSI 55 (healthy), MACD rising fast. $135 calls have Delta 0.41 and IV normal. Ideal move?",
+    "answers": [
+      {"text": "Buy the $135 call because strengthening indicators with normal IV create clean call responsiveness"},
+      {"text": "Buy the $130 put because upward mobility distorts downward modeling"},
+      {"text": "Sell the $135 call because premium cycles destabilize under strong trends"},
+      {"text": "Sell a put spread because rising structure weakens lower-volatility balancing"}
+    ],
+    "correct_answer": "Buy the $135 call because strengthening indicators with normal IV create clean call responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "ElectricCrumpet Tech trades at $69.40. RSI 62 (healthy), MACD widening, volume rising. $70 calls have Delta 0.36 and IV low. What fits?",
+    "answers": [
+      {"text": "Buy the $70 call because strong upward continuation with low IV normally boosts call premium growth"},
+      {"text": "Buy the $67 put because strong alignment disrupts downward gradients"},
+      {"text": "Sell the $70 call because upward pressure degrades call-chain stability"},
+      {"text": "Sell a put spread because strong rises distort volatility underneath"}
+    ],
+    "correct_answer": "Buy the $70 call because strong upward continuation with low IV normally boosts call premium growth"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MuffinPhoton Motors trades at $22.70. RSI 29 (oversold), MACD curling up. $23 calls have Delta 0.30 and IV Rank 20. Play?",
+    "answers": [
+      {"text": "Buy the $23 call because oversold reversal with cheap IV provides efficient call momentum"},
+      {"text": "Buy the $21 put because reversal skew alters downward premium structure"},
+      {"text": "Sell the $23 call because cheap IV restrains upper-strike pricing"},
+      {"text": "Sell a put spread because volatility stabilization disrupts lower-chain reliability"}
+    ],
+    "correct_answer": "Buy the $23 call because oversold reversal with cheap IV provides efficient call momentum"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboWalrus Aerospace trades at $88.60. RSI 70 (overbought), MACD weakening. $89 puts have Delta 0.44 and IV rising. What’s the best bearish trade?",
+    "answers": [
+      {"text": "Buy the $89 put because overbought weakness with rising IV often boosts put premiums sharply"},
+      {"text": "Buy the $92 call because weakening sequences strengthen upward volatility allocation"},
+      {"text": "Sell the $89 put because rising IV weakens downward reliability"},
+      {"text": "Sell a call spread because exhaustion disrupts premium layering overhead"}
+    ],
+    "correct_answer": "Buy the $89 put because overbought weakness with rising IV often boosts put premiums sharply"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GalaxyNoodle Cybernetics trades at $55.10. RSI 50 (neutral), MACD slightly bullish. $56 calls have Delta 0.29 and IV Rank 12. Upward play?",
+    "answers": [
+      {"text": "Buy the $56 call because low IV with early bullish momentum often enhances call responsiveness"},
+      {"text": "Buy the $53 put because upward shifts restructure downward skew"},
+      {"text": "Sell the $56 call because low IV reduces premium momentum"},
+      {"text": "Sell a put spread because neutral setups distort lower volatility chains"}
+    ],
+    "correct_answer": "Buy the $56 call because low IV with early bullish momentum often enhances call responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SpicyQuantum Freight trades at $61.80. RSI 76 (overbought), MACD flattening. $62 puts have Delta 0.43 and IV increasing. Which is correct?",
+    "answers": [
+      {"text": "Buy the $62 put because extreme overbought weakness with rising IV usually boosts put expansion"},
+      {"text": "Buy the $65 call because exhaustion shifts enhance upward skew behavior"},
+      {"text": "Sell the $62 put because volatility alteration destabilizes put continuity"},
+      {"text": "Sell a call spread because overhead exhaustion distorts premium architecture"}
+    ],
+    "correct_answer": "Buy the $62 put because extreme overbought weakness with rising IV usually boosts put expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaFork Industrial trades at $45.90. RSI 59 (healthy), MACD rising. $46 calls have Delta 0.34 and IV Rank 18. Most efficient?",
+    "answers": [
+      {"text": "Buy the $46 call because strong upward momentum with cheap IV produces efficient call premium movement"},
+      {"text": "Buy the $43 put because rising bias alters downward volatility configuration"},
+      {"text": "Sell the $46 call because upward momentum weakens chain sensitivity"},
+      {"text": "Sell a put spread because upward alignment disrupts lower-premium spacing"}
+    ],
+    "correct_answer": "Buy the $46 call because strong upward momentum with cheap IV produces efficient call premium movement"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "OmegaTruffle Aerospace trades at $131.10. RSI 71 (overbought), MACD slowing. $131 puts have Delta 0.47 and IV rising. What’s the play?",
+    "answers": [
+      {"text": "Buy the $131 put because overbought pressure with rising IV supports rapid put premium expansion"},
+      {"text": "Buy the $134 call because divergence enhances upward volatility shifts"},
+      {"text": "Sell the $131 put because rising IV weakens premium order"},
+      {"text": "Sell a call spread because overextension disrupts premium structure overhead"}
+    ],
+    "correct_answer": "Buy the $131 put because overbought pressure with rising IV supports rapid put premium expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "CrispyMeteor Tech trades at $19.20. RSI 35 (weak), MACD negative, VWAP overhead. $19 puts have Delta 0.37 and IV Rank 52. Bearish move?",
+    "answers": [
+      {"text": "Buy the $19 put because weak signals with elevated IV often generate strong put reactions"},
+      {"text": "Buy the $21 call because downward setups reinforce upward skew expressions"},
+      {"text": "Sell the $19 put because volatility layers distort downward continuity"},
+      {"text": "Sell a call spread because weak alignment disrupts upper volatility grids"}
+    ],
+    "correct_answer": "Buy the $19 put because weak signals with elevated IV often generate strong put reactions"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "FrostedWaffle Motors trades at $74.80. RSI 58 (healthy), MACD rising, volume building. $75 calls have Delta 0.42 and IV low. What’s best?",
+    "answers": [
+      {"text": "Buy the $75 call because strong upward flow with low IV improves call premium efficiency"},
+      {"text": "Buy the $72 put because upward vigor alters downward volatility mechanics"},
+      {"text": "Sell the $75 call because premium cycles weaken under bullish conditions"},
+      {"text": "Sell a put spread because rising momentum disrupts lower-strike premium accuracy"}
+    ],
+    "correct_answer": "Buy the $75 call because strong upward flow with low IV improves call premium efficiency"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboMammoth Corp trades at $36.40. RSI 40 (slightly weak), MACD down. $36 puts have Delta 0.35 and IV Rank 60. Correct bearish setup?",
+    "answers": [
+      {"text": "Buy the $36 put because weakening momentum with elevated IV often accelerates put expansion"},
+      {"text": "Buy the $38 call because downward drives amplify upward skew alignment"},
+      {"text": "Sell the $36 put because high IV disrupts premium sequences"},
+      {"text": "Sell a call spread because weak structure destabilizes upper premium layers"}
+    ],
+    "correct_answer": "Buy the $36 put because weakening momentum with elevated IV often accelerates put expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaRaptor Telecom trades at $50.30. RSI 49 (neutral), MACD turning slightly up. $51 calls have Delta 0.23 and IV Rank 13 (cheap). Bullish choice?",
+    "answers": [
+      {"text": "Buy the $51 call because low IV with early bullish signals gives efficient upside exposure"},
+      {"text": "Buy the $48 put because neutral stages reshape downward volatility"},
+      {"text": "Sell the $51 call because cheap IV restricts premium acceleration"},
+      {"text": "Sell a put spread because upward orientation distorts lower price levels"}
+    ],
+    "correct_answer": "Buy the $51 call because low IV with early bullish signals gives efficient upside exposure"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GalacticTruffle Technology trades at $27.10. RSI 76 (overbought), MACD flattening. $27 puts have Delta 0.44 and IV rising. Correct move?",
+    "answers": [
+      {"text": "Buy the $27 put because overbought exhaustion with rising IV typically accelerates put momentum"},
+      {"text": "Buy the $29 call because flattening cycles enhance upward volatility movements"},
+      {"text": "Sell the $27 put because IV alignment weakens during overextension"},
+      {"text": "Sell a call spread because exhaustion phases destabilize upper-chain premium"}
+    ],
+    "correct_answer": "Buy the $27 put because overbought exhaustion with rising IV typically accelerates put momentum"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "CosmicHydra Holdings trades at $98.80. RSI 61 (healthy), MACD widening. $100 calls have Delta 0.35 and IV Rank 20. Upward play?",
+    "answers": [
+      {"text": "Buy the $100 call because healthy uptrend with cheap IV improves call leverage"},
+      {"text": "Buy the $96 put because upward bias alters downward skew"},
+      {"text": "Sell the $100 call because rising strength destabilizes premium at higher strikes"},
+      {"text": "Sell a put spread because upward pace disrupts lower volatility structure"}
+    ],
+    "correct_answer": "Buy the $100 call because healthy uptrend with cheap IV improves call leverage"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GigaPretzel Mining trades at $13.30. RSI 34 (weak), MACD down trending. $13 puts have Delta 0.39 and IV Rank 50. Best bearish option?",
+    "answers": [
+      {"text": "Buy the $13 put because weakening structure with mid-high IV enhances put responsiveness"},
+      {"text": "Buy the $15 call because downward phases reshape upward skew"},
+      {"text": "Sell the $13 put because IV adjustments distort premium control"},
+      {"text": "Sell a call spread because downward shifts weaken premium overhead"}
+    ],
+    "correct_answer": "Buy the $13 put because weakening structure with mid-high IV enhances put responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "QuantumMammoth Industrial trades at $57.90. RSI 25 (deep oversold), MACD curling upward. $58 calls have Delta 0.30 and IV low. Best upward play?",
+    "answers": [
+      {"text": "Buy the $58 call because deep oversold bounce with cheap IV supports fast call expansion"},
+      {"text": "Buy the $55 put because reversal adjustments distort downward formation"},
+      {"text": "Sell the $58 call because low IV restricts premium dynamics above price"},
+      {"text": "Sell a put spread because reversal sensitivity weakens lower-premium behavior"}
+    ],
+    "correct_answer": "Buy the $58 call because deep oversold bounce with cheap IV supports fast call expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboBiscuit Cloud Corp trades at $42.40. RSI 64 (bullish), MACD accelerating. $43 calls have Delta 0.36 and IV Rank 19. Right move?",
+    "answers": [
+      {"text": "Buy the $43 call because rising momentum with cheap IV gives clean upside sensitivity"},
+      {"text": "Buy the $40 put because rising acceleration disrupts downward skew elements"},
+      {"text": "Sell the $43 call because upward mobility disrupts upper premium retention"},
+      {"text": "Sell a put spread because upward movement distorts lower volatility levels"}
+    ],
+    "correct_answer": "Buy the $43 call because rising momentum with cheap IV gives clean upside sensitivity"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SpicyMeteor Holdings trades at $67.90. RSI 73 (overbought), MACD flattening. $68 puts have Delta 0.45 and IV rising. Bearish choice?",
+    "answers": [
+      {"text": "Buy the $68 put because overbought reversal paired with rising IV usually boosts put premiums sharply"},
+      {"text": "Buy the $70 call because exhaustion phases restructure upward skew mechanics"},
+      {"text": "Sell the $68 put because IV inconsistencies weaken premium timelines"},
+      {"text": "Sell a call spread because overextension disrupts upper volatility boundaries"}
+    ],
+    "correct_answer": "Buy the $68 put because overbought reversal paired with rising IV usually boosts put premiums sharply"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaTorque Automation trades at $118.70. RSI 59 (bullish), MACD rising. $120 calls have Delta 0.38 and IV Rank 23. Upward target?",
+    "answers": [
+      {"text": "Buy the $120 call because rising bullish pressure with moderate IV usually drives call premiums higher"},
+      {"text": "Buy the $115 put because upward consolidation disrupts downward structure"},
+      {"text": "Sell the $120 call because momentum shifting weakens upper premium"},
+      {"text": "Sell a put spread because bullish cycles misalign lower volatility patterns"}
+    ],
+    "correct_answer": "Buy the $120 call because rising bullish pressure with moderate IV usually drives call premiums higher"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "FunkyCrank Technologies trades at $29.20. RSI 30 (oversold), MACD curling up. $29.50 calls show Delta 0.25 and IV low. What’s logical?",
+    "answers": [
+      {"text": "Buy the $29.50 call because oversold strength with low IV supports efficient premium expansion"},
+      {"text": "Buy the $27 put because rebound cycles distort downward volatility structures"},
+      {"text": "Sell the $29.50 call because low IV reduces upper-strike responsiveness"},
+      {"text": "Sell a put spread because reversal shifts alter lower-chain accuracy"}
+    ],
+    "correct_answer": "Buy the $29.50 call because oversold strength with low IV supports efficient premium expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GalaxyBagel Energy trades at $61.10. RSI 44 (neutral-weak), MACD slightly down. $61 puts have Delta 0.37 and IV Rank 55. Good bearish play?",
+    "answers": [
+      {"text": "Buy the $61 put because weakening indicators with mid-high IV often lift put premiums efficiently"},
+      {"text": "Buy the $63 call because downward compression enhances upward volatility"},
+      {"text": "Sell the $61 put because rising IV disrupts put-chain stability"},
+      {"text": "Sell a call spread because weakening configurations distort upper-strike pricing"}
+    ],
+    "correct_answer": "Buy the $61 put because weakening indicators with mid-high IV often lift put premiums efficiently"
+  },
+  {
+    "type": "Options Trading",
+    "question": "WaffleOrbit Semiconductors trades at $47.80. RSI is 68 (strong uptrend), MACD rising, and volume is 160% above average. The $50 calls show Delta 0.33 and IV 37% (normal). What’s the right options move?",
+    "answers": [
+      {"text": "Buy the $50 call because rising indicators with normal IV usually boost call premium efficiency"},
+      {"text": "Buy the $45 put because strong bullish conditions disrupt downward premium structure as cycles tighten"},
+      {"text": "Sell the $50 call because upward momentum degrades premium stability as volatility stabilizes"},
+      {"text": "Sell a put spread because rising MACD compresses volatility across lower-strike corridors"}
+    ],
+    "correct_answer": "Buy the $50 call because rising indicators with normal IV usually boost call premium efficiency"
+  },
+  {
+    "type": "Options Trading",
+    "question": "ThunderBagel Aviation trades at $63.10. RSI 34 (oversold), MACD curling up, volume stable. IV Rank 19 (cheap). The $62 puts have Delta 0.29. Best move?",
+    "answers": [
+      {"text": "Buy the $65 call because oversold reversal with cheap IV makes calls highly efficient"},
+      {"text": "Sell the $62 put because oversold conditions distort downward premium consistency as cycles fluctuate"},
+      {"text": "Buy the $62 put because neutral flows destabilize put behavior as IV remains muted"},
+      {"text": "Sell a call spread because reversal setups weaken call structure across mid-range strikes"}
+    ],
+    "correct_answer": "Buy the $65 call because oversold reversal with cheap IV makes calls highly efficient"
+  },
+  {
+    "type": "Options Trading",
+    "question": "OmegaFritter Cloud Services trades at $29.60. RSI 74 (overbought), MACD flattening, and a bearish divergence forms. The $29 puts have Delta 0.47 and IV climbing. What’s the play?",
+    "answers": [
+      {"text": "Buy the $29 put because overbought reversal with rising IV usually accelerates put premiums"},
+      {"text": "Buy the $31 call because divergence phases reinforce upward volatility alignment"},
+      {"text": "Sell the $29 put because high IV distorts downward premium timing across put ladders"},
+      {"text": "Sell a call spread because divergence compresses premium evaluation across upper levels"}
+    ],
+    "correct_answer": "Buy the $29 put because overbought reversal with rising IV usually accelerates put premiums"
+  },
+  {
+    "type": "Options Trading",
+    "question": "QuantumPasta Industrial trades at $118.20. RSI 59 (bullish), MACD wide and positive, price riding above VWAP. The $120 calls show Delta 0.36 and bullish sweeps. What’s the correct move?",
+    "answers": [
+      {"text": "Buy the $120 call because bullish momentum with sweep pressure typically lifts call premiums quickly"},
+      {"text": "Buy the $118 put because strong upward alignment destabilizes put consistency across expirations"},
+      {"text": "Sell the $120 call because premium expansion breaks down under aggressive directional cycles"},
+      {"text": "Sell a put spread because bullish structure reshapes volatility along lower-strike axes"}
+    ],
+    "correct_answer": "Buy the $120 call because bullish momentum with sweep pressure typically lifts call premiums quickly"
+  },
+  {
+    "type": "Options Trading",
+    "question": "MellowVortex Automation trades at $22.70. RSI 41 (slightly weak), MACD fading, and VWAP overhead. IV Rank 61 (high). The $22 puts have Delta 0.38. Proper bearish setup?",
+    "answers": [
+      {"text": "Buy the $22 put because weakening indicators with high IV usually boost put premium responsiveness"},
+      {"text": "Buy the $24 call because weakening structure reinforces upward volatility adjustments"},
+      {"text": "Sell the $22 put because elevated IV compresses premium consistency near declining zones"},
+      {"text": "Sell a call spread because downward pressure destabilizes premium distribution at upper strikes"}
+    ],
+    "correct_answer": "Buy the $22 put because weakening indicators with high IV usually boost put premium responsiveness"
+  },
+  {
+    "type": "Options Trading",
+    "question": "HyperNoodle Renewables trades at $14.90. RSI 76 (very overbought), MACD losing momentum, bearish candle forms. The $15 puts have Delta 0.41, IV rising. What’s the move?",
+    "answers": [
+      {"text": "Buy the $15 put because overbought exhaustion plus rising IV strongly favors put appreciation"},
+      {"text": "Buy the $14 call because upward saturation reinforces volatility cycles as traders rebalance"},
+      {"text": "Sell the $15 put because IV transitions weaken downward premium reliability"},
+      {"text": "Enter an iron condor because overbought patterns distort balanced volatility expectations"}
+    ],
+    "correct_answer": "Buy the $15 put because overbought exhaustion plus rising IV strongly favors put appreciation"
+  },
+  {
+    "type": "Options Trading",
+    "question": "GalaxyCrank Biotech trades at $55.50. RSI 52 (neutral), MACD slightly bullish, and increasing call flow appears. The $56 calls have Delta 0.28 and IV Rank 22 (cheap). Best bullish choice?",
+    "answers": [
+      {"text": "Buy the $56 call because cheap IV with improving momentum makes calls efficient and responsive"},
+      {"text": "Buy the $52 put because rising momentum rebalances downward volatility across deeper strikes"},
+      {"text": "Sell the $56 call because neutral RSI distorts upward premium modeling"},
+      {"text": "Sell a put spread because directional sentiment destabilizes strike selection across lower tiers"}
+    ],
+    "correct_answer": "Buy the $56 call because cheap IV with improving momentum makes calls efficient and responsive"
+  },
+  {
+    "type": "Options Trading",
+    "question": "CrispyHelix Logistics trades at $32.80. RSI 31 (oversold), MACD turning up, bullish engulfing candle forms. IV Rank 14 (low). The $33 calls have Delta 0.34. What’s the bullish play?",
+    "answers": [
+      {"text": "Buy the $33 call because oversold reversal plus cheap IV gives strong value for call buyers"},
+      {"text": "Buy the $30 put because upward recoveries compress volatility across downward structures"},
+      {"text": "Sell the $33 call because reversal signals destabilize premium timing as IV remains low"},
+      {"text": "Sell a put spread because volatility tightening reduces premium consistency across lower ranges"}
+    ],
+    "correct_answer": "Buy the $33 call because oversold reversal plus cheap IV gives strong value for call buyers"
+  },
+  {
+    "type": "Options Trading",
+    "question": "FrostByte Aeronautics trades at $76.20. RSI 69 (strong), MACD rising, price above VWAP. IV moderate. The $77 calls have Delta 0.39. Directional choice?",
+    "answers": [
+      {"text": "Buy the $77 call because strong indicators with moderate IV often enhance call premium acceleration"},
+      {"text": "Buy the $74 put because upward flow destabilizes downward volatility patterns"},
+      {"text": "Sell the $77 call because rising conditions distort premium distribution during strong uptrends"},
+      {"text": "Enter a call credit spread because rising MACD compresses upper-strike volatility"}
+    ],
+    "correct_answer": "Buy the $77 call because strong indicators with moderate IV often enhance call premium acceleration"
+  },
+  {
+    "type": "Options Trading",
+    "question": "TurboSprout Tech trades at $12.10. RSI 27 (deep oversold), MACD rising sharply, volume increasing. The $12 calls have Delta 0.49 and IV low. What’s the correct choice?",
+    "answers": [
+      {"text": "Buy the $12 call because deep oversold reversal with high Delta and low IV is extremely efficient"},
+      {"text": "Buy the $11 put because reversal strength disrupts downward expectancy across put pathways"},
+      {"text": "Sell the $12 call because upward pivots compress volatility modeling"},
+      {"text": "Sell a put spread because strengthening momentum weakens premium distribution across strikes"}
+    ],
+    "correct_answer": "Buy the $12 call because deep oversold reversal with high Delta and low IV is extremely efficient"
+  },
+  
+  {
+    "type": "Options Trading",
+    "question": "GlitterHarpoon Solar trades at $49.90. RSI 73 (overbought), MACD slowing, bearish wick shows rejection. The $49 puts have Delta 0.44 and IV rising. What’s best?",
+    "answers": [
+      {"text": "Buy the $49 put because overbought rejection plus rising IV usually boosts put momentum quickly"},
+      {"text": "Buy the $52 call because saturation phases reinforce upward volatility realignment"},
+      {"text": "Sell the $49 put because rising IV weakens premium consistency during exhaustion"},
+      {"text": "Sell a call spread because overbought readings degrade upward premium balance"}
+    ],
+    "correct_answer": "Buy the $49 put because overbought rejection plus rising IV usually boosts put momentum quickly"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NanoMammoth Electronics trades at $88.30. RSI 58 (healthy), MACD strong, higher highs forming. The $90 calls show Delta 0.32 and low Theta. What’s the move?",
+    "answers": [
+      {"text": "Buy the $90 call because solid uptrend with low Theta reduces premium decay risk"},
+      {"text": "Buy the $85 put because upward acceleration disrupts downward premium structure"},
+      {"text": "Sell the $90 call because strong price action destabilizes call volatility alignment"},
+      {"text": "Sell a put spread because uptrend pressure reshapes volatility across lower strikes"}
+    ],
+    "correct_answer": "Buy the $90 call because solid uptrend with low Theta reduces premium decay risk"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "OrbitCustard Pharmaceuticals trades at $21.80. RSI 42 (slightly weak), MACD downward, price under VWAP. The $21 puts have Delta 0.36 and IV Rank 58. Bearish play?",
+    "answers": [
+      {"text": "Buy the $21 put because weakening indicators with elevated IV usually boost put sensitivity"},
+      {"text": "Buy the $23 call because downward phases reinforce upward volatility shifts"},
+      {"text": "Sell the $21 put because high IV weakens put continuity across decaying zones"},
+      {"text": "Sell a call spread because downward indicators destabilize premium distribution at upper strikes"}
+    ],
+    "correct_answer": "Buy the $21 put because weakening indicators with elevated IV usually boost put sensitivity"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SparkleTangent Automation trades at $52.10. RSI 46 (neutral), MACD slightly bullish, price holding support. The $53 calls show Delta 0.25 and IV Rank 15 (cheap). What’s the right move?",
+    "answers": [
+      {"text": "Buy the $53 call because cheap IV with stabilizing bullish structure gives efficient call pricing"},
+      {"text": "Buy the $50 put because neutral indicators compress downward volatility boundaries"},
+      {"text": "Sell the $53 call because low IV undermines call expansion at directional inflection points"},
+      {"text": "Sell a put spread because upward alignment destabilizes premium behavior across lower corridors"}
+    ],
+    "correct_answer": "Buy the $53 call because cheap IV with stabilizing bullish structure gives efficient call pricing"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MagmaWaffle Infrastructure trades at $17.60. RSI 80 (very overbought), MACD rolling over, big red candle forming. The $17.50 puts have Delta 0.49. What’s the best bearish play?",
+    "answers": [
+      {"text": "Buy the $17.50 put because extreme overbought conditions with reversal confirmation strongly favor puts"},
+      {"text": "Buy the $18.50 call because reversal conditions distort upward volatility modeling"},
+      {"text": "Sell the $17.50 put because reversal spikes weaken premium reliability"},
+      {"text": "Sell a call spread because volatility transitions destabilize strike cohesion"}
+    ],
+    "correct_answer": "Buy the $17.50 put because extreme overbought conditions with reversal confirmation strongly favor puts"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "BiscuitFusion Aerospace trades at $134.20. RSI 57 (bullish), MACD rising rapidly, bullish flow sweeping $135 calls. Delta on $135 call is 0.44. IV moderate. What’s the move?",
+    "answers": [
+      {"text": "Buy the $135 call because strong bullish indicators with sweep activity enhance call premium lift"},
+      {"text": "Buy the $130 put because upward sweeps distort downward structural flows"},
+      {"text": "Sell the $135 call because rising strength degrades premium reliability as cycles tighten"},
+      {"text": "Sell a put spread because upward bias reshapes volatility across lower regions"}
+    ],
+    "correct_answer": "Buy the $135 call because strong bullish indicators with sweep activity enhance call premium lift"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboSyrup Energy trades at $24.50. RSI 36 (weak), MACD negative, price below VWAP. The $24 puts have Delta 0.42. IV Rank 66 (high). What’s the best choice?",
+    "answers": [
+      {"text": "Buy the $24 put because weak indicators combined with high IV accelerate put premium expansion"},
+      {"text": "Buy the $26 call because downward phases stabilize upward volatility cycles"},
+      {"text": "Sell the $24 put because high IV disrupts reliable downward premium structure"},
+      {"text": "Sell a call spread because weakening momentum destabilizes top-strike premium formation"}
+    ],
+    "correct_answer": "Buy the $24 put because weak indicators combined with high IV accelerate put premium expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SpicyNimbus Innovators trades at $63.70. RSI 52 (neutral), MACD curling up, price testing resistance. The $65 calls show Delta 0.31 and IV Rank 25 (cheap). Correct upward play?",
+    "answers": [
+      {"text": "Buy the $65 call because cheap IV with strengthening indicators provides efficient upside exposure"},
+      {"text": "Buy the $60 put because resilience phases distort downward volatility structure"},
+      {"text": "Sell the $65 call because neutral RSI destabilizes call premium alignment"},
+      {"text": "Sell a put spread because upward bias reshapes premium distribution below current price"}
+    ],
+    "correct_answer": "Buy the $65 call because cheap IV with strengthening indicators provides efficient upside exposure"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "CosmicCrank Retail trades at $8.20. RSI 82 (extremely overbought), MACD losing energy, bearish wick forming. The $8 puts have Delta 0.46 and IV increasing. Which trade fits?",
+    "answers": [
+      {"text": "Buy the $8 put because extreme overbought exhaustion with rising IV usually boosts put premiums fast"},
+      {"text": "Buy the $9 call because exhaustion phases stabilize upward premium weighting"},
+      {"text": "Sell the $8 put because high IV destabilizes put-chain continuity"},
+      {"text": "Sell a call spread because upward weakness misaligns premium structure across higher strikes"}
+    ],
+    "correct_answer": "Buy the $8 put because extreme overbought exhaustion with rising IV usually boosts put premiums fast"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "FuzzyTangent Hydraulics trades at $51.40. RSI 64 (bullish), MACD accelerating, and price breaks above resistance. The $52 calls have Delta 0.37 and bullish sweeps. What’s the correct trade?",
+    "answers": [
+      {"text": "Buy the $52 call because bullish breakout signals with sweep support drive rapid call premium gains"},
+      {"text": "Buy the $49 put because breakout strength restructures downward volatility zones"},
+      {"text": "Sell the $52 call because upward momentum compresses premium expansion as cycles mature"},
+      {"text": "Sell a put spread because breakouts distort volatility across lower contracts"}
+    ],
+    "correct_answer": "Buy the $52 call because bullish breakout signals with sweep support drive rapid call premium gains"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "CobaltMuffin Maritime trades at $43.60. RSI 39 (weak), MACD crossing down, VWAP overhead. The $43 puts have Delta 0.33. IV Rank 48. Best bearish play?",
+    "answers": [
+      {"text": "Buy the $43 put because weakening indicators with mid-high IV strongly favor efficient put premium growth"},
+      {"text": "Buy the $46 call because downward phases enhance upward volatility rotation"},
+      {"text": "Sell the $43 put because rising IV undermines stability in downward premium series"},
+      {"text": "Sell a call spread because weak structure realigns premium distribution across upper levels"}
+    ],
+    "correct_answer": "Buy the $43 put because weakening indicators with mid-high IV strongly favor efficient put premium growth"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboGolem Software trades at $117.90. RSI 55 (neutral-bullish), MACD rising, higher lows forming. The $120 calls have Delta 0.29, IV low. Which play fits?",
+    "answers": [
+      {"text": "Buy the $120 call because low IV with a rising trend makes calls cheap and responsive"},
+      {"text": "Buy the $115 put because upward structure distorts downward volatility balance"},
+      {"text": "Sell the $120 call because neutral RSI destabilizes premium progression across upper strikes"},
+      {"text": "Sell a put spread because trend reversals reshape volatility under lower contracts"}
+    ],
+    "correct_answer": "Buy the $120 call because low IV with a rising trend makes calls cheap and responsive"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "CosmicAnvil Tech trades at $13.40. RSI 25 (deep oversold), MACD curling upward, volume rising. The $14 calls have Delta 0.22 and IV 18% (very low). What’s optimal?",
+    "answers": [
+      {"text": "Buy the $14 call because oversold reversal with extremely cheap IV makes calls highly leveraged"},
+      {"text": "Buy the $12 put because reversal data destabilizes downward structural momentum"},
+      {"text": "Sell the $14 call because low IV weakens upward premium consistency"},
+      {"text": "Sell a put spread because volatility reconfiguration weakens long-call alignment"}
+    ],
+    "correct_answer": "Buy the $14 call because oversold reversal with extremely cheap IV makes calls highly leveraged"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaSyrup Retail trades at $72.70. RSI 70 (overbought), MACD slowing, bearish divergence visible. The $72 puts have Delta 0.44. IV rising. Bearish move?",
+    "answers": [
+      {"text": "Buy the $72 put because overbought divergence plus rising IV typically drives put premiums higher"},
+      {"text": "Buy the $75 call because divergence supports upward skew under volatility shifts"},
+      {"text": "Sell the $72 put because volatility transitions distort downward-premium alignment"},
+      {"text": "Sell a call spread because divergence realigns pressure at upper contracts"}
+    ],
+    "correct_answer": "Buy the $72 put because overbought divergence plus rising IV typically drives put premiums higher"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MuffinMeteor Power trades at $36.10. RSI 55 (healthy), MACD positive, price near breakout level. The $37 calls have Delta 0.31, IV low. Good bullish choice?",
+    "answers": [
+      {"text": "Buy the $37 call because strong positioning with low IV makes upside contracts very efficient"},
+      {"text": "Buy the $34 put because upward anticipation distorts downward volatility clusters"},
+      {"text": "Sell the $37 call because low-IV environments weaken premium extension"},
+      {"text": "Sell a put spread because upward pressure realigns premium layers at lower strikes"}
+    ],
+    "correct_answer": "Buy the $37 call because strong positioning with low IV makes upside contracts very efficient"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SodaHarpoon Shipping trades at $9.80. RSI 77 (overbought), MACD negative crossover, bearish wick forming. The $10 puts have Delta 0.44, IV elevated. Best play?",
+    "answers": [
+      {"text": "Buy the $10 put because overbought reversal with high IV typically accelerates put premiums"},
+      {"text": "Buy the $11 call because downward setups strengthen upward volatility potential"},
+      {"text": "Sell the $10 put because elevated IV weakens downward chain reliability"},
+      {"text": "Sell a call spread because reversal tension shifts premium balance across upper strikes"}
+    ],
+    "correct_answer": "Buy the $10 put because overbought reversal with high IV typically accelerates put premiums"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GammaCrank Materials trades at $103.50. RSI 51 (neutral), MACD slightly up, volume stable. The $105 calls show Delta 0.27 and IV Rank 20. Bullish option?",
+    "answers": [
+      {"text": "Buy the $105 call because improving momentum with cheap IV offers good premium-to-move efficiency"},
+      {"text": "Buy the $101 put because upward alignment reshapes downward volatility exposures"},
+      {"text": "Sell the $105 call because neutral RSI weakens call-chain structural consistency"},
+      {"text": "Sell a put spread because near-neutral flow disrupts premium patterns below VWAP"}
+    ],
+    "correct_answer": "Buy the $105 call because improving momentum with cheap IV offers good premium-to-move efficiency"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaPretzel Innovations trades at $59.40. RSI 29 (oversold), MACD crossing up, long lower wick reversal. The $60 calls have Delta 0.34 and IV low. Move?",
+    "answers": [
+      {"text": "Buy the $60 call because oversold reversal with low IV typically lifts call premiums efficiently"},
+      {"text": "Buy the $57 put because reversal cycles destabilize downward skew alignment"},
+      {"text": "Sell the $60 call because low-IV behavior destabilizes premium distribution"},
+      {"text": "Sell a put spread because reversal pressure realigns volatility patterns across lower tiers"}
+    ],
+    "correct_answer": "Buy the $60 call because oversold reversal with low IV typically lifts call premiums efficiently"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "FuzzyQuantum Electric trades at $44.10. RSI 65 (bullish), MACD rising, price above VWAP. The $45 calls have Delta 0.38, IV Rank 28 (cheap). What’s the play?",
+    "answers": [
+      {"text": "Buy the $45 call because healthy trend plus cheap IV makes calls highly responsive"},
+      {"text": "Buy the $42 put because upward pressure weakens volatility gradients downward"},
+      {"text": "Sell the $45 call because rising indicators disrupt premium consistency at upper strikes"},
+      {"text": "Sell a put spread because momentum realigns premium positioning under lower contracts"}
+    ],
+    "correct_answer": "Buy the $45 call because healthy trend plus cheap IV makes calls highly responsive"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboLemon Skynet trades at $71.60. RSI 72 (overbought), MACD flattening, bearish divergence forming. The $71 puts have Delta 0.47. IV rising. Smart bearish trade?",
+    "answers": [
+      {"text": "Buy the $71 put because overbought divergence plus rising IV supports clean put expansion"},
+      {"text": "Buy the $74 call because divergence strengthens upward premium gradients"},
+      {"text": "Sell the $71 put because increasing IV weakens premium alignment near put chains"},
+      {"text": "Sell a call spread because divergence destabilizes premium patterns across higher chains"}
+    ],
+    "correct_answer": "Buy the $71 put because overbought divergence plus rising IV supports clean put expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "PastaNebula Motors trades at $26.20. RSI 57 (healthy), MACD rising, price approaching resistance. The $27 calls have Delta 0.33 and IV low. Most efficient choice?",
+    "answers": [
+      {"text": "Buy the $27 call because rising momentum and low IV create efficient call sensitivity"},
+      {"text": "Buy the $24 put because upward movement destabilizes downward volatility alignments"},
+      {"text": "Sell the $27 call because low IV weakens premium boundaries above current price"},
+      {"text": "Sell a put spread because approaching resistance weakens volatility across lower chains"}
+    ],
+    "correct_answer": "Buy the $27 call because rising momentum and low IV create efficient call sensitivity"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SolarTaffy Utilities trades at $32.80. RSI 38 (weak), MACD negative, price under VWAP. The $33 puts have Delta 0.40 and IV Rank 62 (high). What’s the bearish move?",
+    "answers": [
+      {"text": "Buy the $33 put because weak indicators with high IV reliably push put premiums upward"},
+      {"text": "Buy the $36 call because downward momentum realigns upward volatility fluctuations"},
+      {"text": "Sell the $33 put because high IV restricts premium continuity"},
+      {"text": "Sell a call spread because weakening trends distort upper-level premium stability"}
+    ],
+    "correct_answer": "Buy the $33 put because weak indicators with high IV reliably push put premiums upward"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "CosmicZeppelin Holdings trades at $82.70. RSI 54 (neutral-bullish), MACD strong, higher highs forming. The $85 calls have Delta 0.30 and IV Rank 12 (cheap). Best directional play?",
+    "answers": [
+      {"text": "Buy the $85 call because bullish structure with cheap IV makes calls highly efficient"},
+      {"text": "Buy the $80 put because rising cycles destabilize downward flow dynamics"},
+      {"text": "Sell the $85 call because improving structure weakens premium consistency upward"},
+      {"text": "Sell a put spread because upward bias disrupts volatility layers across lower strikes"}
+    ],
+    "correct_answer": "Buy the $85 call because bullish structure with cheap IV makes calls highly efficient"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "AlphaCrumpet Mining trades at $17.10. RSI 74 (overbought), MACD rolling lower, bearish signals forming. The $17 puts have Delta 0.48 and IV rising. Play?",
+    "answers": [
+      {"text": "Buy the $17 put because overbought weakness plus rising IV strongly boosts put premium gain"},
+      {"text": "Buy the $18 call because weakening phases reshape upward volatility assignments"},
+      {"text": "Sell the $17 put because high-IV periods weaken premium consistency across ranges"},
+      {"text": "Sell a call spread because overbought weakness destabilizes premium formation upward"}
+    ],
+    "correct_answer": "Buy the $17 put because overbought weakness plus rising IV strongly boosts put premium gain"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NebulaVoltage Electric trades at $119.40. RSI 61 (bullish), MACD rising strongly, price breaking trendline resistance. The $120 calls have Delta 0.41, IV normal. Which play?",
+    "answers": [
+      {"text": "Buy the $120 call because clean breakout with normal IV typically lifts call premiums reliably"},
+      {"text": "Buy the $116 put because breakout moments distort downward skew"},
+      {"text": "Sell the $120 call because accelerating structure weakens upward premium boundaries"},
+      {"text": "Sell a put spread because breakout alignment disrupts volatility patterns at lower chains"}
+    ],
+    "correct_answer": "Buy the $120 call because clean breakout with normal IV typically lifts call premiums reliably"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GammaMuffin Cybernetics trades at $14.60. RSI 30 (oversold), MACD crossing up, bullish candle forming. The $15 calls have Delta 0.26 and IV 17% (low). Good bullish option?",
+    "answers": [
+      {"text": "Buy the $15 call because oversold reversal with cheap IV gives strong upside premium efficiency"},
+      {"text": "Buy the $13 put because reversal sequences reshape downward volatility"},
+      {"text": "Sell the $15 call because low IV restricts call sensitivity upward"},
+      {"text": "Sell a put spread because reversal cycles disrupt premium formation on lower strikes"}
+    ],
+    "correct_answer": "Buy the $15 call because oversold reversal with cheap IV gives strong upside premium efficiency"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "SolarCrank Dynamics trades at $42.90. RSI 79 (extreme overbought), MACD sharply flattening, bearish pattern forming. The $43 puts have Delta 0.46 and IV rising. What’s the play?",
+    "answers": [
+      {"text": "Buy the $43 put because extreme overbought exhaustion with rising IV boosts put premiums rapidly"},
+      {"text": "Buy the $45 call because flattening cycles strengthen upward volatility axes"},
+      {"text": "Sell the $43 put because volatility spikes distort premium continuity downward"},
+      {"text": "Sell a call spread because extreme levels destabilize premium structure above resistance"}
+    ],
+    "correct_answer": "Buy the $43 put because extreme overbought exhaustion with rising IV boosts put premiums rapidly"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "TurboRaisin Robotics trades at $68.20. RSI 55 (healthy), MACD accelerating upward, volume strong. The $70 calls show Delta 0.35 and IV Rank 16 (cheap). Best trade?",
+    "answers": [
+      {"text": "Buy the $70 call because bullish indicators with cheap IV usually lift call premiums efficiently"},
+      {"text": "Buy the $65 put because rising cycles disrupt downward volatility harmony"},
+      {"text": "Sell the $70 call because strong momentum destabilizes call-chain gradients"},
+      {"text": "Sell a put spread because upward cycles reshape volatility beneath the price"}
+    ],
+    "correct_answer": "Buy the $70 call because bullish indicators with cheap IV usually lift call premiums efficiently"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "NoodleComet Analytics trades at $51.50. RSI 43 (slightly weak), MACD crossing down, price under VWAP. The $51 puts have Delta 0.38 and IV Rank 59 (high). Best bearish move?",
+    "answers": [
+      {"text": "Buy the $51 put because weakening indicators with high IV create strong put responsiveness"},
+      {"text": "Buy the $53 call because downward imbalance enhances upward volatility rotation"},
+      {"text": "Sell the $51 put because high IV interferes with reliable downward chain alignment"},
+      {"text": "Sell a call spread because weak structure misaligns volatility across upper wires"}
+    ],
+    "correct_answer": "Buy the $51 put because weakening indicators with high IV create strong put responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "StarlightTaco Corp trades at $28.10. RSI 60 (mild bullish), MACD rising gently, price above support. The $29 calls have Delta 0.27 and IV low. Bullish option?",
+    "answers": [
+      {"text": "Buy the $29 call because low IV and mild bullish strength gives clean premium movement"},
+      {"text": "Buy the $26 put because upward phases distort downward volatility pulses"},
+      {"text": "Sell the $29 call because neutral cycles degrade premium expectations above price"},
+      {"text": "Sell a put spread because upward bias realigns premium distribution in lower chains"}
+    ],
+    "correct_answer": "Buy the $29 call because low IV and mild bullish strength gives clean premium movement"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "OrbitWaffle Infrastructure trades at $114.60. RSI 31 (oversold), MACD turning up, long-tail reversal candle. The $115 calls have Delta 0.41 and IV Rank 23. What’s the play?",
+    "answers": [
+      {"text": "Buy the $115 call because oversold reversal plus moderate IV usually triggers call premium expansion"},
+      {"text": "Buy the $113 put because reversal phases distort downward volatility geometry"},
+      {"text": "Sell the $115 call because low-rank IV weakens call-chain expansion"},
+      {"text": "Sell a put spread because reversal performance weakens premium reliability under price"}
+    ],
+    "correct_answer": "Buy the $115 call because oversold reversal plus moderate IV usually triggers call premium expansion"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "FuzzyComet Aeroworks trades at $39.90. RSI 70 (overbought), MACD weakening, bearish wick shows exhaustion. The $40 puts have Delta 0.45 and IV rising. Bearish trade?",
+    "answers": [
+      {"text": "Buy the $40 put because overbought exhaustion with rising IV typically accelerates put movement"},
+      {"text": "Buy the $42 call because weakening conditions strengthen upward volatility dimensions"},
+      {"text": "Sell the $40 put because rising IV distorts put-chain reliability"},
+      {"text": "Sell a call spread because exhaustion patterns destabilize premium above resistance"}
+    ],
+    "correct_answer": "Buy the $40 put because overbought exhaustion with rising IV typically accelerates put movement"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "MegaGravy Pharmaceuticals trades at $72.10. RSI 53 (neutral-bullish), MACD positive, and volume lean bullish. The $73 calls have Delta 0.29 and IV Rank 18. Proper move?",
+    "answers": [
+      {"text": "Buy the $73 call because neutral-bullish strength with cheap IV favors efficient call pricing"},
+      {"text": "Buy the $70 put because upward alignment destabilizes downward volatility consistency"},
+      {"text": "Sell the $73 call because cheap IV reduces premium performance on upside chains"},
+      {"text": "Sell a put spread because trend slope weakens premium structure on lower-distance strikes"}
+    ],
+    "correct_answer": "Buy the $73 call because neutral-bullish strength with cheap IV favors efficient call pricing"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "BananaVector Holdings trades at $64.20. RSI 41 (weak), MACD negative, price sliding under VWAP. The $64 puts have Delta 0.40 and IV high. Directional play?",
+    "answers": [
+      {"text": "Buy the $64 put because weakening structure with high IV usually boosts put responsiveness"},
+      {"text": "Buy the $66 call because downward flows reconfigure upward premium opportunities"},
+      {"text": "Sell the $64 put because elevated IV destabilizes continuity across lower chains"},
+      {"text": "Sell a call spread because downward trend redistributes premium reliability at upper contracts"}
+    ],
+    "correct_answer": "Buy the $64 put because weakening structure with high IV usually boosts put responsiveness"
+  },
+  {
+    "type": "Options Trading",
+    "question": "TurboGloop Electronics trades at $19.40. RSI 28 (oversold), MACD turning positive, strong reversal wick. The $20 calls have Delta 0.30 and IV Rank 21 (cheap). Best bullish move?",
+    "answers": [
+      {"text": "Buy the $20 call because oversold reversal plus cheap IV gives excellent call premium acceleration"},
+      {"text": "Buy the $18 put because reversal construction destabilizes downward volatility pathways"},
+      {"text": "Sell the $20 call because cheap IV restricts premium mobility at breakout levels"},
+      {"text": "Sell a put spread because early reversal cycles weaken lower-strike premium balancing"}
+    ],
+    "correct_answer": "Buy the $20 call because oversold reversal plus cheap IV gives excellent call premium acceleration"
+  },
+  {
+    "type": "Options Trading",
+    "question": "CosmicSprocket Mining trades at $104.10. RSI 71 (overbought), MACD flattening, bearish divergence emerging. The $104 puts have Delta 0.44 and IV rising. What’s the move?",
+    "answers": [
+      {"text": "Buy the $104 put because overbought divergence with rising IV usually drives put premiums upward"},
+      {"text": "Buy the $107 call because divergence strengthens upward volatility alignment"},
+      {"text": "Sell the $104 put because high IV constrains premium consistency across ranges"},
+      {"text": "Sell a call spread because divergence patterns weaken upward premium stability"}
+    ],
+    "correct_answer": "Buy the $104 put because overbought divergence with rising IV usually drives put premiums upward"
+  },
+  {
+    "type": "Options Trading",
+    "question": "AlphaWrench Aerotech trades at $58.40. RSI 58 (healthy), MACD building strength, price nearing breakout. The $60 calls have Delta 0.32 and IV Rank 17. Bullish setup?",
+    "answers": [
+      {"text": "Buy the $60 call because building momentum with low IV supports efficient call pricing"},
+      {"text": "Buy the $55 put because upward thrust disrupts downward chain reliability"},
+      {"text": "Sell the $60 call because low IV restrains upward premium alignment"},
+      {"text": "Sell a put spread because bullish conditions distort lower-bound premium behavior"}
+    ],
+    "correct_answer": "Buy the $60 call because building momentum with low IV supports efficient call pricing"
+  },
+  {
+    "type": "Options Trading",
+    "question": "FrostedNebula Telecom trades at $23.50. RSI 33 (weak), MACD negative, bearish candles growing. The $23 puts show Delta 0.38 and IV Rank 69. Bearish trade?",
+    "answers": [
+      {"text": "Buy the $23 put because weakening direction with high IV increases put premium responsiveness"},
+      {"text": "Buy the $25 call because weakening cycles intensify upward volatility stress"},
+      {"text": "Sell the $23 put because high IV disrupts downward premium distributions"},
+      {"text": "Sell a call spread because weakening structures distort premium models above price"}
+    ],
+    "correct_answer": "Buy the $23 put because weakening direction with high IV increases put premium responsiveness"
+  },
+
+  {
+    "type": "Options Trading",
+    "question": "GigaCrumpet Aerospace trades at $141.60. RSI 52 (neutral), MACD positive, steady uptrend. The $145 calls have Delta 0.28 and IV Rank 19 (cheap). What’s optimal?",
+    "answers": [
+      {"text": "Buy the $145 call because stable uptrend with cheap IV provides efficient upside premium"},
+      {"text": "Buy the $139 put because upward formation destabilizes downward volatility conditioning"},
+      {"text": "Sell the $145 call because low IV limits call-chain appreciation"},
+      {"text": "Sell a put spread because trend acceleration weakens premium symmetry in lower strikes"}
+    ],
+    "correct_answer": "Buy the $145 call because stable uptrend with cheap IV provides efficient upside premium"
+  }
+]

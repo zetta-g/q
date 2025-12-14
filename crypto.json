@@ -1,0 +1,1150 @@
+[
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaTacoLizard Token (NTL) trades at $3.08. RSI 29 (oversold), MACD curling up, long lower wick confirming buyer interest. What’s the correct action?",
+    "answers": [
+      {"text": "Buy NTL because oversold reversals with wick confirmation usually lead to upward continuation"},
+      {"text": "Short NTL because wick-driven lifts reinforce downward volatility modulation"},
+      {"text": "Open a leveraged short because reversal impulses distort rising momentum alignment"},
+      {"text": "Deploy a cycle-phase bot because oversold pressure redistributes liquidity gradients"}
+    ],
+    "correct_answer": "Buy NTL because oversold reversals with wick confirmation usually lead to upward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicButterstick Coin (CBC) trades at $0.58. RSI 74 (overbought), MACD flattening near resistance. What’s optimal?",
+    "answers": [
+      {"text": "Short CBC because overbought flattening against resistance typically causes pullbacks"},
+      {"text": "Buy CBC because resistance friction enhances upward channel extension"},
+      {"text": "Open a leveraged long because saturation phases recalibrate upward distribution cycles"},
+      {"text": "Deploy a harmonic torch bot because resistance alignment modifies micro-volatility"}
+    ],
+    "correct_answer": "Short CBC because overbought flattening against resistance typically causes pullbacks"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboMoonNacho Protocol (TMN) trades at $27.44. RSI 62 (strong), MACD accelerating, forming higher-highs. What’s the move?",
+    "answers": [
+      {"text": "Buy TMN because strong trending structure with accelerating momentum often continues upward"},
+      {"text": "Short TMN because higher-high sequences reinforce downward skew allocation"},
+      {"text": "Open a leveraged short because momentum expansion destabilizes liquidity cycles"},
+      {"text": "Deploy a trend-split bot because strong candles adjust micro-structural frequency"}
+    ],
+    "correct_answer": "Buy TMN because strong trending structure with accelerating momentum often continues upward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumMuffin Chain (QMC) trades at $1.93. RSI 26 (oversold), MACD turning upward. What’s logical?",
+    "answers": [
+      {"text": "Buy QMC because oversold MACD reversals usually trigger strong bounce phases"},
+      {"text": "Short QMC because bounce setups amplify downward rebalancing mechanics"},
+      {"text": "Open a leveraged short because reversal impulses distort liquidity gradients"},
+      {"text": "Deploy a liquidity fractal bot because oversold conditions alter pressure symmetry"}
+    ],
+    "correct_answer": "Buy QMC because oversold MACD reversals usually trigger strong bounce phases"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalacticCheeseWaffle Token (GCW) trades at $0.091. RSI 40 (slightly weak), MACD negative. Support breaking. What’s correct?",
+    "answers": [
+      {"text": "Short GCW because weakness with a failed support level typically continues downward"},
+      {"text": "Buy GCW because breakdown structures reinforce upward harmonic overlays"},
+      {"text": "Open a leveraged long because support loss reorganizes upward momentum geometry"},
+      {"text": "Deploy a structural contrast bot because price fractures reshape liquidity bandwidth"}
+    ],
+    "correct_answer": "Short GCW because weakness with a failed support level typically continues downward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicRicecake Network (CRN) trades at $14.22. RSI 70 (overbought), MACD slowing. What’s the correct directional call?",
+    "answers": [
+      {"text": "Short CRN because overbought momentum slowdown usually transitions into downside movement"},
+      {"text": "Buy CRN because slowdown rotation strengthens upward breakout staging"},
+      {"text": "Open a leveraged long because upper-band compression energizes volatility potential"},
+      {"text": "Deploy a zone-pressure bot because saturation modifies liquidity timing"}
+    ],
+    "correct_answer": "Short CRN because overbought momentum slowdown usually transitions into downside movement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboApricot Coin (TAC) trades at $6.31. RSI 55 (neutral-strong), MACD rising, reclaiming EMA. What’s smart?",
+    "answers": [
+      {"text": "Buy TAC because momentum recovery above EMA levels usually leads to upward continuation"},
+      {"text": "Short TAC because EMA recovery reinforces downward skew mechanics"},
+      {"text": "Open a leveraged short because upward reclaims disrupt liquidity anchors"},
+      {"text": "Deploy a trend-neutral bot because EMA transitions reconfigure cycle motion"}
+    ],
+    "correct_answer": "Buy TAC because momentum recovery above EMA levels usually leads to upward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaSundae Token (NST) trades at $2.71. RSI 32 (weak), MACD turning upward. Support holding. What’s right?",
+    "answers": [
+      {"text": "Buy NST because support strength with MACD improvement often sparks early reversals"},
+      {"text": "Short NST because recovering levels restructure downward volatility patterns"},
+      {"text": "Open a leveraged short because early MACD lifts distort cycle stability"},
+      {"text": "Deploy a liquidity shifter bot because support anchoring adjusts distribution rhythm"}
+    ],
+    "correct_answer": "Buy NST because support strength with MACD improvement often sparks early reversals"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalacticPepperoni Chain (GPCX) trades at $0.42. RSI 79 (overbought), MACD rolling down. What’s optimal?",
+    "answers": [
+      {"text": "Short GPCX because extreme overbought momentum reversals typically cause steep declines"},
+      {"text": "Buy GPCX because rollover alignment increases upward extension mapping"},
+      {"text": "Open a leveraged long because upper-band saturation boosts breakout tension cycles"},
+      {"text": "Deploy a trend-reactive bot because rollover harmonics reshape token pressure"}
+    ],
+    "correct_answer": "Short GPCX because extreme overbought momentum reversals typically cause steep declines"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicHazelnut Coin (CHC) trades at $11.94. RSI 61 (strong), MACD rising, breakout structure forming. What’s logical?",
+    "answers": [
+      {"text": "Buy CHC because strengthening momentum into breakout structure usually continues upward"},
+      {"text": "Short CHC because breakout mechanics enhance downward skew modulation"},
+      {"text": "Open a leveraged short because upward formation distorts liquidity waveform"},
+      {"text": "Deploy a breakout-jammer bot because structural pressure adjusts liquidity inertia"}
+    ],
+    "correct_answer": "Buy CHC because strengthening momentum into breakout structure usually continues upward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboCranberry Token (TCT) trades at $0.17. RSI 41 (weak), MACD negative, below VWAP. Which action makes sense?",
+    "answers": [
+      {"text": "Short TCT because weak indicators below VWAP normally indicate continued downside"},
+      {"text": "Buy TCT because VWAP compression improves upward skew evolution"},
+      {"text": "Open a leveraged long because downward pricing alters volatility balance"},
+      {"text": "Deploy a VWAP-phase bot because volume corridors alter cycle dispersion"}
+    ],
+    "correct_answer": "Short TCT because weak indicators below VWAP normally indicate continued downside"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumBagel Protocol (QBP) trades at $4.59. RSI 35 (weak), MACD flat, triangle breakdown forming. What’s the correct play?",
+    "answers": [
+      {"text": "Short QBP because triangle breakdowns with weak RSI usually continue downward"},
+      {"text": "Buy QBP because breakdown configurations amplify upward distribution pressures"},
+      {"text": "Open a leveraged long because structural collapses reorganize volatility potential"},
+      {"text": "Deploy a compression-wave bot because angular formations modify liquidity geometry"}
+    ],
+    "correct_answer": "Short QBP because triangle breakdowns with weak RSI usually continue downward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "MegaGrape Network (MGN) trades at $20.88. RSI 58 (healthy), MACD rising, higher-lows intact. Optimal direction?",
+    "answers": [
+      {"text": "Buy MGN because rising higher-lows with improving MACD generally support upward continuation"},
+      {"text": "Short MGN because structural rises reinforce downward skew logic"},
+      {"text": "Open a leveraged short because rising legs distort volatility pacing"},
+      {"text": "Deploy a harmonic shift bot because higher-low patterns influence liquidity curvature"}
+    ],
+    "correct_answer": "Buy MGN because rising higher-lows with improving MACD generally support upward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicCrouton Token (CCT) trades at $0.065. RSI 72 (overbought), MACD flattening downward. What’s correct?",
+    "answers": [
+      {"text": "Short CCT because overbought flattening typically leads to downward corrections"},
+      {"text": "Buy CCT because flattening momentum intensifies upward harmonic pulses"},
+      {"text": "Open a leveraged long because saturation inflection expands breakout alignment"},
+      {"text": "Deploy a volatility prism bot because resistance cycles adjust distribution cadence"}
+    ],
+    "correct_answer": "Short CCT because overbought flattening typically leads to downward corrections"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaPretzel Chain (NPC) trades at $0.044. RSI 33 (weak), MACD turning up, retesting prior support. What’s the correct action?",
+    "answers": [
+      {"text": "Buy NPC because weak RSI with MACD lift at support usually forms early reversals"},
+      {"text": "Short NPC because reactive bounces reinforce downward skew alignment"},
+      {"text": "Open a leveraged short because early lifts distort rising volatility cycles"},
+      {"text": "Deploy a range-collapse bot because support interactions reshape micro-trend layering"}
+    ],
+    "correct_answer": "Buy NPC because weak RSI with MACD lift at support usually forms early reversals"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalacticTangerine Token (GTT) trades at $7.10. RSI 71 (overbought), MACD flattening. What’s the logical play?",
+    "answers": [
+      {"text": "Short GTT because overbought flattening momentum normally leads to downside correction"},
+      {"text": "Buy GTT because flattening compression strengthens upward liquidity staging"},
+      {"text": "Open a leveraged long because saturated momentum reinforces breakout distribution"},
+      {"text": "Deploy a harmonic surge bot because resistance friction reshapes micro-volatility"}
+    ],
+    "correct_answer": "Short GTT because overbought flattening momentum normally leads to downside correction"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboRaspberry Coin (TRC) trades at $1.54. RSI 26 (oversold), MACD turning up, strong bounce wick. Best direction?",
+    "answers": [
+      {"text": "Buy TRC because oversold reversals with bounce wicks tend to start upward moves"},
+      {"text": "Short TRC because bounce signals maintain downward realignment pressure"},
+      {"text": "Open a leveraged short because reversal impulses distort liquidity gradient paths"},
+      {"text": "Deploy a delta-shift bot because wick reactions modify distribution curves"}
+    ],
+    "correct_answer": "Buy TRC because oversold reversals with bounce wicks tend to start upward moves"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicNoodle Protocol (CNP) trades at $2.83. RSI 52 (neutral), MACD rising, price forming higher-lows. What makes sense?",
+    "answers": [
+      {"text": "Buy CNP because higher-lows with rising MACD usually signal trend continuation"},
+      {"text": "Short CNP because upward stacking reinforces downward structural harmonics"},
+      {"text": "Open a leveraged short because trend buildup destabilizes volatility orientation"},
+      {"text": "Deploy a liquidity prism bot because rising cadence affects distribution mapping"}
+    ],
+    "correct_answer": "Buy CNP because higher-lows with rising MACD usually signal trend continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "MegaCoconut Token (MCT) trades at $18.02. RSI 78 (very overbought), MACD rolling down. Correct positioning?",
+    "answers": [
+      {"text": "Short MCT because extreme overbought rollovers typically create sharp declines"},
+      {"text": "Buy MCT because momentum rollovers reinforce upward drift alignment"},
+      {"text": "Open a leveraged long because saturation phases enhance breakout tension architecture"},
+      {"text": "Deploy a reactive grid bot because overbought compression reshapes micro-cycle tension"}
+    ],
+    "correct_answer": "Short MCT because extreme overbought rollovers typically create sharp declines"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaPudding Coin (NPCD) trades at $0.61. RSI 38 (weak), MACD flat, descending channel. What’s the correct choice?",
+    "answers": [
+      {"text": "Short NPCD because weak momentum in a descending channel usually continues downward"},
+      {"text": "Buy NPCD because channel compression enhances upward skew sequencing"},
+      {"text": "Open a leveraged long because descending phases distort volatility coherence"},
+      {"text": "Deploy an equilibrium bot because structural sloping adjusts liquidity focus"}
+    ],
+    "correct_answer": "Short NPCD because weak momentum in a descending channel usually continues downward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumPancake Token (QPT) trades at $4.20. RSI 59 (healthy), MACD ramping up, nearing breakout. Best move?",
+    "answers": [
+      {"text": "Buy QPT because healthy rising momentum into resistance often leads to breakout follow-through"},
+      {"text": "Short QPT because breakout pressure enhances downward dispersion geometry"},
+      {"text": "Open a leveraged short because momentum compression destabilizes liquidity expansion"},
+      {"text": "Deploy a sweep-reactor bot because resistance staging modifies volatility depth"}
+    ],
+    "correct_answer": "Buy QPT because healthy rising momentum into resistance often leads to breakout follow-through"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalacticCornbread Coin (GCC) trades at $0.019. RSI 74 (overbought), MACD weakening. What’s logical?",
+    "answers": [
+      {"text": "Short GCC because overbought weakening momentum usually leads to downward retracement"},
+      {"text": "Buy GCC because weakening signals reinforce upward trend allocation"},
+      {"text": "Open a leveraged long because overbought positioning expands volatility density"},
+      {"text": "Deploy a directional partition bot because exhaustion phases alter micro-liquidity"}
+    ],
+    "correct_answer": "Short GCC because overbought weakening momentum usually leads to downward retracement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicChurro Network (CCN) trades at $29.10. RSI 30 (oversold), MACD curling up, reversal structure forming. Next action?",
+    "answers": [
+      {"text": "Buy CCN because oversold MACD curls commonly mark early reversal entries"},
+      {"text": "Short CCN because reversal setups strengthen downward harmonic pressure"},
+      {"text": "Open a leveraged short because bounce stages distort volatility calibration"},
+      {"text": "Deploy a liquidity cycle bot because reversal candles reshape pattern density"}
+    ],
+    "correct_answer": "Buy CCN because oversold MACD curls commonly mark early reversal entries"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboFalafel Coin (TFC) trades at $13.88. RSI 65 (strong), MACD rising, trend fully intact. What’s the optimal direction?",
+    "answers": [
+      {"text": "Buy TFC because strong momentum in an intact trend usually keeps pushing upward"},
+      {"text": "Short TFC because upward rhythm reinforces downward scatter modulation"},
+      {"text": "Open a leveraged short because trend stretching reorganizes volatility harmonics"},
+      {"text": "Deploy an amplitude bot because rising cycles affect liquidity layering"}
+    ],
+    "correct_answer": "Buy TFC because strong momentum in an intact trend usually keeps pushing upward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaBurrito Token (NBT) trades at $0.83. RSI 73 (overbought), MACD flattening. What’s correct?",
+    "answers": [
+      {"text": "Short NBT because overbought flattening momentum often signals near-term pullback"},
+      {"text": "Buy NBT because flattening structure strengthens upward expansion phases"},
+      {"text": "Open a leveraged long because saturation mechanics reinforce breakout densities"},
+      {"text": "Deploy a resonance bot because resistance alignment modifies volatility shape"}
+    ],
+    "correct_answer": "Short NBT because overbought flattening momentum often signals near-term pullback"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicZucchini Chain (CZC) trades at $6.05. RSI 41 (weak), MACD negative, below EMA levels. What’s sensible?",
+    "answers": [
+      {"text": "Short CZC because weak indicators under EMA lines usually signal continuation downward"},
+      {"text": "Buy CZC because EMA compression strengthens upward skew leverage"},
+      {"text": "Open a leveraged long because downward gradients remodel volatility architecture"},
+      {"text": "Deploy a distribution bot because EMA fractures reshape cycle depth"}
+    ],
+    "correct_answer": "Short CZC because weak indicators under EMA lines usually signal continuation downward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "MegaMiso Protocol (MMP) trades at $1.02. RSI 37 (weak), MACD flattening, support being tested. What’s the right move?",
+    "answers": [
+      {"text": "Buy MMP only if it reclaims $1.06 because reclaiming support confirms momentum shift"},
+      {"text": "Short MMP because support pivots intensify downward skew modulation"},
+      {"text": "Open a leveraged short because compressing support distorts volatility profile"},
+      {"text": "Deploy a zone-steering bot because structural retests alter liquidity gradients"}
+    ],
+    "correct_answer": "Buy MMP only if it reclaims $1.06 because reclaiming support confirms momentum shift"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalacticCroissant Coin (GCCN) trades at $18.44. RSI 69 (strong), MACD accelerating. Trend holds. What’s the action?",
+    "answers": [
+      {"text": "Buy GCCN because strong momentum in a sustained trend usually continues upward"},
+      {"text": "Short GCCN because rising momentum reconstructs downward skew cycles"},
+      {"text": "Open a leveraged short because upward bursts reorganize volatility pathways"},
+      {"text": "Deploy a modulation bot because trend strength adjusts liquidity funnels"}
+    ],
+    "correct_answer": "Buy GCCN because strong momentum in a sustained trend usually continues upward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboStardust Token (TSD) trades at $0.72. RSI 27 (oversold), MACD rising, strong wick. What’s the move?",
+    "answers": [
+      {"text": "Buy TSD because oversold reversals with wick strength often spark upward movement"},
+      {"text": "Short TSD because upward wick cycles reinforce downward redistribution"},
+      {"text": "Open a leveraged short because wick strength distorts volatility orientation"},
+      {"text": "Deploy a wick-alignment bot because oversold dynamics modify density timing"}
+    ],
+    "correct_answer": "Buy TSD because oversold reversals with wick strength often spark upward movement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicCabbage Coin (CCC) trades at $11.02. RSI 75 (overbought), MACD slowing. What’s the best play?",
+    "answers": [
+      {"text": "Short CCC because overbought slowing momentum usually brings downside movement"},
+      {"text": "Buy CCC because slowing cadence enhances upward harmonic range"},
+      {"text": "Open a leveraged long because saturation cycles restructure breakout planes"},
+      {"text": "Deploy a trend-inflation bot because resistance placement warps liquidity variance"}
+    ],
+    "correct_answer": "Short CCC because overbought slowing momentum usually brings downside movement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaSoup Token (NST) trades at $0.098. RSI 48 (neutral), MACD slightly rising, consolidation breakout forming. What fits?",
+    "answers": [
+      {"text": "Buy NST because rising momentum at consolidation edges usually triggers breakouts"},
+      {"text": "Short NST because breakout attempts reinforce downward rotational grids"},
+      {"text": "Open a leveraged short because compression ranges disrupt upward dynamics"},
+      {"text": "Deploy a channel bot because pre-breakout tension modifies token flux"}
+    ],
+    "correct_answer": "Buy NST because rising momentum at consolidation edges usually triggers breakouts"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumPumpkin Chain (QPK) trades at $15.60. RSI 32 (weak), MACD curling up. Support intact. Which direction?",
+    "answers": [
+      {"text": "Buy QPK because weak RSI with MACD recovery at support often forms upward reversal"},
+      {"text": "Short QPK because upward recoveries amplify downward rebalancing geometry"},
+      {"text": "Open a leveraged short because early up-cycles distort volatility frames"},
+      {"text": "Deploy a supportive grid bot because structural holds modify liquidity spectra"}
+    ],
+    "correct_answer": "Buy QPK because weak RSI with MACD recovery at support often forms upward reversal"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalacticCereal Network (GCN) trades at $22.55. RSI 72 (overbought), MACD flattening downward. Which move?",
+    "answers": [
+      {"text": "Short GCN because overbought flattening usually signals oncoming downside"},
+      {"text": "Buy GCN because flattening emphasizes upward range stabilization"},
+      {"text": "Open a leveraged long because overbought phases increase breakout fluidity"},
+      {"text": "Deploy a saturation stabilizer bot because resistance proximity alters token friction"}
+    ],
+    "correct_answer": "Short GCN because overbought flattening usually signals oncoming downside"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboSushi Protocol (TSP) trades at $3.41. RSI 28 (oversold), MACD curling up, strong rebound wick. What’s the move?",
+    "answers": [
+      {"text": "Buy TSP because oversold reversal signals with wick strength usually lead to upward continuation"},
+      {"text": "Short TSP because recovery wicks reshape downward volatility geometry"},
+      {"text": "Open a leveraged short because reversal momentum destabilizes liquidity compression layers"},
+      {"text": "Deploy a harmonic grid because wick-driven turnarounds alter micro-cycle mechanics"}
+    ],
+    "correct_answer": "Buy TSP because oversold reversal signals with wick strength usually lead to upward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaHamster Coin (NHC) trades at $0.19. RSI 73 (overbought), MACD flattening. Which direction makes sense?",
+    "answers": [
+      {"text": "Short NHC because overbought flattening momentum commonly produces controlled pullbacks"},
+      {"text": "Buy NHC because flattening cycles reinforce upward rotation flow"},
+      {"text": "Open a leveraged long because saturated momentum modulates upward volatility clusters"},
+      {"text": "Deploy a pressure-reactive bot because overbought signals reshape density mapping"}
+    ],
+    "correct_answer": "Short NHC because overbought flattening momentum commonly produces controlled pullbacks"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalaxyBiscuit Token (GBT) trades at $8.83. RSI 41 (slightly weak), MACD negative, price below VWAP. What’s correct here?",
+    "answers": [
+      {"text": "Short GBT because weak momentum under VWAP usually signals steady downward continuation"},
+      {"text": "Buy GBT because VWAP compression enhances upward skew regulation"},
+      {"text": "Open a leveraged long because VWAP deviations rebuild upward volatility formation"},
+      {"text": "Deploy a band-reversal bot because negative cycles reshape liquidity waves"}
+    ],
+    "correct_answer": "Short GBT because weak momentum under VWAP usually signals steady downward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicSalsa Coin (CSC) trades at $0.051. RSI 35 (weak), MACD slightly rising. Potential bounce forming. What’s the optimal play?",
+    "answers": [
+      {"text": "Buy CSC because early bounce signals with MACD lift often result in upward recovery waves"},
+      {"text": "Short CSC because reversal setups intensify downward skew formation"},
+      {"text": "Open a leveraged short because bounce phases destabilize volatility gradients"},
+      {"text": "Deploy a liquidation bot because weak zones amplify liquidity contrasts"}
+    ],
+    "correct_answer": "Buy CSC because early bounce signals with MACD lift often result in upward recovery waves"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumCracker Chain (QCC) trades at $14.90. RSI 76 (overbought), MACD rolling down. What’s the choice?",
+    "answers": [
+      {"text": "Short QCC because extreme overbought momentum loss usually brings fast downside movement"},
+      {"text": "Buy QCC because momentum rollovers enhance upward traction layers"},
+      {"text": "Open a leveraged long because exhaustion dynamic strengthens breakout geometry"},
+      {"text": "Deploy a trend-widening bot because upper-cycle compression modifies volatility topology"}
+    ],
+    "correct_answer": "Short QCC because extreme overbought momentum loss usually brings fast downside movement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "MegaRamen Token (MRT) trades at $5.41. RSI 55 (healthy), MACD rising strong, price pressing resistance. Right directional call?",
+    "answers": [
+      {"text": "Buy MRT because rising momentum pushing against resistance often leads to breakout continuation"},
+      {"text": "Short MRT because resistance proximity redistributes downward skew architecture"},
+      {"text": "Open a leveraged short because upward engagement destabilizes liquidity surfaces"},
+      {"text": "Deploy a corrective grid because rising flow restructures token density"}
+    ],
+    "correct_answer": "Buy MRT because rising momentum pushing against resistance often leads to breakout continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaPepper Coin (NPC) trades at $0.0036. RSI 31 (oversold), MACD curling up. What’s best?",
+    "answers": [
+      {"text": "Buy NPC because oversold MACD lift usually provides strong early reversal entries"},
+      {"text": "Short NPC because reversal mechanics reinforce downward cycle harmonics"},
+      {"text": "Open a leveraged short because bounce impulses recalibrate liquidity boundaries"},
+      {"text": "Deploy a volatility fork bot because oversold conditions reshape micro-trend alignment"}
+    ],
+    "correct_answer": "Buy NPC because oversold MACD lift usually provides strong early reversal entries"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboWaffle Network (TWN) trades at $27.60. RSI 69 (strong), MACD accelerating. Trending clean. What’s the move?",
+    "answers": [
+      {"text": "Buy TWN because clean uptrends with accelerating momentum typically continue upward"},
+      {"text": "Short TWN because strong rises rewrite downward harmonic stability"},
+      {"text": "Open a leveraged short because trend acceleration reorganizes upward risk curves"},
+      {"text": "Deploy a cyclical neutralizer bot because strong candles affect volatility planes"}
+    ],
+    "correct_answer": "Buy TWN because clean uptrends with accelerating momentum typically continue upward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicJelly Token (CJT) trades at $0.22. RSI 75 (overbought), MACD flattening. Which direction?",
+    "answers": [
+      {"text": "Short CJT because overbought flattening momentum often sends price downward"},
+      {"text": "Buy CJT because flattening cycles strengthen upward amplification curves"},
+      {"text": "Open a leveraged long because saturation enhances breakout grid alignment"},
+      {"text": "Deploy a range-long bot because exhaustion moderates volatility breakdown"}
+    ],
+    "correct_answer": "Short CJT because overbought flattening momentum often sends price downward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GigaTortilla Coin (GTC) trades at $11.20. RSI 40 (weak), MACD negative, failing support line. Good play?",
+    "answers": [
+      {"text": "Short GTC because weak indicators breaking support usually lead to further downside"},
+      {"text": "Buy GTC because breakdown structures strengthen upward skew sequences"},
+      {"text": "Open a leveraged long because losing support reorganizes volatility curvature"},
+      {"text": "Deploy a triangular grid because structural breaks shape liquidity realignment"}
+    ],
+    "correct_answer": "Short GTC because weak indicators breaking support usually lead to further downside"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumFritter Coin (QFC) sits at $2.04. RSI 27 (oversold), MACD rising, long lower wick. What’s correct?",
+    "answers": [
+      {"text": "Buy QFC because oversold wick reversals with MACD lift commonly trigger upward moves"},
+      {"text": "Short QFC because bounce reactions amplify downward liquidity channels"},
+      {"text": "Open a leveraged short because reversal moves deform volatility shaping"},
+      {"text": "Deploy a wick-sweep bot because deep wicks mutate algorithmic distributions"}
+    ],
+    "correct_answer": "Buy QFC because oversold wick reversals with MACD lift commonly trigger upward moves"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaMango Layer (NML) trades at $18.70. RSI 61 (healthy), MACD building, higher-lows forming. Correct choice?",
+    "answers": [
+      {"text": "Buy NML because higher-lows with strengthening MACD often confirm bullish continuation"},
+      {"text": "Short NML because upward structural patterns reinforce downward skew mapping"},
+      {"text": "Open a leveraged short because upward oscillations destabilize liquidity grids"},
+      {"text": "Deploy a volatility equalizer because structural trends regulate micro-pressure fields"}
+    ],
+    "correct_answer": "Buy NML because higher-lows with strengthening MACD often confirm bullish continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicGong Token (CGT) trades at $0.66. RSI 77 (very overbought), MACD flattening downward. Action?",
+    "answers": [
+      {"text": "Short CGT because extreme overbought flattening momentum typically triggers clean pullbacks"},
+      {"text": "Buy CGT because flattening overlays strengthen upward density flows"},
+      {"text": "Open a leveraged long because overbought states enhance breakout tension maps"},
+      {"text": "Deploy a break-resonance bot because saturation reshapes liquidity baseline symmetry"}
+    ],
+    "correct_answer": "Short CGT because extreme overbought flattening momentum typically triggers clean pullbacks"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboCinnamon Protocol (TCP) trades at $0.15. RSI 36 (weak), MACD flat, descending triangle forming. What’s logical?",
+    "answers": [
+      {"text": "Short TCP because descending triangles with weak indicators usually break downward"},
+      {"text": "Buy TCP because descending triangles reinforce upward imbalance vectors"},
+      {"text": "Open a leveraged long because triangle compression intensifies upward liquidity flow"},
+      {"text": "Deploy a structural grid because geometric patterns recalibrate tokenized harmonics"}
+    ],
+    "correct_answer": "Short TCP because descending triangles with weak indicators usually break downward"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaSprinkle Chain (NSC) trades at $42.90. RSI 54 (neutral), MACD rising, approaching previous highs. Best move?",
+    "answers": [
+      {"text": "Buy NSC because rising momentum into resistance often leads to clean breakout attempts"},
+      {"text": "Short NSC because upward tests reinforce downward skew grids"},
+      {"text": "Open a leveraged short because pressure expansion destabilizes liquidity scope"},
+      {"text": "Deploy a trend-disruptor bot because pre-breakout zones shape volatility dispersion"}
+    ],
+    "correct_answer": "Buy NSC because rising momentum into resistance often leads to clean breakout attempts"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GigaFalcon Token (GFT) trades at $5.11. RSI 30 (oversold), MACD rising. Ideal direction?",
+    "answers": [
+      {"text": "Buy GFT because oversold MACD lifts usually create strong upward bounces"},
+      {"text": "Short GFT because upward bounces enhance downward cycle rotation"},
+      {"text": "Open a leveraged short because bounce phases distort volatility mechanics"},
+      {"text": "Deploy a wick-range bot because low RSI modifies density flux"}
+    ],
+    "correct_answer": "Buy GFT because oversold MACD lifts usually create strong upward bounces"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicMarmalade Coin (CMC) sits at $9.00. RSI 74 (overbought), MACD slowing. What’s the choice?",
+    "answers": [
+      {"text": "Short CMC because overbought fading momentum commonly leads to predictable drops"},
+      {"text": "Buy CMC because slowing MACD intensifies upward harmonic balance"},
+      {"text": "Open a leverage long because resistance softening reboots upward density pathways"},
+      {"text": "Deploy a liquidity cloud bot because saturation alters token distribution maps"}
+    ],
+    "correct_answer": "Short CMC because overbought fading momentum commonly leads to predictable drops"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "NovaHotdog Token (NHT) trades at $2.38. RSI 43 (weak), MACD sloping down, losing trendline. Decision?",
+    "answers": [
+      {"text": "Short NHT because losing trendline support combined with weak indicators often leads to further decline"},
+      {"text": "Buy NHT because downward trendline shifts reinforce upward skew modulation"},
+      {"text": "Open a leveraged long because trendline failure enhances upward volatility calibration"},
+      {"text": "Deploy a reversion bot because structural degradation reshapes liquidity curvature"}
+    ],
+    "correct_answer": "Short NHT because losing trendline support combined with weak indicators often leads to further decline"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboZebra Coin (TZC) trades at $0.082. RSI 35 (weak), MACD flattening, consolidation near support. Next action?",
+    "answers": [
+      {"text": "Buy TZC only if it breaks above $0.085 because breakouts above support range confirm bullish intent"},
+      {"text": "Short TZC because consolidation amplifies downward skew directions"},
+      {"text": "Open a leveraged short because sideways structure reallocates volatility flux"},
+      {"text": "Deploy a neutral range bot because wedge formations reorganize micro-structure liquidity"}
+    ],
+    "correct_answer": "Buy TZC only if it breaks above $0.085 because breakouts above support range confirm bullish intent"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "GalaxyPickle Chain (GPC) trades at $16.70. RSI 60 (healthy), MACD rising strongly. Trend intact. What’s optimal?",
+    "answers": [
+      {"text": "Buy GPC because healthy trend strength with rising MACD usually supports continuation"},
+      {"text": "Short GPC because upward cycles reinforce downward balance patterns"},
+      {"text": "Open a leveraged short because trend acceleration destabilizes skew harmonics"},
+      {"text": "Deploy a volatility redistribution bot because upward strength affects liquidity intervals"}
+    ],
+    "correct_answer": "Buy GPC because healthy trend strength with rising MACD usually supports continuation"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaBlizzard Coin (NBC) trades at $0.25. RSI 78 (very overbought), MACD rolling over. Which direction?",
+    "answers": [
+      {"text": "Short NBC because extreme overbought rollovers almost always trigger sharp downward moves"},
+      {"text": "Buy NBC because rollover structures amplify upward volatility currents"},
+      {"text": "Open a leveraged long because saturated momentum reorganizes breakout sequencing"},
+      {"text": "Deploy a reversal-skip bot because overbought levels reshape distribution geometry"}
+    ],
+    "correct_answer": "Short NBC because extreme overbought rollovers almost always trigger sharp downward moves"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "CyberPenguin Token (CPT) trades at $4.89. RSI 33 (weak), MACD lifting slightly. Support holding. What’s the best move?",
+    "answers": [
+      {"text": "Buy CPT because weak RSI with support strength and MACD lift generally forms early reversals"},
+      {"text": "Short CPT because upward reformations reinforce downward volatility threads"},
+      {"text": "Open a leveraged short because lift phases distort upward modulation grids"},
+      {"text": "Deploy a synthetic rebalancer because support harmonics adjust liquidity flux"}
+    ],
+    "correct_answer": "Buy CPT because weak RSI with support strength and MACD lift generally forms early reversals"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "MegaCarrot Chain (MCC) trades at $31.40. RSI 70 (overbought), MACD flattening near resistance. What’s correct?",
+    "answers": [
+      {"text": "Short MCC because overbought flattening momentum at resistance usually drives price lower"},
+      {"text": "Buy MCC because flattening momentum enhances upward continuity mechanics"},
+      {"text": "Open a leveraged long because resistance proximity rebalances volatility gradients"},
+      {"text": "Deploy a liquidity pressurizer because resistance structures affect tokenized harmonics"}
+    ],
+    "correct_answer": "Short MCC because overbought flattening momentum at resistance usually drives price lower"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumPepper Coin (QPC) trades at $0.34. RSI 59 (healthy), MACD rising, forming a clean trend. Best direction?",
+    "answers": [
+      {"text": "Buy QPC because improving trend strength with rising momentum typically continues upward"},
+      {"text": "Short QPC because structural upward pressure enhances downward skew logic"},
+      {"text": "Open a leveraged short because strong momentum deforms volatility channels"},
+      {"text": "Deploy a trend-divider bot because stable candles shift liquidity vectors"}
+    ],
+    "correct_answer": "Buy QPC because improving trend strength with rising momentum typically continues upward"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaCrouton Finance (NCF) trades at $12.11. RSI 25 (deep oversold), MACD curling up. What’s the play?",
+    "answers": [
+      {"text": "Buy NCF because deep oversold reversals with MACD lift often create sharp upward rebounds"},
+      {"text": "Short NCF because oversold conditions reinforce downward skew tension"},
+      {"text": "Open a leveraged short because early reversal distortions modify volatility sequencing"},
+      {"text": "Deploy a bottom-distortion bot because oversold states reshape liquidity distribution"}
+    ],
+    "correct_answer": "Buy NCF because deep oversold reversals with MACD lift often create sharp upward rebounds"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicLatte Protocol (CLP) trades at $6.66. RSI 67 (strong), MACD rising, resistance overhead. What’s the move?",
+    "answers": [
+      {"text": "Buy CLP because strong momentum pressing into resistance often results in breakout continuation"},
+      {"text": "Short CLP because upward momentum magnifies downward directional mapping"},
+      {"text": "Open a leveraged short because resistance traction destabilizes volatility baseline grids"},
+      {"text": "Deploy a resonance bot because resistance cycles recalibrate harmonic flows"}
+    ],
+    "correct_answer": "Buy CLP because strong momentum pressing into resistance often results in breakout continuation"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "GalaxyFritter Chain (GFC) trades at $0.72. RSI 76 (overbought), MACD slowing. Which direction fits?",
+    "answers": [
+      {"text": "Short GFC because overbought slowdown commonly leads to downside correction"},
+      {"text": "Buy GFC because slowing momentum strengthens upward liquidity calibration"},
+      {"text": "Open a leveraged long because overbought harmonics amplify breakout volatility"},
+      {"text": "Deploy an algorithmic ladder because saturation states influence token flow distribution"}
+    ],
+    "correct_answer": "Short GFC because overbought slowdown commonly leads to downside correction"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "TurboMango Token (TMT) trades at $25.30. RSI 42 (weak), MACD negative, failed bounce attempt. Action?",
+    "answers": [
+      {"text": "Short TMT because weak indicators and failed bounce attempts usually send price lower"},
+      {"text": "Buy TMT because failed bounces restructure upward trend liquidity"},
+      {"text": "Open a leveraged long because negative motion recalibrates upward energy gradients"},
+      {"text": "Deploy a reconfiguring bot because failed reactions shift volatility resonance"}
+    ],
+    "correct_answer": "Short TMT because weak indicators and failed bounce attempts usually send price lower"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaCrisp Coin (NCC) trades at $0.043. RSI 38 (weak), MACD flat, descending range. What’s appropriate?",
+    "answers": [
+      {"text": "Short NCC because descending ranges with weak momentum tend to break downward"},
+      {"text": "Buy NCC because structural compression reinforces upward rotational cycles"},
+      {"text": "Open a leveraged long because descending pressure intensifies upward skew formation"},
+      {"text": "Deploy a compression bot because structures reshape amplitude variance"}
+    ],
+    "correct_answer": "Short NCC because descending ranges with weak momentum tend to break downward"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "FrostedPenguin Token (FPT) trades at $13.70. RSI 58 (healthy), MACD rising, price reclaiming VWAP. Which move fits?",
+    "answers": [
+      {"text": "Buy FPT because recovering above VWAP with rising momentum typically signals trend continuation"},
+      {"text": "Short FPT because VWAP reclaims restructure downward skew patterns"},
+      {"text": "Open a leveraged short because VWAP shifts distort upward mobility"},
+      {"text": "Deploy a volatility axis bot because reclaim levels recalibrate flow density"}
+    ],
+    "correct_answer": "Buy FPT because recovering above VWAP with rising momentum typically signals trend continuation"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "MegaSorbet Chain (MSC) trades at $0.80. RSI 28 (oversold), MACD rising. What’s the move?",
+    "answers": [
+      {"text": "Buy MSC because oversold reversal with MACD lift often marks early recovery"},
+      {"text": "Short MSC because reversal mechanics reinforce downward harmonic vectors"},
+      {"text": "Open a leveraged short because oversold conditions distort liquidity angles"},
+      {"text": "Deploy a pressure-shift bot because low RSI modifies density patterns"}
+    ],
+    "correct_answer": "Buy MSC because oversold reversal with MACD lift often marks early recovery"
+  },
+
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicOnion Token (COT) trades at $3.04. RSI 72 (overbought), MACD slowing. Action?",
+    "answers": [
+      {"text": "Short COT because overbought momentum slowdown commonly leads to downward retracement"},
+      {"text": "Buy COT because slowdown strengthens upward consolidation channels"},
+      {"text": "Open a leveraged long because resistance friction enhances upward skew zones"},
+      {"text": "Deploy a directional blend bot because saturation modifies token architecture"}
+    ],
+    "correct_answer": "Short COT because overbought momentum slowdown commonly leads to downward retracement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboGuacamole Chain (TGC) trades at $0.074. RSI 31 (oversold), MACD curling up, long lower wick showing buyers. What’s the right move?",
+    "answers": [
+      {"text": "Buy TGC because oversold strength with a clean reversal wick usually leads to upward continuation"},
+      {"text": "Short TGC because upward reaction reshapes downward liquidity geometry"},
+      {"text": "Open a leveraged short because reversal candles enhance volatility distortion cycles"},
+      {"text": "Deploy a volatility-split bot because wick movements recalibrate tokenized liquidity funnels"}
+    ],
+    "correct_answer": "Buy TGC because oversold strength with a clean reversal wick usually leads to upward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaMochi Token (NMT) trades at $4.18. RSI 73 (overbought), MACD flattening. What should you do?",
+    "answers": [
+      {"text": "Short NMT because overbought momentum loss often triggers sharp retracements"},
+      {"text": "Buy NMT because diminishing momentum expands upward harmonic structure"},
+      {"text": "Open a leveraged long because flattening indicators reorganize breakout thresholds"},
+      {"text": "Deploy a range long because resistance tests enhance volatility channelling"}
+    ],
+    "correct_answer": "Short NMT because overbought momentum loss often triggers sharp retracements"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicBiscuit Protocol (CBP) trades at $0.29. RSI 58 (healthy), MACD rising, price above VWAP. Correct directional play?",
+    "answers": [
+      {"text": "Buy CBP because steady upward momentum above VWAP usually supports trend continuation"},
+      {"text": "Short CBP because upward trends reconfigure downward skew modulation"},
+      {"text": "Open a leveraged short because healthy indicators destabilize structural liquidity"},
+      {"text": "Deploy a grid short because upward strength mutates micro-volatility currents"}
+    ],
+    "correct_answer": "Buy CBP because steady upward momentum above VWAP usually supports trend continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GigaNacho Coin (GNC) trades at $12.60. RSI 76 (overbought), MACD turning down. What’s the move?",
+    "answers": [
+      {"text": "Short GNC because overbought rejection with shifting momentum usually results in downside movement"},
+      {"text": "Buy GNC because overbought compression enhances upward trajectory patterns"},
+      {"text": "Open a high-leverage long because decreasing momentum restructures upward density maps"},
+      {"text": "Deploy a breakout bot because resistance saturation modifies volatility topology"}
+    ],
+    "correct_answer": "Short GNC because overbought rejection with shifting momentum usually results in downside movement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumWaffle Network (QWN) is at $0.51. RSI 39 (slightly weak), MACD negative, losing short-term support. What makes sense?",
+    "answers": [
+      {"text": "Short QWN because weak indicators with support loss typically create clean downside continuation"},
+      {"text": "Buy QWN because downward weakness strengthens upward sequence modulation"},
+      {"text": "Open a leveraged long because support breaks enhance upward volatility architecture"},
+      {"text": "Deploy a synthetic hedge because weakness improves tokenized liquidity mapping"}
+    ],
+    "correct_answer": "Short QWN because weak indicators with support loss typically create clean downside continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaNoodle Finance (NNF) trades at $2.91. RSI 47 (neutral), MACD rising slightly, forming higher lows. The best play?",
+    "answers": [
+      {"text": "Buy NNF because rising higher-lows with improving MACD often support early trend continuation"},
+      {"text": "Short NNF because upward alignment reorganizes downward skew harmonics"},
+      {"text": "Open a leveraged short because higher-lows disrupt volatility baseline flows"},
+      {"text": "Deploy a liquidity sweep bot because consolidation enhances depth modulation"}
+    ],
+    "correct_answer": "Buy NNF because rising higher-lows with improving MACD often support early trend continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CryptoMammoth Token (CMT) trades at $18.44. RSI 72 (overbought), MACD rolling down, upper wick rejection. Logical move?",
+    "answers": [
+      {"text": "Short CMT because overbought rejection combined with fading momentum usually leads to downside shifts"},
+      {"text": "Buy CMT because momentum reduction enhances upward volatility clusters"},
+      {"text": "Open a heavy leverage long because wick rejection reorganizes upward trend matrices"},
+      {"text": "Deploy a bullish grid because saturation phases alter micro-cycle liquidity"}
+    ],
+    "correct_answer": "Short CMT because overbought rejection combined with fading momentum usually leads to downside shifts"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalaxyPretzel Coin (GPC) sits at $0.012. RSI 29 (oversold), MACD turning up, strong reversal wick. What’s optimal?",
+    "answers": [
+      {"text": "Buy GPC because oversold reversals with rising momentum often lead to clean upward moves"},
+      {"text": "Short GPC because reversal points enhance downward skew realignment"},
+      {"text": "Open a leveraged short because reversal formations distort liquidity symmetry"},
+      {"text": "Deploy a volatility neutralizer because bounce candles alter token flux densities"}
+    ],
+    "correct_answer": "Buy GPC because oversold reversals with rising momentum often lead to clean upward moves"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicRamen Token (CRT) trades at $9.77. RSI 69 (strong), MACD rising, price nearing breakout. Good choice?",
+    "answers": [
+      {"text": "Buy CRT because breakout pressure with strengthening momentum usually leads to follow-through"},
+      {"text": "Short CRT because breakout conditions modulate downward skew architecture"},
+      {"text": "Open a leveraged short because upward pressure rebalances liquidity compression zones"},
+      {"text": "Deploy a volatility split bot because breakout candles mutate the liquidity curve"}
+    ],
+    "correct_answer": "Buy CRT because breakout pressure with strengthening momentum usually leads to follow-through"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "FrostedTaco Coin (FTC) trades at $0.33. RSI 75 (overbought), MACD flattening. What’s the move?",
+    "answers": [
+      {"text": "Short FTC because overbought flattening momentum typically brings controlled pullbacks"},
+      {"text": "Buy FTC because flattening cycles enhance upward reaccumulation pathways"},
+      {"text": "Open a high-leverage long because saturation patterns realign upward volatility nodes"},
+      {"text": "Deploy a liquidity engine bot because overbought pressures influence hash-level variance"}
+    ],
+    "correct_answer": "Short FTC because overbought flattening momentum typically brings controlled pullbacks"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "MegaCrank Coin (MCC) trades at $41.30. RSI 43 (weak), MACD negative, below VWAP. What’s correct?",
+    "answers": [
+      {"text": "Short MCC because weak momentum below VWAP usually signals trending downside"},
+      {"text": "Buy MCC because VWAP deflection amplifies upward skew structure"},
+      {"text": "Open a leveraged long because downward movement enhances liquidity curvature"},
+      {"text": "Deploy a DCA bot because weak alignment reshapes micro-volatility bell curves"}
+    ],
+    "correct_answer": "Short MCC because weak momentum below VWAP usually signals trending downside"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaPudding Network (NPN) trades at $5.65. RSI 32 (weak), MACD slightly up, forming a potential bounce. What fits?",
+    "answers": [
+      {"text": "Buy NPN because early bounce conditions with improving MACD often lead to upward continuation"},
+      {"text": "Short NPN because bounce signals amplify downward skew inefficiencies"},
+      {"text": "Open a leveraged short because upward reactions distort volatility equilibrium"},
+      {"text": "Deploy a cycle-reversal bot because low-RSI dynamics recalibrate liquidity vectors"}
+    ],
+    "correct_answer": "Buy NPN because early bounce conditions with improving MACD often lead to upward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumTortilla Token (QTT) sits at $0.91. RSI 77 (very overbought), MACD losing strength. What’s your play?",
+    "answers": [
+      {"text": "Short QTT because extreme overbought conditions paired with declining momentum usually cause fast drops"},
+      {"text": "Buy QTT because exhaustion phases strengthen upward cycle geometry"},
+      {"text": "Open a leveraged long because upper volatility shifts enhance breakout calibration"},
+      {"text": "Deploy a bullish sweep bot because saturation harmonics modify liquidity resonance"}
+    ],
+    "correct_answer": "Short QTT because extreme overbought conditions paired with declining momentum usually cause fast drops"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "OmegaMuffin Chain (OMC) trades at $24.50. RSI 60 (healthy), MACD rising, clear trend. What’s logical?",
+    "answers": [
+      {"text": "Buy OMC because rising momentum in a healthy trend often brings stable continuation"},
+      {"text": "Short OMC because upward strength reorganizes downward skew gradients"},
+      {"text": "Open a leveraged short because bullish rhythm disrupts liquidity placement"},
+      {"text": "Deploy a range short because trend expansion modifies volatility transfer functions"}
+    ],
+    "correct_answer": "Buy OMC because rising momentum in a healthy trend often brings stable continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicFalcon Coin (CFC) trades at $7.88. RSI 27 (oversold), MACD curling up. Best choice?",
+    "answers": [
+      {"text": "Buy CFC because oversold upward momentum shifts usually result in early recoveries"},
+      {"text": "Short CFC because recovery attempts realign downward skew regulation"},
+      {"text": "Open a leveraged short because bounce phases destabilize volatility architecture"},
+      {"text": "Deploy a liquidity equilibrium bot because oversold states enhance waveform compression"}
+    ],
+    "correct_answer": "Buy CFC because oversold upward momentum shifts usually result in early recoveries"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GigaBurrito Token (GBT) trades at $0.26. RSI 74 (overbought), MACD rolling down, bearish divergence. What’s the move?",
+    "answers": [
+      {"text": "Short GBT because bearish divergence at overbought levels typically forces downward corrections"},
+      {"text": "Buy GBT because divergence enhances upward liquidity polarity"},
+      {"text": "Open a leveraged long because saturation cycles reconfigure upward volatility stacks"},
+      {"text": "Deploy a dynamic grid because divergence reshapes micro-trend distribution"}
+    ],
+    "correct_answer": "Short GBT because bearish divergence at overbought levels typically forces downward corrections"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaCrab Finance (NCF) trades at $2.33. RSI 48 (neutral), MACD slightly rising, consolidation range. The best approach?",
+    "answers": [
+      {"text": "Buy NCF only if it breaks above $2.40 because breakouts above consolidation show real commitment"},
+      {"text": "Short NCF because consolidation amplifies downward skew alignment"},
+      {"text": "Open a leveraged short because sideways periods distort upward harmonic vectors"},
+      {"text": "Deploy a neutral arbitrage bot because symmetrical ranges mutate liquidity protocols"}
+    ],
+    "correct_answer": "Buy NCF only if it breaks above $2.40 because breakouts above consolidation show real commitment"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboCarbide Coin (TCC) trades at $4.73. RSI 40 (weak), MACD negative, failing trendline. What’s correct?",
+    "answers": [
+      {"text": "Short TCC because failing trendlines with weak indicators usually produce continued downside"},
+      {"text": "Buy TCC because downward breaks reinforce upward skew geometry"},
+      {"text": "Open a leveraged long because trendline failure enhances volatility compression"},
+      {"text": "Deploy a resistance absorption bot because downward energy recalibrates liquidity tension"}
+    ],
+    "correct_answer": "Short TCC because failing trendlines with weak indicators usually produce continued downside"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalaxySprocket Coin (GSC) trades at $10.20. RSI 62 (healthy), MACD rising, clean breakout structure. What’s the correct action?",
+    "answers": [
+      {"text": "Buy GSC because healthy breakout momentum usually leads to further upside"},
+      {"text": "Short GSC because breakout rhythm enhances downward skew propagation"},
+      {"text": "Open a leveraged short because rising candles deform volatility distribution"},
+      {"text": "Deploy a trend-reversal bot because momentum uplift modifies liquidity curvature"}
+    ],
+    "correct_answer": "Buy GSC because healthy breakout momentum usually leads to further upside"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GalacticChurro Coin (GCC) trades at $1.84. RSI is 72 (overbought), MACD flattening, and price rejects from resistance. What’s the move?",
+    "answers": [
+      {"text": "Sell GCC here because overbought weakness with flattening momentum usually gives clean downside follow-through"},
+      {"text": "Buy more GCC because overbought readings amplify upward volatility choreography"},
+      {"text": "Open a leveraged long because flattening momentum reconfigures upward liquidity engines"},
+      {"text": "Stake GCC for yield because short-term tension redistributes network hashflow structures"}
+],
+      "correct_answer": "Sell GCC here because overbought weakness with flattening momentum usually gives clean downside follow-through"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaDonut Token (NDT) trades at $0.092. RSI 30 (oversold), MACD curling up, and a bullish engulfing candle forms. Best action?",
+    "answers": [
+      {"text": "Buy NDT because oversold reversal with clean candle structure often leads to upward continuation"},
+      {"text": "Short NDT because reversal candles intensify downward liquidity cycles"},
+      {"text": "Open a complex grid bot because low price redistributes micro-volatility clusters"},
+      {"text": "Enter a hedge short because upward inflection modifies trend-density vectors"}
+],
+      "correct_answer": "Buy NDT because oversold reversal with clean candle structure often leads to upward continuation"
+  },
+[
+  {
+    "type": "Crypto Trading",
+    "question": "QuantumPineapple Chain (QPC) trades at $14.60. RSI 56 (healthy), MACD rising, volume strong. What’s the logical play?",
+    "answers": [
+      {"text": "Buy QPC because healthy trend strength paired with rising volume usually leads to stable continuation"},
+      {"text": "Short QPC because upward consistency reshapes downward volatility pathways"},
+      {"text": "Open a leveraged short because trend acceleration disrupts market-making geometry"},
+      {"text": "Deploy a range bot because rising momentum distorts accumulative liquidity funnels"}
+    ],
+    "correct_answer": "Buy QPC because healthy trend strength paired with rising volume usually leads to stable continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "MuffinForge Protocol (MFP) trades at $3.27. RSI 80 (very overbought), MACD rolling over, bearish wick. Which makes sense?",
+    "answers": [
+      {"text": "Short MFP because extreme overbought weakness often creates fast downside movement"},
+      {"text": "Buy more because overbought cycles strengthen upward volatility plumbing"},
+      {"text": "Open a high-leverage long because bearish wicks reorganize liquidity engines"},
+      {"text": "Add spot exposure because exhaustion phases enhance upward premium absorption"}
+    ],
+    "correct_answer": "Short MFP because extreme overbought weakness often creates fast downside movement"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboWalrus Coin (TWC) is at $0.0048. RSI 42 (slightly weak), MACD negative, and price sits under the 200 EMA. What’s the correct call?",
+    "answers": [
+      {"text": "Avoid longs and wait to buy TWC only if it recovers above $0.0051 because reclaiming major EMAs shows real strength"},
+      {"text": "Long TWC because downward EMA pressure improves volatility curvature"},
+      {"text": "Open a leverage long because negative MACD reconfigures upward trend logic"},
+      {"text": "Buy instantly because weakness intensifies upward rotational structure"}
+    ],
+    "correct_answer": "Avoid longs and wait to buy TWC only if it recovers above $0.0051 because reclaiming major EMAs shows real strength"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicFalafel Network (CFN) trades at $2.11. RSI 33 (weak), MACD slightly up, forming a potential double-bottom. Next step?",
+    "answers": [
+      {"text": "Buy CFN because double-bottom patterns with early MACD lift often turn into solid reversals"},
+      {"text": "Short CFN because reversal formations increase downward-volatility pressure"},
+      {"text": "Leverage short because bottoming structures destabilize liquidity cadence"},
+      {"text": "Open a randomized DCA algorithm because support mapping influences hashflow routing"}
+    ],
+    "correct_answer": "Buy CFN because double-bottom patterns with early MACD lift often turn into solid reversals"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "LaserBiscuit Token (LBT) sits at $0.61. RSI is 69 (strong), MACD rising, bullish breakout testing previous highs. Correct approach?",
+    "answers": [
+      {"text": "Buy LBT because rising momentum through resistance often leads to breakout continuation"},
+      {"text": "Short LBT because upward tests reinforce downward skew projection"},
+      {"text": "Leverage short because bullish engagement redistributes compression vectors"},
+      {"text": "Open a range short because breakout candles destabilize liquidity overhead"}
+    ],
+    "correct_answer": "Buy LBT because rising momentum through resistance often leads to breakout continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaSoda Coin (NSD) trades at $0.013. RSI 74 (overbought), MACD losing speed, upper wick formed. Which trade fits?",
+    "answers": [
+      {"text": "Short NSD because overbought slowing momentum usually leads to clean pullbacks"},
+      {"text": "Buy NSD because exhaustion cycles strengthen upward harmonics"},
+      {"text": "Add leverage long because wicks reorganize liquidity topography"},
+      {"text": "Open a trend bot because overbought levels refine volatility baselines"}
+    ],
+    "correct_answer": "Short NSD because overbought slowing momentum usually leads to clean pullbacks"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CrankToast Finance (CTF) sits at $8.90. RSI 37 (weak), MACD negative, price losing support. What’s the move?",
+    "answers": [
+      {"text": "Short CTF because weakening indicators with support loss typically fuel downward continuation"},
+      {"text": "Buy CTF because downward dissolutions enhance upward cycle calibration"},
+      {"text": "Open a heavy leverage long because support breakdown reorganizes upward density flow"},
+      {"text": "Deploy a random-scaled grid because downward liquidity enhances channel vibration"}
+    ],
+    "correct_answer": "Short CTF because weakening indicators with support loss typically fuel downward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "MegaPineapple Token (MPT) trades at $0.49. RSI 29 (oversold), MACD curling up, long lower wick. Ideal move?",
+    "answers": [
+      {"text": "Buy MPT because oversold bounce signals with wick strength usually lead to upward shifts"},
+      {"text": "Short MPT because upward inflection reorganizes downward skew"},
+      {"text": "Open a leverage short because oversold metrics intensify volatility gradients"},
+      {"text": "Set up a liquidity trap bot because wick formations alter tokenized hashfield vectors"}
+    ],
+    "correct_answer": "Buy MPT because oversold bounce signals with wick strength usually lead to upward shifts"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GigaSyrup Coin (GSC) trades at $3.89. RSI 62 (healthy), MACD sharply up, strong volume breakout. Correct choice?",
+    "answers": [
+      {"text": "Buy GSC because strong volume breakouts with rising momentum reliably push trends higher"},
+      {"text": "Short GSC because breakout velocity reinforces downward skew transitions"},
+      {"text": "Open a leveraged counter-short because rising candles distort volatility axes"},
+      {"text": "Launch an arbitrage mirroring model because breakout walls reorganize liquidity boundaries"}
+    ],
+    "correct_answer": "Buy GSC because strong volume breakouts with rising momentum reliably push trends higher"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "CosmicNacho DeFi (CNF) trades at $17.20. RSI 73 (overbought), MACD flattening. Best action?",
+    "answers": [
+      {"text": "Short CNF because overbought momentum loss commonly triggers clean pullbacks"},
+      {"text": "Buy CNF because diminishing momentum increases upward rotational energy"},
+      {"text": "Open a leveraged long because flattening indicators enhance upward resistance penetration"},
+      {"text": "Deploy a volatility inversion bot because overbought entries mutate liquidity corridors"}
+    ],
+    "correct_answer": "Short CNF because overbought momentum loss commonly triggers clean pullbacks"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaFritter Coin (NFC) sits at $0.0083. RSI 49 (neutral), MACD slightly rising, steady consolidation. What makes sense?",
+    "answers": [
+      {"text": "Buy NFC only if it breaks above $0.0086 because breakouts above consolidation show real market commitment"},
+      {"text": "Short NFC because consolidation reinforces downward liquidity spirals"},
+      {"text": "Leverage short because sideways patterns compact volatility vectors"},
+      {"text": "Add instant buy volume because neutral zones enhance upward mechanics by default"}
+    ],
+    "correct_answer": "Buy NFC only if it breaks above $0.0086 because breakouts above consolidation show real market commitment"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "TurboKraken Byte (TKB) trades at $2.66. RSI 41 (slightly weak), MACD negative, price below VWAP. What’s the right directional play?",
+    "answers": [
+      {"text": "Short TKB because weak indicators under VWAP usually mean ongoing downside pressure"},
+      {"text": "Buy TKB because VWAP compression enhances upward skew stability"},
+      {"text": "Open a leveraged long because sub-VWAP readings realign upward harmonics"},
+      {"text": "Deploy a range long because downward bias builds volatility respiration"}
+    ],
+    "correct_answer": "Short TKB because weak indicators under VWAP usually mean ongoing downside pressure"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "GlitterBeast Coin (GBC) trades at $5.42. RSI 27 (oversold), MACD rising, strong bounce candle. Move?",
+    "answers": [
+      {"text": "Buy GBC because oversold reversals with rising momentum often trigger upward continuation"},
+      {"text": "Short GBC because reversal signals strengthen downward volatility matrices"},
+      {"text": "Leverage short because upward bounces distort liquidity waveforms"},
+      {"text": "Open a triangular DCA bot because bounce candles adjust volatility cadence"}
+    ],
+    "correct_answer": "Buy GBC because oversold reversals with rising momentum often trigger upward continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "AlphaPretzel Network (APN) trades at $28.10. RSI 70 (overbought), MACD losing slope. What’s appropriate?",
+    "answers": [
+      {"text": "Short APN because overbought fading momentum typically leads to controlled drops"},
+      {"text": "Buy APN because momentum weakening increases upward liquidity polarity"},
+      {"text": "Open a leveraged long because slowing MACD enhances breakthrough sequencing"},
+      {"text": "Deploy a market-neutral synth because exhaustion rebalances protocol vectors"}
+    ],
+    "correct_answer": "Short APN because overbought fading momentum typically leads to controlled drops"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "SpiralWaffle Coin (SWC) trades at $0.37. RSI 58 (healthy), MACD rising, and price forming a higher low. Which direction?",
+    "answers": [
+      {"text": "Buy SWC because higher-low structures with rising momentum normally support further trend continuation"},
+      {"text": "Short SWC because higher lows reorganize downward skew gradients"},
+      {"text": "Open a leveraged short because upward structure destabilizes liquidity surfaces"},
+      {"text": "Deploy an oscillation bot because trend behavior mutates micro-volatility channels"}
+    ],
+    "correct_answer": "Buy SWC because higher-low structures with rising momentum normally support further trend continuation"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "NebulaMeatball Chain (NMC) trades at $6.33. RSI 77 (very overbought), MACD rolling down. Action?",
+    "answers": [
+      {"text": "Short NMC because extreme overbought behavior with momentum loss typically results in sharp pullbacks"},
+      {"text": "Buy NMC because overextended cycles enhance upward liquidity filtration"},
+      {"text": "Open a leveraged long because downward turns reframe upward skew prioritization"},
+      {"text": "Stake NMC here because saturated momentum revitalizes upward throughput"}
+    ],
+    "correct_answer": "Short NMC because extreme overbought behavior with momentum loss typically results in sharp pullbacks"
+  },
+  {
+    "type": "Crypto Trading",
+    "question": "OmegaPudding Token (OPT) sits at $0.18. RSI 35 (weak), MACD down, losing support. What’s correct?",
+    "answers": [
+      {"text": "Short OPT because weak momentum with support loss normally leads to clean downside continuation"},
+      {"text": "Buy OPT because downward breakouts strengthen upward volatility rotation"},
+      {"text": "Open a leverage long because breakdown structure enhances upward friction layers"},
+      {"text": "Deploy a bottom-fishing bot because price compression reshapes liquidity geometry"}
+    ],
+    "correct_answer": "Short OPT because weak momentum with support loss normally leads to clean downside continuation"
+  }
+]

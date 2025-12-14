@@ -1,0 +1,1201 @@
+[
+  {
+    "type": "Type 0",
+    "question": "GentlePorridge Robotics (Soft Robotics) starts at $44.20. Daily RSI is 23 (very oversold), MACD histogram rises toward zero (momentum improving), and price taps the lower Bollinger Band on the daily chart (bottom of swing range). For a swing trade, what do you do?",
+    "answers": [
+      {"text": "Buy because oversold conditions with improving daily momentum often start multi-day reversals"},
+      {"text": "Short because daily oversold readings trigger prolonged breakdown cycles as structural weakness compounds"},
+      {"text": "Wait because early momentum shifts misrepresent the broader formation as higher timeframe alignment is incomplete"},
+      {"text": "Sell because lower-band interactions reinforce continuation dynamics as swing traders rotate out of weak structures"}
+    ],
+    "correct_answer": "Buy because oversold conditions with improving daily momentum often start multi-day reversals"
+  },
+  {
+    "type": "Type 0",
+    "question": "SnuggleTorque Energy Storage opens at $117.30. On the daily chart, price closes above the 200 EMA at $118.40 (long-term trend shift), ADX is 27 (trend strengthening), but Stochastics is 92 (very overbought). What’s the swing-friendly move?",
+    "answers": [
+      {"text": "Wait because a pullback toward $118.90 after the overbought spike gives a safer multi-day entry"},
+      {"text": "Buy because any daily close above the 200 EMA demands immediate alignment as trend pivots activate"},
+      {"text": "Short because overextended oscillators dominate higher-timeframe behavior as exhaustion spreads"},
+      {"text": "Fade the breakout because daily EMA breaks frequently reflect short-lived liquidity sweeps instead of durable trend shifts"}
+    ],
+    "correct_answer": "Wait because a pullback toward $118.90 after the overbought spike gives a safer multi-day entry"
+  },
+  {
+    "type": "Type 1",
+    "question": "VelociMellow Aerospace Comfort Products opens at $51.90. Midday news leaks about a new government contract. Daily candle spikes to $53.40. Buyers load in. RSI on daily hits 68 (near overbought). For the swing trade, what do you do?",
+    "answers": [
+      {"text": "Buy because sudden momentum surges with strong demand often lead to multi-day continuation"},
+      {"text": "Short because news-driven expansions compress structural flow as swing phases destabilize"},
+      {"text": "Wait because rapid surges distort daily balance as larger swing structure hasn’t confirmed yet"},
+      {"text": "Sell because contract-driven spikes generate fragile extensions as traders crowd unstable zones"}
+    ],
+    "correct_answer": "Buy because sudden momentum surges with strong demand often lead to multi-day continuation"
+  },
+  {
+    "type": "Type 2",
+    "question": "QuantumBeaver Analytics opens at $86.10. On the daily, MACD flips bullish, but RSI is 74 (overbought) and price is under daily resistance at $87.20. For a swing entry, what do you do?",
+    "answers": [
+      {"text": "Wait because getting in after price clears $87.30 avoids buying into resistance"},
+      {"text": "Buy because daily MACD crossovers dominate oscillator saturation during structural expansion"},
+      {"text": "Short because resistance zones guide swing direction as oscillators tighten under pressure"},
+      {"text": "Go long early because high RSI validates continuation phases as daily momentum escalates"}
+    ],
+    "correct_answer": "Wait because getting in after price clears $87.30 avoids buying into resistance"
+  },
+  {
+    "type": "Type 3",
+    "question": "SnootFaucet Water Technologies starts at $62.10. A dark pool print hits at $63.80 (1.2M shares), but retail selling dominates the regular chart. VWAP at $62.90. Which do you trust for a swing?",
+    "answers": [
+      {"text": "Go long because dark-pool interest near VWAP often signals multi-day accumulation"},
+      {"text": "Short because retail-driven pressure reshapes swing alignment as hidden orders lag behind"},
+      {"text": "Wait because conflicting flow structures reduce clarity as daily ranges rebalance"},
+      {"text": "Stay out because dark-pool prints distort directional bias as swing regimes transition"}
+    ],
+    "correct_answer": "Go long because dark-pool interest near VWAP often signals multi-day accumulation"
+  },
+  {
+    "type": "Type 4",
+    "question": "HushBlizzard Pharma breaks above $147 but immediately snaps back under with low daily volume. RSI is 70 (overbought). Price falls back inside the range. Swing traders call this what?",
+    "answers": [
+      {"text": "Short because a low-volume breakout failure on the daily chart usually signals a bull trap"},
+      {"text": "Buy because retracting volume stabilizes upward momentum as breakout structures recalibrate"},
+      {"text": "Wait because early pullbacks distort daily signals as the broader pattern settles"},
+      {"text": "Hold long because breakout rejections frequently precede more powerful continuation cycles"}
+    ],
+    "correct_answer": "Short because a low-volume breakout failure on the daily chart usually signals a bull trap"
+  },
+  {
+    "type": "Type 5",
+    "question": "MarshmallowCannon Mining opens at $34.90. VIX jumps from 14 to 20 (market fear rising). Price breaks daily trendline at $34.20. RSI 35 (weak). Swing decision?",
+    "answers": [
+      {"text": "Short because rising market volatility with a trendline break often leads to multi-day downside"},
+      {"text": "Buy because fear surges trigger rebalancing phases as daily structures reverse emotional moves"},
+      {"text": "Wait because volatility-driven distortions alter swing reliability across timeframes"},
+      {"text": "Go long because trendline breakdowns lose importance during macro fear repricing cycles"}
+    ],
+    "correct_answer": "Short because rising market volatility with a trendline break often leads to multi-day downside"
+  },
+  {
+    "type": "Type 6",
+    "question": "StonkHaven Litigation Solutions opens at $27.40. You have one losing swing position. ATR rises from 1.1 to 1.9 (volatility expanding). Price dips to $26.90. RSI 31 (near oversold). Swing choice?",
+    "answers": [
+      {"text": "Wait because entering above $27.10 after volatility cools gives a cleaner swing entry"},
+      {"text": "Cut everything because volatility bursts invalidate directional conviction across daily phases"},
+      {"text": "Short because expanding ATR strengthens downside as compression breaks on the daily"},
+      {"text": "Hold because volatility tends to stabilize as price interacts with lower daily levels"}
+    ],
+    "correct_answer": "Wait because entering above $27.10 after volatility cools gives a cleaner swing entry"
+  },
+  {
+    "type": "Type 7",
+    "question": "PastaHarbor BioSystems opens at $58.20. Rumor spreads of a partnership. Daily candle surges to $59.80. Stochastics rises from 19 to 42 (recovering). Volume expands. Swing reaction?",
+    "answers": [
+      {"text": "Go long because rumor-driven momentum with improving daily indicators often builds multi-day moves"},
+      {"text": "Short because rumor-driven expansions distort swing structure as excitement overrides true flow"},
+      {"text": "Wait because early speculation phases create misleading confidence across daily ranges"},
+      {"text": "Sell because rumor spikes reflect unstable liquidity alignment on swing timeframes"}
+    ],
+    "correct_answer": "Go long because rumor-driven momentum with improving daily indicators often builds multi-day moves"
+  },
+  {
+    "type": "Type 8",
+    "question": "TurquoisePenguin Networks opens at $73.10. Daily chart is at support ($72.80), 4H chart trending up, 1H chart pulling back. Which timeframe matters most for a swing?",
+    "answers": [
+      {"text": "Go long because strong daily support typically controls multi-day direction"},
+      {"text": "Short because lower-interval declines guide broader phases as higher timeframe edges fade"},
+      {"text": "Wait because mixed levels reduce clarity until structural layers realign"},
+      {"text": "Hold short because daily supports weaken when compressed flow cycles expand downward"}
+    ],
+    "correct_answer": "Go long because strong daily support typically controls multi-day direction"
+  },
+  {
+    "type": "Type 9",
+    "question": "VelvetRaccoon Robotics opens at $121.70. Everyone online screams it's going 'to the moon.' Price is stuck at $122.10. Daily volume is low. Swing outlook?",
+    "answers": [
+      {"text": "Wait because getting above $122.60 with real volume confirms an actual swing breakout"},
+      {"text": "Buy because crowd enthusiasm amplifies continuation phases as breakout pressure builds"},
+      {"text": "Short because hype-induced stagnation signals structural weakness across swing intervals"},
+      {"text": "Enter early long because sentiment-driven alignment influences multi-day expansion cycles"}
+    ],
+    "correct_answer": "Wait because getting above $122.60 with real volume confirms an actual swing breakout"
+  },
+  {
+    "type": "Type 10",
+    "question": "CloudMuffin Aviation opens at $81.20. Trading halts midday. Reopens 12% lower at $71.40. Daily RSI hits 28 (oversold). Swing choice?",
+    "answers": [
+      {"text": "Buy because daily oversold panic drops often bounce across multiple days once liquidity settles"},
+      {"text": "Short because halt-driven breakdowns extend as fear persists through daily phases"},
+      {"text": "Wait because volatility distortions alter reliability until the new daily range forms"},
+      {"text": "Exit everything because halt-related volatility disrupts all swing structures across intervals"}
+    ],
+    "correct_answer": "Buy because daily oversold panic drops often bounce across multiple days once liquidity settles"
+  },
+  {
+    "type": "Type 11",
+    "question": "SaffronTurtle Optics starts at $39.70. Daily price hits resistance at $40.20 repeatedly. Volume slowly builds. RSI rises from 48 to 57 (strength building). Swing move?",
+    "answers": [
+      {"text": "Buy because building volume near resistance often leads to a swing breakout once $40.25 clears"},
+      {"text": "Short because repetitive resistance interactions weaken structure as buyers saturate daily cycles"},
+      {"text": "Wait because resistance generates deceptive squeezes as daily compression layers shift"},
+      {"text": "Sell because resistance zones lead to hidden distribution across swing intervals"}
+    ],
+    "correct_answer": "Buy because building volume near resistance often leads to a swing breakout once $40.25 clears"
+  },
+  {
+    "type": "Type 12",
+    "question": "WhisperPickle WaterTech opens at $64.10. You bought at $64.30. Price reaches $65.20 then stalls. Daily volume fades. RSI cools from 63 to 55. What's next for the swing?",
+    "answers": [
+      {"text": "Wait because a move above $65.40 confirms the next swing leg upward"},
+      {"text": "Sell because fading RSI distorts continuation phases across daily structures"},
+      {"text": "Short because stalled moves expose daily weakness as liquidity rotates down"},
+      {"text": "Add long because volume fading strengthens eventual breakouts as consolidation tightens"}
+    ],
+    "correct_answer": "Wait because a move above $65.40 confirms the next swing leg upward"
+  },
+  {
+    "type": "Type 1",
+    "question": "ThunderLoaf Semiconductors starts at $112. It dips to $110.40 intraday. Daily RSI hits 26 (very oversold). Buyers step in quickly. Swing reaction?",
+    "answers": [
+      {"text": "Buy because sharp daily drops into oversold zones often start multi-day rebounds"},
+      {"text": "Short because downward velocity shapes extended breakdown cycles as trend pressure compounds"},
+      {"text": "Wait because snap reversals distort early reads as volatility cycles expand"},
+      {"text": "Sell because aggressive buying reflects temporary noise during stressed daily structures"}
+    ],
+    "correct_answer": "Buy because sharp daily drops into oversold zones often start multi-day rebounds"
+  },
+  {
+    "type": "Type 2",
+    "question": "OmegaPretzel Transport starts at $58.70. Daily MACD bearish, RSI 39 (weak), but price holds tightly above daily support at $57.90. Swing decision?",
+    "answers": [
+      {"text": "Go long because strong daily support matters more than a single weak indicator"},
+      {"text": "Short because oscillator alignment predicts structural downside phases as momentum contracts"},
+      {"text": "Wait because mixed readings reshape swing clarity until higher timeframe structure confirms"},
+      {"text": "Hold short because support interactions lose relevance during broader compression cycles"}
+    ],
+    "correct_answer": "Go long because strong daily support matters more than a single weak indicator"
+  },
+  {
+    "type": "Type 3",
+    "question": "BrightWalrus Resources opens at $26.10. A dark-pool print lands at $26.80. Retail selling continues. VWAP is $26.40. Swing call?",
+    "answers": [
+      {"text": "Go long because dark-pool buying near VWAP often signals early multi-day accumulation"},
+      {"text": "Short because retail-driven pressure recalibrates daily structure as hidden orders lag"},
+      {"text": "Wait because unclear flow layers disrupt swing reliability as ranges reposition"},
+      {"text": "Stay flat because dark-pool imbalances distort apparent direction across daily formations"}
+    ],
+    "correct_answer": "Go long because dark-pool buying near VWAP often signals early multi-day accumulation"
+  },
+  {
+    "type": "Type 4",
+    "question": "SolarMammoth Energy starts at $32.70. Daily print spikes above $33.40 with weak volume. RSI 73 (overbought). What is this likely for swing traders?",
+    "answers": [
+      {"text": "Short because low-volume daily breakouts are often bull traps"},
+      {"text": "Buy because breakout displacement overrides volume requirements during upward expansions"},
+      {"text": "Wait because early misfires distort structural readings as daily flows realign"},
+      {"text": "Go long because breakout zones stabilize regardless of volume when trend pressure builds"}
+    ],
+    "correct_answer": "Short because low-volume daily breakouts are often bull traps"
+  },
+  {
+    "type": "Type 7",
+    "question": "CrestaNoodle Labs jumps from $49.20 to $50.40 after rumors of a new product. Volume spikes. RSI rises from 41 to 55 (strength building). Swing reaction?",
+    "answers": [
+      {"text": "Buy because rumor-driven momentum with rising daily indicators often forms multi-day pushes"},
+      {"text": "Short because rumor-driven surges distort trend alignment as reactive flows dominate"},
+      {"text": "Wait because speculation phases warp daily structure before confirming direction"},
+      {"text": "Sell because rumor spikes represent unstable liquidity across daily fluctuations"}
+    ],
+    "correct_answer": "Buy because rumor-driven momentum with rising daily indicators often forms multi-day pushes"
+  },
+  {
+    "type": "Type 0",
+    "question": "MellowCrank Systems (Industrial Sensors) opens at $18.40. On the 1-minute chart, RSI hits 23 (oversold), MACD histogram rises toward zero (momentum improving), and price taps the lower Bollinger Band. As a day trader, what do you do?",
+    "answers": [
+      {"text": "Buy because oversold conditions with improving momentum often cause fast intraday bounces"},
+      {"text": "Short because microstructural pressure strengthens during oversold phases as liquidity pockets widen"},
+      {"text": "Wait because early momentum flips distort short-term flow as multi-interval alignment is not confirmed"},
+      {"text": "Sell because lower-band contact creates reactive continuation cycles as bids rotate out"}
+    ],
+    "correct_answer": "Buy because oversold conditions with improving momentum often cause fast intraday bounces"
+  },
+  {
+    "type": "Type 0",
+    "question": "TurboVelvet Automation opens at $39.50. Price reclaims VWAP at $39.90 (bullish signal), ADX on the 5-min is 28 (strong trend), but Stochastics is 93 (very overbought). What’s the best intraday play?",
+    "answers": [
+      {"text": "Wait because buying after a quick cooldown above $40.05 avoids chasing the overbought spike"},
+      {"text": "Buy because strong trend readings override oscillator extremes as directional force accelerates"},
+      {"text": "Short because overextended conditions dominate intraday phases as exhaustion spreads"},
+      {"text": "Fade the move because VWAP recaptures frequently become liquidity traps when momentum peaks"}
+    ],
+    "correct_answer": "Wait because buying after a quick cooldown above $40.05 avoids chasing the overbought spike"
+  },
+  {
+    "type": "Type 1",
+    "question": "QuantumFritter Electronics opens at $52.10. Sudden news drops: 'major supply deal secured.' Price jumps from $52.10 to $53.70 in 7 seconds. 1-minute RSI hits 69 (near overbought). Level II shows stacked bids. You have 2 seconds. Intraday move?",
+    "answers": [
+      {"text": "Buy because fast news spikes with strong bid stacking often continue upward for a quick scalp"},
+      {"text": "Short because high-velocity bursts reshape microstructure as reactive flows collapse under pressure"},
+      {"text": "Wait because rapid impulses distort signal clarity as volatility blooms across intervals"},
+      {"text": "Sell because news-driven expansions generate unstable acceleration pockets across micro ranges"}
+    ],
+    "correct_answer": "Buy because fast news spikes with strong bid stacking often continue upward for a quick scalp"
+  },
+  {
+    "type": "Type 2",
+    "question": "FrostyHarpoon Marine Tech opens at $16.80. MACD turns bullish on the 5-minute, but RSI hits 76 (overbought) and price sits below intraday resistance at $17.05. Which signal matters most intraday?",
+    "answers": [
+      {"text": "Wait because entering above $17.10 avoids buying directly into resistance"},
+      {"text": "Buy because MACD crossovers override saturation zones as momentum groups activate"},
+      {"text": "Short because resistance behavior shapes immediate direction as oscillators compress"},
+      {"text": "Long early because high RSI validates continuation cycles during expansion intervals"}
+    ],
+    "correct_answer": "Wait because entering above $17.10 avoids buying directly into resistance"
+  },
+  {
+    "type": "Type 3",
+    "question": "YumBucket Analytics starts at $26.40. A 900k-share dark-pool print hits at $26.70, but retail selling dominates. VWAP is $26.55. Which flow is more trustworthy for a day trade?",
+    "answers": [
+      {"text": "Go long because dark-pool buying near VWAP often signals strong intraday interest"},
+      {"text": "Short because retail-side pressure reconfigures micro-flow as hidden orders lag behind"},
+      {"text": "Wait because flow irregularities across levels distort immediate clarity"},
+      {"text": "Stay out because dark-pool behavior obscures intraday momentum direction"}
+    ],
+    "correct_answer": "Go long because dark-pool buying near VWAP often signals strong intraday interest"
+  },
+  {
+    "type": "Type 4",
+    "question": "SneezeRocket Pharmaceuticals pops above $11.40 resistance but instantly rejects to $11.28 with almost no volume. RSI is 71 (overbought). For a day trade, what is this?",
+    "answers": [
+      {"text": "Short because low-volume breakouts that fail quickly are usually bull traps intraday"},
+      {"text": "Buy because breakout retractions stabilize upward force as price structures recalibrate"},
+      {"text": "Wait because snap rejections distort near-term signals as microstructure settles"},
+      {"text": "Hold long because fakeouts often precede more powerful continuation pushes"}
+    ],
+    "correct_answer": "Short because low-volume breakouts that fail quickly are usually bull traps intraday"
+  },
+  {
+    "type": "Type 5",
+    "question": "LemonThrottle Mining opens at $8.90. The market volatility index VIX jumps from 13 to 19. Price breaks below the 5-min trendline at $8.75. RSI is 34 (weak). What’s your intraday play?",
+    "answers": [
+      {"text": "Short because volatility spikes with a trendline break usually send price lower quickly intraday"},
+      {"text": "Buy because fear-driven volatility creates reversal setups as emotional flows unwind"},
+      {"text": "Wait because volatility distortions reduce signal reliability across short intervals"},
+      {"text": "Go long because price reactions during macro fear periods often reverse aggressively"}
+    ],
+    "correct_answer": "Short because volatility spikes with a trendline break usually send price lower quickly intraday"
+  },
+  {
+    "type": "Type 6",
+    "question": "GarlicOrbit Systems opens at $12.20. You're holding a small losing scalp. ATR rises from 0.14 to 0.29 (intraday volatility doubling). Price dips to $12.06. RSI hits 30 (near oversold). What’s the smart day-trade decision?",
+    "answers": [
+      {"text": "Wait because a break back above $12.14 after volatility cools gives a cleaner entry"},
+      {"text": "Cut everything because volatility bursts invalidate directional setups as cycles expand"},
+      {"text": "Short because rising ATR increases breakdown probability as order flow accelerates"},
+      {"text": "Hold because volatility stabilization tends to occur once lower bands absorb pressure"}
+    ],
+    "correct_answer": "Wait because a break back above $12.14 after volatility cools gives a cleaner entry"
+  },
+  {
+    "type": "Type 7",
+    "question": "NebulaPasta Bio opens at $9.50. Rumor drops that a patent approval is coming. Price surges to $9.83. Volume spikes. 1-minute Stochastics rises from 22 to 48 (recovering). Intraday call?",
+    "answers": [
+      {"text": "Go long because rumor-driven momentum with rising indicators often creates fast intraday pushes"},
+      {"text": "Short because rumor surges distort micro-flow as sentiment overwhelms structural direction"},
+      {"text": "Wait because speculative volume alters early signals before direction becomes reliable"},
+      {"text": "Sell because rumor spikes create unstable liquidity pockets across micro intervals"}
+    ],
+    "correct_answer": "Go long because rumor-driven momentum with rising indicators often creates fast intraday pushes"
+  },
+  {
+    "type": "Type 8",
+    "question": "MightyTurnip Networks opens at $73.10. 1-min is down, 5-min is sideways, 15-min is trending up, and price sits at intraday support. Which timeframe matters most for a day trader?",
+    "answers": [
+      {"text": "Go long because the 15-min trend usually controls short-term continuation"},
+      {"text": "Short because lower intervals reveal underlying stress as higher timeframe edges fade"},
+      {"text": "Wait because mixed intervals reduce clarity until directional layers align"},
+      {"text": "Hold short because intraday supports weaken under compression phases"}
+    ],
+    "correct_answer": "Go long because the 15-min trend usually controls short-term continuation"
+  },
+  {
+    "type": "Type 9",
+    "question": "TurtleGrit Robotics opens at $121.70. Everyone on social media screams it's breaking out today. Price sits at $122.05. Volume is flat. What’s the day-trading move?",
+    "answers": [
+      {"text": "Wait because a break above $122.35 with real volume confirms the intraday breakout"},
+      {"text": "Buy because crowd-driven momentum amplifies upward cycles as breakout thresholds near"},
+      {"text": "Short because hype stagnation reveals structural weakness across microstructure"},
+      {"text": "Enter early long because sentiment-driven alignment influences intraday expansion cycles"}
+    ],
+    "correct_answer": "Wait because a break above $122.35 with real volume confirms the intraday breakout"
+  },
+  {
+    "type": "Type 10",
+    "question": "QuantumToast Aviation opens at $81.20. Trading halts. Reopens at $74.90 (-7.30 drop). 1-minute RSI hits 27 (oversold). What’s the best intraday decision?",
+    "answers": [
+      {"text": "Buy because oversold panic reopenings often bounce once immediate liquidity stabilizes"},
+      {"text": "Short because halt reopenings generate continuation moves as fear sustains pressure"},
+      {"text": "Wait because halt-driven volatility disrupts clean entries until new structure forms"},
+      {"text": "Exit because halt-induced distortions damage reliability across short intervals"}
+    ],
+    "correct_answer": "Buy because oversold panic reopenings often bounce once immediate liquidity stabilizes"
+  },
+  {
+    "type": "Type 11",
+    "question": "StarlightCustard Optics starts at $23.90. Price keeps hitting $24.15 resistance on the 1-min. Volume builds slowly. RSI rises from 49 to 61 (strength building). Intraday breakout play?",
+    "answers": [
+      {"text": "Buy because building volume at resistance often leads to a breakout once $24.20 clears"},
+      {"text": "Short because repeated resistance contact saturates buyers across micro-flow zones"},
+      {"text": "Wait because resistance generates deceptive compression as intraday cycles shift"},
+      {"text": "Sell because resistance zones trigger distribution phases among fast-reacting participants"}
+    ],
+    "correct_answer": "Buy because building volume at resistance often leads to a breakout once $24.20 clears"
+  },
+  {
+    "type": "Type 12",
+    "question": "FluffyHarpoon WaterTech opens at $64.10. You bought at $64.30. Price climbs to $64.95 then stalls. Volume fades. 1-min RSI drops from 63 to 51. Next intraday step?",
+    "answers": [
+      {"text": "Wait because a break above $65.10 confirms the next intraday push upward"},
+      {"text": "Sell because fading momentum disrupts continuation cycles across microstructure"},
+      {"text": "Short because stalled moves reveal hidden weakness as liquidity rotates downward"},
+      {"text": "Add long because volume fading enhances later breakout potential during tightening phases"}
+    ],
+    "correct_answer": "Wait because a break above $65.10 confirms the next intraday push upward"
+  },
+  {
+    "type": "Type 1",
+    "question": "SpicyMammoth Semiconductors starts at $112. Price flushes to $110.60 in 8 seconds. RSI hits 25 (very oversold). Buyers appear suddenly. Intraday reaction?",
+    "answers": [
+      {"text": "Buy because sharp flushes into oversold zones often produce quick intraday rebounds"},
+      {"text": "Short because extreme velocity highlights structural breakdown as displacement expands"},
+      {"text": "Wait because snap reversals distort early momentum as volatility cycles swell"},
+      {"text": "Sell because sudden bid appearances appear as misleading noise in stressed intervals"}
+    ],
+    "correct_answer": "Buy because sharp flushes into oversold zones often produce quick intraday rebounds"
+  },
+  {
+    "type": "Type 2",
+    "question": "OmegaWobble Transport opens at $13.20. 5-min MACD bearish, RSI 41 (weak), but price holds strongly above intraday support at $13.05. Day-trading call?",
+    "answers": [
+      {"text": "Go long because intraday support holds matter more than a single weak indicator"},
+      {"text": "Short because oscillator alignment forecasts structural decline as micro-momentum contracts"},
+      {"text": "Wait because mixed conditions distort clarity across short intervals"},
+      {"text": "Hold short because support zones weaken during compression-driven movements"}
+    ],
+    "correct_answer": "Go long because intraday support holds matter more than a single weak indicator"
+  },
+  {
+    "type": "Type 3",
+    "question": "BrightSardine Metals opens at $21.40. A dark-pool print hits at $21.65. Retail selling continues. VWAP is $21.50. Intraday play?",
+    "answers": [
+      {"text": "Go long because dark-pool buying above VWAP often signals strong intraday accumulation"},
+      {"text": "Short because retail pressure reconfigures flow as hidden orders trail structural shifts"},
+      {"text": "Wait because conflicting order flow reduces immediate reliability"},
+      {"text": "Stay flat because dark-pool imbalances distort direction during micro corrections"}
+    ],
+    "correct_answer": "Go long because dark-pool buying above VWAP often signals strong intraday accumulation"
+  },
+  {
+    "type": "Type 4",
+    "question": "SolarCrumpet Energy spikes from $14.50 to $14.82, breaks highs, but volume is extremely weak. RSI hits 74 (overbought). Is this intraday breakout real?",
+    "answers": [
+      {"text": "Short because weak-volume intraday breakouts are often bull traps"},
+      {"text": "Buy because displacement through highs overrides volume requirements during acceleration"},
+      {"text": "Wait because early misfires distort directional signals as microstructure shifts"},
+      {"text": "Hold long because breakout zones stabilize regardless of volume during upward pressure"}
+    ],
+    "correct_answer": "Short because weak-volume intraday breakouts are often bull traps"
+  },
+  {
+    "type": "Type 7",
+    "question": "CrispyNebula Labs jumps from $9.80 to $10.05 after a rumor on social media. Volume spikes. RSI rises from 42 to 59 (strength building). What’s the intraday reaction?",
+    "answers": [
+      {"text": "Buy because rumor-driven momentum with improving indicators often pushes price upward fast"},
+      {"text": "Short because rumor surges distort flow as reactive traders dominate the books"},
+      {"text": "Wait because speculative volume warps microstructure before confirming direction"},
+      {"text": "Sell because rumor spikes generate unstable liquidity conditions across short intervals"}
+    ],
+    "correct_answer": "Buy because rumor-driven momentum with improving indicators often pushes price upward fast"
+  },
+  {
+    "type": "Type 0",
+    "question": "FuzzyTurbine Dynamics (Aero Sensors) opens at $28.10. Volume surges 240% above average, RSI hits 65 (momentum building but not overbought), and price launches through the 5-minute 20 EMA. Momentum trader move?",
+    "answers": [
+      {"text": "Buy because strong volume with a clean EMA break usually signals momentum continuation"},
+      {"text": "Short because volume surges distort structural readings as upward acceleration loses integrity"},
+      {"text": "Wait because early momentum expansion misrepresents broader flow before stabilization occurs"},
+      {"text": "Sell because sudden strength often collapses as traders chase exaggerated conditions"}
+    ],
+    "correct_answer": "Buy because strong volume with a clean EMA break usually signals momentum continuation"
+  },
+  {
+    "type": "Type 0",
+    "question": "ShrimpOrbit Technologies (Marine Robotics) opens at $13.70. Price reclaims VWAP with force, MACD lines cross bullish, but Stochastics is 92 (very overbought). For pure momentum trading, what’s the move?",
+    "answers": [
+      {"text": "Wait because entering above $13.95 avoids buying directly into the overbought squeeze top"},
+      {"text": "Buy because VWAP recapture overrides oscillator extremes as directional momentum accelerates"},
+      {"text": "Short because saturation levels dominate upward cycles as expansion loses thrust"},
+      {"text": "Fade the breakout because VWAP reclaim patterns often become exhaustion traps as volume peaks"}
+    ],
+    "correct_answer": "Wait because entering above $13.95 avoids buying directly into the overbought squeeze top"
+  },
+  {
+    "type": "Type 1",
+    "question": "CrispyMammoth Data Services opens at $42.60. A surprise earnings beat hits. Price jumps to $44.30 in 5 seconds. Level II shows massive bids. RSI 1-minute is 72 (overbought but strong). As a momentum trader, what do you do?",
+    "answers": [
+      {"text": "Buy because explosive news-driven spikes with strong bid stacking usually push higher briefly"},
+      {"text": "Short because extreme vertical movement disrupts structural layers as reactive flows expand"},
+      {"text": "Wait because fast spikes distort signal stability before true momentum forms"},
+      {"text": "Sell because early acceleration pockets collapse as traders crowd the move"}
+    ],
+    "correct_answer": "Buy because explosive news-driven spikes with strong bid stacking usually push higher briefly"
+  },
+  {
+    "type": "Type 2",
+    "question": "BananaThrottle Logistics opens at $55.20. MACD bullish on 1-minute, RSI 78 (overbought), but price consolidates just under $55.90 resistance. Momentum direction?",
+    "answers": [
+      {"text": "Wait because buying once price breaks $56.00 ensures the momentum is real"},
+      {"text": "Buy because MACD strength outperforms saturation concerns as momentum cycles align"},
+      {"text": "Short because intraday resistance restricts forward movement as oscillators tighten"},
+      {"text": "Enter long early because high RSI verifies momentum acceleration toward resistance"}
+    ],
+    "correct_answer": "Wait because buying once price breaks $56.00 ensures the momentum is real"
+  },
+  {
+    "type": "Type 3",
+    "question": "QuantumSneeze Cloudworks opens at $108. A huge dark-pool print hits at $108.90. Retail volume spikes upward. VWAP sits at $108.30. For momentum traders, which signal matters?",
+    "answers": [
+      {"text": "Go long because strong dark-pool buying and rising retail momentum often trigger rapid upside moves"},
+      {"text": "Short because crowd-driven surges distort microstructure as hidden liquidity trails behind"},
+      {"text": "Wait because mixed prints distort directional integrity across rapid-flow environments"},
+      {"text": "Stay neutral because dark-pool clusters destabilize momentum phases before confirmation"}
+    ],
+    "correct_answer": "Go long because strong dark-pool buying and rising retail momentum often trigger rapid upside moves"
+  },
+  {
+    "type": "Type 4",
+    "question": "SpicyOstrich Motors breaks above $21.40 premarket high but instantly rejects with weak volume. RSI is 75 (overbought). What’s this for a momentum trader?",
+    "answers": [
+      {"text": "Short because shallow-volume breakouts that fail instantly usually indicate a bull trap"},
+      {"text": "Buy because breakout retractions stabilize upward movement as early displacement normalizes"},
+      {"text": "Wait because quick failures distort immediate readings as traders reposition"},
+      {"text": "Hold long because rejection phases precede more powerful continuation pushes under momentum regimes"}
+    ],
+    "correct_answer": "Short because shallow-volume breakouts that fail instantly usually indicate a bull trap"
+  },
+  {
+    "type": "Type 5",
+    "question": "WaffleHarpoon Security Systems opens at $19.20. Market volatility jumps as VIX rises from 14 to 18. Price surges through $19.70 with high volume. RSI is 58 (momentum healthy). What’s your move?",
+    "answers": [
+      {"text": "Buy because momentum breakouts during rising volatility often produce strong extensions"},
+      {"text": "Short because volatility distortions overpower upward displacement across momentum cycles"},
+      {"text": "Wait because increased volatility reduces reliability until directional intent clarifies"},
+      {"text": "Fade the move because upward bursts lose structure during volatility expansions"}
+    ],
+    "correct_answer": "Buy because momentum breakouts during rising volatility often produce strong extensions"
+  },
+  {
+    "type": "Type 6",
+    "question": "ThunderGarlic Systems opens at $32.30. You have one small losing position. ATR spikes intraday from 0.18 to 0.33 (momentum expanding). Price reclaims $32.60 fast. RSI hits 48 (neutral rising). What now?",
+    "answers": [
+      {"text": "Wait because a fast move above $32.75 confirms the new momentum push"},
+      {"text": "Cut everything because expanding ATR breaks down directional validity across momentum structures"},
+      {"text": "Short because volatility surges predict directional collapses as pressure increases"},
+      {"text": "Hold because consolidation beneath key levels stabilizes further upward movement"}
+    ],
+    "correct_answer": "Wait because a fast move above $32.75 confirms the new momentum push"
+  },
+  {
+    "type": "Type 7",
+    "question": "MintyHavoc Bio opens at $14.90. Rumor spreads about an early trial success. Price bursts to $15.40. Volume surges 300%. Stochastics rises from 25 to 55 (momentum building). What’s the momentum move?",
+    "answers": [
+      {"text": "Buy because rumor-driven momentum plus rising indicators often fuels aggressive upside bursts"},
+      {"text": "Short because rumor surges distort upward structure as emotional traders overwhelm the books"},
+      {"text": "Wait because early rumor spikes reshape directional validity before stabilization occurs"},
+      {"text": "Sell because rumor-driven acceleration creates fragile zones across microstructure"}
+    ],
+    "correct_answer": "Buy because rumor-driven momentum plus rising indicators often fuels aggressive upside bursts"
+  },
+  {
+    "type": "Type 8",
+    "question": "StarlightGravy Semiconductors opens at $73.90. 1-min trend up, 5-min trend up, 15-min trend up. All intervals aligned. Price sits at $74.20. Momentum trading perspective?",
+    "answers": [
+      {"text": "Buy because multi-timeframe alignment usually creates strong momentum continuation"},
+      {"text": "Short because upward convergence destabilizes microstructure as compression builds"},
+      {"text": "Wait because alignment across intervals misrepresents deeper cycle transitions"},
+      {"text": "Avoid entering because stacked trends lose reliability during synchronized expansions"}
+    ],
+    "correct_answer": "Buy because multi-timeframe alignment usually creates strong momentum continuation"
+  },
+  {
+    "type": "Type 9",
+    "question": "GigaNoodle Robotics opens at $121.20. Everyone on social media says it's about to explode. Price stalls at $121.70. Volume flat. How do momentum traders react?",
+    "answers": [
+      {"text": "Wait because a break above $121.95 with real volume is needed to confirm actual momentum"},
+      {"text": "Buy because crowd momentum overrides thinner volume as breakout levels approach"},
+      {"text": "Short because hype-driven stagnation reveals weakened acceleration potential"},
+      {"text": "Enter long early because sentiment-driven alignment accelerates upward displacement"}
+    ],
+    "correct_answer": "Wait because a break above $121.95 with real volume is needed to confirm actual momentum"
+  },
+  {
+    "type": "Type 10",
+    "question": "CosmicWaffle Aerospace opens at $81.20. Momentary halt occurs. Reopens at $83.30 with huge buying pressure. RSI hits 66 (strong). Volume explodes. Best momentum action?",
+    "answers": [
+      {"text": "Buy because halt reopenings with surging volume often continue upward under strong momentum"},
+      {"text": "Short because halt-driven expansions collapse as order flow destabilizes aggressively"},
+      {"text": "Wait because halt volatility disrupts momentum clarity until consolidation appears"},
+      {"text": "Sell because momentum peaks early during halt-reopen euphoria phases"}
+    ],
+    "correct_answer": "Buy because halt reopenings with surging volume often continue upward under strong momentum"
+  },
+  {
+    "type": "Type 11",
+    "question": "TurboPancake Optics starts at $23.90. Price keeps touching $24.10 with rising volume. RSI builds from 49 to 63 (momentum rising). What’s the momentum trader play?",
+    "answers": [
+      {"text": "Buy because rising volume at resistance usually leads to a momentum breakout once $24.15 clears"},
+      {"text": "Short because repetitive resistance taps saturate buyers as structural integrity weakens"},
+      {"text": "Wait because compression beneath resistance generates deceptive readings"},
+      {"text": "Sell because resistance turns into distribution zones during upward crowding phases"}
+    ],
+    "correct_answer": "Buy because rising volume at resistance usually leads to a momentum breakout once $24.15 clears"
+  },
+  {
+    "type": "Type 12",
+    "question": "HappyVortex WaterTech opens at $64.10. You entered at $64.35. Price runs to $65.20, then stalls. Volume cools slightly. RSI dips from 65 to 57. What’s the momentum decision?",
+    "answers": [
+      {"text": "Wait because a move above $65.35 confirms the next momentum leg upward"},
+      {"text": "Sell because fading momentum disrupts continuation phases as velocity decays"},
+      {"text": "Short because stall behavior reveals internal weakness as liquidity rotates downward"},
+      {"text": "Add long because slight volume dips enrich later breakout potential under momentum tightening"}
+    ],
+    "correct_answer": "Wait because a move above $65.35 confirms the next momentum leg upward"
+  },
+  {
+    "type": "Type 1",
+    "question": "MegaCrouton Semiconductors opens at $112. Price flushes to $110.80 fast. RSI hits 26 (very oversold). Buyers step in violently. What does a momentum trader do?",
+    "answers": [
+      {"text": "Buy because sharp flushes into oversold levels often rebound quickly under momentum pressure"},
+      {"text": "Short because downward velocity shapes expansion cycles as pressure intensifies"},
+      {"text": "Wait because snap reversals distort immediate signals until structure forms"},
+      {"text": "Sell because sudden bid presence disguises deeper microstructural instability"}
+    ],
+    "correct_answer": "Buy because sharp flushes into oversold levels often rebound quickly under momentum pressure"
+  },
+  {
+    "type": "Type 2",
+    "question": "OmegaBanjo Transport opens at $13.20. MACD bearish, but price holds above key intraday pivot at $13.08. RSI 43 (neutral). Momentum perspective?",
+    "answers": [
+      {"text": "Go long because strong pivot holds matter more than a single weak indicator during momentum plays"},
+      {"text": "Short because oscillator alignment forecasts downward movement as momentum compresses"},
+      {"text": "Wait because mixed signals disrupt confidence across momentum setups"},
+      {"text": "Hold short because pivot levels weaken during high-velocity transitions"}
+    ],
+    "correct_answer": "Go long because strong pivot holds matter more than a single weak indicator during momentum plays"
+  },
+  {
+    "type": "Type 3",
+    "question": "BrightSpoon Industries opens at $21.40. Dark-pool print appears at $21.78. Retail volume rising. VWAP is $21.50. Momentum play?",
+    "answers": [
+      {"text": "Go long because dark-pool buying above VWAP often signals emerging momentum expansion"},
+      {"text": "Short because retail-driven volume reshapes flow as hidden prints lag structural changes"},
+      {"text": "Wait because conflicting flow signals distort immediate momentum clarity"},
+      {"text": "Stay flat because dark-pool distributions destabilize early directional movements"}
+    ],
+    "correct_answer": "Go long because dark-pool buying above VWAP often signals emerging momentum expansion"
+  },
+  {
+    "type": "Type 4",
+    "question": "SolarPudding Energy spikes through $15.48 resistance with extremely weak volume. RSI is 74 (overbought). A momentum trader sees this as what?",
+    "answers": [
+      {"text": "Short because weak-volume breakouts almost always fail for momentum traders"},
+      {"text": "Buy because displacement alone justifies continuation regardless of volume strength"},
+      {"text": "Wait because immediate patterns misrepresent direction before clearer signals form"},
+      {"text": "Hold long because breakout zones stabilize during upward pressure waves"}
+    ],
+    "correct_answer": "Short because weak-volume breakouts almost always fail for momentum traders"
+  },
+  {
+    "type": "Type 7",
+    "question": "CrestaMeteor Labs jumps from $9.80 to $10.18 after a rumor on social media. Volume surges. RSI rises from 44 to 63 (momentum growing). What’s the momentum play?",
+    "answers": [
+      {"text": "Buy because rumor-driven volume with rising momentum often sparks fast upward pushes"},
+      {"text": "Short because rumor rallies distort orderly flow as reactive clusters dominate"},
+      {"text": "Wait because speculative bursts reshape patterns before confirming real direction"},
+      {"text": "Sell because rumor spikes form unstable zones across high-momentum intervals"}
+    ],
+    "correct_answer": "Buy because rumor-driven volume with rising momentum often sparks fast upward pushes"
+  },
+  {
+    "type": "Type 0",
+    "question": "PixelMuffin MicroCircuits opens at $4.80. 1-second RSI hits 22 (very oversold), price wicks down then snaps back over VWAP instantly. Level II shows stacked bids. As a scalper, what’s the move?",
+    "answers": [
+      {"text": "Buy because fast VWAP snaps with oversold signals usually give quick scalp pops"},
+      {"text": "Short because micro-oversold readings compress upward flow as reactive buyers weaken"},
+      {"text": "Wait because early whip reactions distort liquidity as orderbooks shift unexplored levels"},
+      {"text": "Sell because sudden strength reflects unstable pressure cycles across rapid-flow intervals"}
+    ],
+    "correct_answer": "Buy because fast VWAP snaps with oversold signals usually give quick scalp pops"
+  },
+  {
+    "type": "Type 0",
+    "question": "TurboJelly Robotics opens at $12.30. Price taps VWAP, then pushes above the 9 EMA with strong tape-speed. Stochastics hits 88 (overbought). Scalper decision?",
+    "answers": [
+      {"text": "Wait because entering above $12.42 avoids chasing the overbought micro-squeeze"},
+      {"text": "Buy because EMA acceleration overrides saturation as upward micro-momentum synchronizes"},
+      {"text": "Short because overextended oscillators reshape pressure as immediate buyers exhaust"},
+      {"text": "Fade the move because EMA pressures often form liquidity traps during rapid expansions"}
+    ],
+    "correct_answer": "Wait because entering above $12.42 avoids chasing the overbought micro-squeeze"
+  },
+  {
+    "type": "Type 1",
+    "question": "GigaPickle Semiconductor Labs opens at $57.40. Sudden headline drops. Price rockets to $58.20 in 3 seconds. 1-second RSI hits 74 (overbought). Level II bursts green. What do scalpers do?",
+    "answers": [
+      {"text": "Buy because news-driven micro-bursts with strong tape speed often push a little higher"},
+      {"text": "Short because vertical flow disrupts compression zones as micro-traders overreact"},
+      {"text": "Wait because extreme acceleration distorts accuracy until micro-cycles calm"},
+      {"text": "Sell because squeezed bursts form unstable peaks as traders pile into risky velocity pockets"}
+    ],
+    "correct_answer": "Buy because news-driven micro-bursts with strong tape speed often push a little higher"
+  },
+  {
+    "type": "Type 2",
+    "question": "NanoCustard Transport opens at $5.60. MACD flips bullish on the 5-second chart, RSI hits 79 (overbought), and price presses against $5.66 micro-resistance. What matters for a scalp?",
+    "answers": [
+      {"text": "Wait because entering above $5.67 confirms real micro-breakout pressure"},
+      {"text": "Buy because MACD crossovers outperform saturation in micro-reactive cycles"},
+      {"text": "Short because resistance levels dominate precision scalps as oscillators peak"},
+      {"text": "Go long early because high RSI proves strong upward acceleration in short bursts"}
+    ],
+    "correct_answer": "Wait because entering above $5.67 confirms real micro-breakout pressure"
+  },
+  {
+    "type": "Type 3",
+    "question": "NeonWalrus Analytics opens at $38.10. A 600k dark-pool print hits at $38.45. Retail volume surges. VWAP is $38.20. Who do scalpers trust?",
+    "answers": [
+      {"text": "Go long because dark-pool buying above VWAP often triggers fast micro-pops"},
+      {"text": "Short because retail surges distort microstructure as hidden orders lag transitions"},
+      {"text": "Wait because conflicting tape layers reduce immediate clarity for precision entries"},
+      {"text": "Stay flat because dark-pool fragmentation destabilizes ultra-short signals"}
+    ],
+    "correct_answer": "Go long because dark-pool buying above VWAP often triggers fast micro-pops"
+  },
+  {
+    "type": "Type 4",
+    "question": "BiscuitTurbine Pharmaceuticals spikes above $7.21 micro-high but instantly rejects to $7.14 with thin volume. RSI is 72 (overbought). Scalper interpretation?",
+    "answers": [
+      {"text": "Short because low-volume micro-breakouts failing instantly are classic bull traps for scalpers"},
+      {"text": "Buy because breakout retreats support upward recalibration as flow reorganizes"},
+      {"text": "Wait because early rejection patterns distort tape consistency as books shift"},
+      {"text": "Hold long because micro-fakeouts frequently precede stronger continuation pulses"}
+    ],
+    "correct_answer": "Short because low-volume micro-breakouts failing instantly are classic bull traps for scalpers"
+  },
+  {
+    "type": "Type 5",
+    "question": "TidalMushroom Mining opens at $2.90. VIX pushes higher from 14 to 17. Price surges to $2.97 with velocity. RSI is 52 (healthy). Scalper reaction?",
+    "answers": [
+      {"text": "Buy because micro-breakouts during volatility expansions often push quickly before fading"},
+      {"text": "Short because volatility expansions compress microstructural reliability as upward flow breaks down"},
+      {"text": "Wait because elevated volatility disrupts precise entries until flow stabilizes"},
+      {"text": "Fade the push because volatility-driven thrusts collapse as books thin"}
+    ],
+    "correct_answer": "Buy because micro-breakouts during volatility expansions often push quickly before fading"
+  },
+  {
+    "type": "Type 6",
+    "question": "CrinkleNugget Water Systems opens at $14.80. You have one losing scalp. ATR on 1-second chart jumps sharply. Price reclaims $14.86 quickly. RSI rises from 38 to 47. Scalper action?",
+    "answers": [
+      {"text": "Wait because breaking above $14.90 confirms the momentum shift for a tight scalp"},
+      {"text": "Cut because ATR bursts destabilize micro-directional edges across rapid intervals"},
+      {"text": "Short because volatility spikes forecast downward shocks as books thin"},
+      {"text": "Hold because minor consolidations under round levels enhance upward potential"}
+    ],
+    "correct_answer": "Wait because breaking above $14.90 confirms the momentum shift for a tight scalp"
+  },
+  {
+    "type": "Type 7",
+    "question": "MintyCrank Bio opens at $11.10. Rumor blasts on Twitter. Price jumps to $11.26. Volume triples. Stochastics rises from 30 to 55 (momentum building). Scalper play?",
+    "answers": [
+      {"text": "Buy because rumor-driven micro-momentum with rising indicators often causes quick bursts"},
+      {"text": "Short because rumor surges reduce microstructure stability as emotion overwhelms flow"},
+      {"text": "Wait because speculative flows distort tape before true micro-trend forms"},
+      {"text": "Sell because rumor-driven spikes create fragile liquidity zones across rapid intervals"}
+    ],
+    "correct_answer": "Buy because rumor-driven micro-momentum with rising indicators often causes quick bursts"
+  },
+  {
+    "type": "Type 8",
+    "question": "StarlightNoodle Semiconductors opens at $73.15. 1-second, 10-second, and 1-minute charts all trend up. Price sits at $73.28. Scalper interpretation?",
+    "answers": [
+      {"text": "Buy because multi-interval alignment creates clean momentum bursts for scalpers"},
+      {"text": "Short because upward convergence destabilizes microstructure during tightening cycles"},
+      {"text": "Wait because stacked intervals distort clarity until tape decelerates"},
+      {"text": "Avoid entering because rapid alignment loses traction during micro expansion phases"}
+    ],
+    "correct_answer": "Buy because multi-interval alignment creates clean momentum bursts for scalpers"
+  },
+  {
+    "type": "Type 9",
+    "question": "GigaGoose Robotics opens at $121.50. Social media explodes saying it’s about to moon. Price is stuck near $121.62. Volume is dead. Scalper approach?",
+    "answers": [
+      {"text": "Wait because you need a break above $121.74 with speed and volume to confirm real micro-momentum"},
+      {"text": "Buy because crowd-driven sentiment overrides low volume as breakout edges approach"},
+      {"text": "Short because hype stagnation exposes weakening microstructure beneath resistance"},
+      {"text": "Enter early long because sentiment alignment strengthens upward velocity cycles"}
+    ],
+    "correct_answer": "Wait because you need a break above $121.74 with speed and volume to confirm real micro-momentum"
+  },
+  {
+    "type": "Type 10",
+    "question": "CosmicPretzel Aviation opens at $81.20. Brief trading pause hits. Reopens at $82.10 with speed. RSI is 64 (strong). Scalpers see heavy green tape. Action?",
+    "answers": [
+      {"text": "Buy because halt reopenings with strong tape speed often give fast micro upside continuation"},
+      {"text": "Short because halt-driven acceleration collapses under reactive sell bursts"},
+      {"text": "Wait because halt volatility distorts micro-entry precision until stable patterns appear"},
+      {"text": "Sell because reopening strength marks unstable liquidity during rapid flows"}
+    ],
+    "correct_answer": "Buy because halt reopenings with strong tape speed often give fast micro upside continuation"
+  },
+  {
+    "type": "Type 11",
+    "question": "TurboSnail Optics starts at $23.90. Price taps $24.04 repeatedly with rising micro-volume. RSI climbs from 51 to 63 (momentum building). Scalper decision?",
+    "answers": [
+      {"text": "Buy because rising micro-volume at resistance usually produces quick breakout scalps above $24.07"},
+      {"text": "Short because resistance taps saturate upward pressure as micro-buyers weaken"},
+      {"text": "Wait because compression beneath resistance misrepresents underlying microstructure"},
+      {"text": "Sell because resistance behaviors trigger distribution under micro-cycle fluctuations"}
+    ],
+    "correct_answer": "Buy because rising micro-volume at resistance usually produces quick breakout scalps above $24.07"
+  },
+  {
+    "type": "Type 12",
+    "question": "FuzzyHarpoon WaterTech opens at $64.10. You bought at $64.22. Price jumps to $64.38 then stalls. Volume cools. RSI dips from 64 to 58. Next scalp decision?",
+    "answers": [
+      {"text": "Wait because a move over $64.42 confirms the next micro leg upward"},
+      {"text": "Sell because fading momentum disrupts continuation across rapid cycles"},
+      {"text": "Short because stall behavior reveals weakness as liquidity turns downward"},
+      {"text": "Add long because lower volume enhances later breakout behavior during tightening"}
+    ],
+    "correct_answer": "Wait because a move over $64.42 confirms the next micro leg upward"
+  },
+  {
+    "type": "Type 1",
+    "question": "ZestyMeteor Semiconductors opens at $112.20. Price dumps to $111.40 in 2 seconds. RSI hits 24 (oversold). Buyers slam back in hard. For a scalp?",
+    "answers": [
+      {"text": "Buy because sharp flushes into oversold zones often create quick bounce scalps"},
+      {"text": "Short because downward speed intensifies structural breakdown across micro layers"},
+      {"text": "Wait because snap reversals distort early reads until tape stabilizes"},
+      {"text": "Sell because sudden bid activity often masks deeper algorithmic weakness"}
+    ],
+    "correct_answer": "Buy because sharp flushes into oversold zones often create quick bounce scalps"
+  },
+  {
+    "type": "Type 2",
+    "question": "OmegaTruffle Transport opens at $13.20. 5-second MACD bearish, RSI 41 (neutral-weak), but price keeps bouncing off $13.12 support with speed. Scalper view?",
+    "answers": [
+      {"text": "Go long because strong micro-support holds matter more than a single weak indicator for scalps"},
+      {"text": "Short because oscillator alignment predicts downward extension as momentum compresses"},
+      {"text": "Wait because mixed signals reduce precision in ultra-short entries"},
+      {"text": "Hold short because support zones collapse during micro compression cycles"}
+    ],
+    "correct_answer": "Go long because strong micro-support holds matter more than a single weak indicator for scalps"
+  },
+  {
+    "type": "Type 3",
+    "question": "BrightCricket Resources opens at $21.40. Dark-pool print at $21.58. Retail flow rising. VWAP is $21.48. Scalper play?",
+    "answers": [
+      {"text": "Go long because dark-pool buying above VWAP often triggers immediate micro-momentum pops"},
+      {"text": "Short because retail surges distort micro-tape as hidden liquidity misaligns"},
+      {"text": "Wait because mixed flows reduce precision for high-speed entries"},
+      {"text": "Stay flat because dark-pool prints destabilize early momentum shifts"}
+    ],
+    "correct_answer": "Go long because dark-pool buying above VWAP often triggers immediate micro-momentum pops"
+  },
+  {
+    "type": "Type 4",
+    "question": "SolarFritter Energy breaks above $15.48 with almost no volume. RSI is 74 (overbought). Scalper interpretation?",
+    "answers": [
+      {"text": "Short because weak-volume breakouts almost always fail for scalpers"},
+      {"text": "Buy because breakout displacement overrides volume needs during micro bursts"},
+      {"text": "Wait because early spikes distort structure before confirming direction"},
+      {"text": "Hold long because micro breakouts stabilize once pressure builds"}
+    ],
+    "correct_answer": "Short because weak-volume breakouts almost always fail for scalpers"
+  },
+  {
+    "type": "Type 7",
+    "question": "CrestaThunder Labs jumps from $9.80 to $10.02 after a rumor appears. Volume surges. RSI rises from 46 to 63. What’s the scalp?",
+    "answers": [
+      {"text": "Buy because rumor-driven micro-volume with rising momentum often sparks fast upward pulses"},
+      {"text": "Short because rumor spikes distort orderbooks as reactive traders flood the tape"},
+      {"text": "Wait because impulsive volume can reshape direction unpredictably"},
+      {"text": "Sell because rumor-driven acceleration creates hollow micro liquidity zones"}
+    ],
+    "correct_answer": "Buy because rumor-driven micro-volume with rising momentum often sparks fast upward pulses"
+  },
+  {
+    "type": "Day Trading",
+    "question": "MarblePenguin Aeroworks opens at $42.10. Price reclaims VWAP with strong speed, RSI hits 61 (momentum building), and volume rises 180%. What’s the day-trade move?",
+    "answers": [
+      {"text": "Buy because VWAP recapture with strong volume usually leads to clean intraday upside follow-through"},
+      {"text": "Short because upward tape velocity compresses true trend structure as micro flows distort readings"},
+      {"text": "Wait because immediate strength misaligns directional clarity until multiple candles confirm"},
+      {"text": "Sell because strong upward moves disrupt equilibrium as reactive buyers chase instability"}
+    ],
+    "correct_answer": "Buy because VWAP recapture with strong volume usually leads to clean intraday upside follow-through"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "ThunderCrouton Pharmaceuticals trades at $18.30. Price is above the 20 SMA, RSI is 54 (neutral but rising), and MACD on the daily is about to cross. Swing-trader direction?",
+    "answers": [
+      {"text": "Buy because rising daily momentum with a clean SMA trend often supports multi-day moves"},
+      {"text": "Short because upward oscillations disrupt broader cycle structure as trend velocity weakens"},
+      {"text": "Wait because early indicator alignment can mask deeper cyclical inconsistencies"},
+      {"text": "Sell because neutral RSI regions destabilize longer-term patterns in shifting trend zones"}
+    ],
+    "correct_answer": "Buy because rising daily momentum with a clean SMA trend often supports multi-day moves"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "GigaSyrup Semiconductors opens at $73.50. Price surges to $74.10 quickly, RSI hits 69 (strong), and tape-speed accelerates. What’s the momentum move?",
+    "answers": [
+      {"text": "Buy because fast directional strength with accelerating tape often pushes further before slowing"},
+      {"text": "Short because extended pulses distort structure as higher-speed bursts disrupt flow reliability"},
+      {"text": "Wait because early bursts disguise deeper momentum rotations before clarity appears"},
+      {"text": "Sell because strong expansions form unstable displacement waves during crowd acceleration"}
+    ],
+    "correct_answer": "Buy because fast directional strength with accelerating tape often pushes further before slowing"
+  },
+  {
+    "type": "Scalping",
+    "question": "CrispyZeppelin Robotics trades at $9.70. A sudden wick dips to $9.66, shoots back over VWAP instantly, and RSI 1-second hits 25 (oversold). Scalper move?",
+    "answers": [
+      {"text": "Buy because VWAP snapbacks from oversold levels usually give quick scalp pops"},
+      {"text": "Short because sudden wicks destabilize microstructural consistency as liquidity rotates"},
+      {"text": "Wait because reactive whip movements distort tape accuracy for precision entries"},
+      {"text": "Sell because upward recovery phases often mask deeper instability across micro intervals"}
+    ],
+    "correct_answer": "Buy because VWAP snapbacks from oversold levels usually give quick scalp pops"
+  },
+  {
+    "type": "Day Trading",
+    "question": "MellowTurbine Cloud Logistics opens at $32.40. The 5-minute chart forms a tight flag under $32.78 with rising volume. RSI 57 (healthy). Day trader?",
+    "answers": [
+      {"text": "Buy because flags under resistance with rising volume usually break upward intraday"},
+      {"text": "Short because compression zones disrupt true trend alignment as volume accumulates unevenly"},
+      {"text": "Wait because flag structures misrepresent momentum before the breakout candle arrives"},
+      {"text": "Sell because price coiling beneath resistance creates unstable imbalance pressures"}
+    ],
+    "correct_answer": "Buy because flags under resistance with rising volume usually break upward intraday"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "NovaNoodle Energy trades at $61.20. Price sits above weekly support, RSI 47 (neutral), and MACD histogram turns positive. Swing decision?",
+    "answers": [
+      {"text": "Buy because support holds combined with momentum shift often fuels multi-day swing continuation"},
+      {"text": "Short because neutral oscillators distort deeper trend cycles as structural zones misalign"},
+      {"text": "Wait because momentum transitions require additional candlestick context for reliability"},
+      {"text": "Sell because early positive shifts obscure broader cyclical inconsistencies across higher frames"}
+    ],
+    "correct_answer": "Buy because support holds combined with momentum shift often fuels multi-day swing continuation"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "OmegaPickle Technologies opens at $44.10. Price surges above $44.60 with heavy volume, RSI 72 (overbought but strong). Momentum call?",
+    "answers": [
+      {"text": "Buy because overbought strength during explosive volume often produces strong momentum follow-through"},
+      {"text": "Short because overextended oscillators reshape upward cycles as momentum destabilizes"},
+      {"text": "Wait because aggressive strength distorts clarity before confirming continuation signals"},
+      {"text": "Sell because sudden demand surges mask underlying structural imbalance across intervals"}
+    ],
+    "correct_answer": "Buy because overbought strength during explosive volume often produces strong momentum follow-through"
+  },
+  {
+    "type": "Scalping",
+    "question": "BananaVolt Industries at $7.14 tests $7.17 twice, each time with rising tape-speed, RSI 1-second climbs from 52 to 63 (building). Best scalp?",
+    "answers": [
+      {"text": "Buy because repeated taps with rising tape-speed usually break for a fast scalp extension"},
+      {"text": "Short because micro-resistance taps destabilize flow consistency as buyers strain upward"},
+      {"text": "Wait because pre-break signals misrepresent true strength before tape clarity emerges"},
+      {"text": "Sell because upward attempts distort micro-balance creating liquidity voids"}
+    ],
+    "correct_answer": "Buy because repeated taps with rising tape-speed usually break for a fast scalp extension"
+  },
+  {
+    "type": "Day Trading",
+    "question": "TurboQuasar Solutions opens at $104.20. Price dips to $103.70 but instantly reclaims VWAP. Volume increases sharply. Day-trader reaction?",
+    "answers": [
+      {"text": "Buy because VWAP reclaim after a sharp dip often leads to strong intraday recovery strength"},
+      {"text": "Short because swift rebounds distort structure as liquidity recalibrates downward"},
+      {"text": "Wait because reactive recoveries obscure directional accuracy until settling occurs"},
+      {"text": "Sell because velocity reversals destabilize immediate trade reliability across fast intervals"}
+    ],
+    "correct_answer": "Buy because VWAP reclaim after a sharp dip often leads to strong intraday recovery strength"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "FrostyWrench Infrastructure trades at $29.20. Daily RSI 42 (slightly oversold), price near long-term channel support, volume picking up. Swing move?",
+    "answers": [
+      {"text": "Buy because oversold support combined with rising volume usually triggers multi-day reversals"},
+      {"text": "Short because support tests distort broader trend rotation as deeper zones misalign"},
+      {"text": "Wait because channel support behaviors require more confirmation before acting"},
+      {"text": "Sell because rising volume near support magnifies structural instability"}
+    ],
+    "correct_answer": "Buy because oversold support combined with rising volume usually triggers multi-day reversals"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "GalaxyTruffle Semiconductors at $88.40 breaks above $89 on 300% volume. RSI 66 (strong). MACD surges. What’s the momentum trade?",
+    "answers": [
+      {"text": "Buy because high-volume breakouts with strong momentum indicators often push further"},
+      {"text": "Short because expansion waves distort directional clarity as upward bursts compress flow"},
+      {"text": "Wait because early breakouts conceal structural weakness before testing higher levels"},
+      {"text": "Sell because momentum surges create temporary instability across velocity cycles"}
+    ],
+    "correct_answer": "Buy because high-volume breakouts with strong momentum indicators often push further"
+  },
+  {
+    "type": "Scalping",
+    "question": "SpicyNebula Motors trades at $14.60. Price bounces fast between $14.55 and $14.61. 1-second RSI rises from 38 to 52. Tape-speed improving. Scalper entry?",
+    "answers": [
+      {"text": "Buy because improving tape-speed with steady higher bids usually gives quick scalp upticks"},
+      {"text": "Short because tightening ranges weaken upward flow as micro signals distort strength"},
+      {"text": "Wait because inconsistent tape rhythm disrupts immediate precision"},
+      {"text": "Sell because oscillating ranges reflect unstable upward bursts across micro frames"}
+    ],
+    "correct_answer": "Buy because improving tape-speed with steady higher bids usually gives quick scalp upticks"
+  },
+  {
+    "type": "Day Trading",
+    "question": "NoodleVortex Automation at $63.70 forms a rising wedge near intraday resistance. RSI 58 (neutral-strong). Volume increasing slowly. What’s the move?",
+    "answers": [
+      {"text": "Wait because a break above $63.88 confirms the wedge’s upside resolution for day-trading"},
+      {"text": "Buy because wedge structures reinforce upward direction as compression strengthens"},
+      {"text": "Short because compressing wedges weaken upward integrity as volume tightens"},
+      {"text": "Sell because tightening structures distort upward flow across intraday intervals"}
+    ],
+    "correct_answer": "Wait because a break above $63.88 confirms the wedge’s upside resolution for day-trading"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "QuantumCarrot Holdings trades at $51.20. Weekly MACD turning up, RSI 49 (neutral), price holds above weekly EMA20. Swing-trader move?",
+    "answers": [
+      {"text": "Buy because weekly EMA support with improving momentum usually leads to multi-week continuation"},
+      {"text": "Short because momentum transitions disrupt higher timeframe cycles as strength weakens"},
+      {"text": "Wait because weekly setups require more data before confirming upward direction"},
+      {"text": "Sell because neutral RSI phases destabilize structural alignment across macro frames"}
+    ],
+    "correct_answer": "Buy because weekly EMA support with improving momentum usually leads to multi-week continuation"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "BlizzardMuffin Technologies opens at $27.10. Price rockets to $27.44, pulls back lightly to $27.32, and holds. RSI 68 (strong). Momentum plan?",
+    "answers": [
+      {"text": "Buy because shallow pullbacks during strong momentum usually lead to fresh pushes upward"},
+      {"text": "Short because momentum pullbacks distort upward rhythm as reactive buyers weaken"},
+      {"text": "Wait because shallow dips sometimes disguise deeper trend rotations"},
+      {"text": "Sell because early momentum phases form unreliable continuation patterns"}
+    ],
+    "correct_answer": "Buy because shallow pullbacks during strong momentum usually lead to fresh pushes upward"
+  },
+  {
+    "type": "Scalping",
+    "question": "PastaComet Innovations trades at $6.40. Quick dip hits $6.37 then instantly rebounds to $6.41. 1-second RSI jumps from 29 (oversold) to 50. Scalper?",
+    "answers": [
+      {"text": "Buy because sharp micro-dips with immediate recoveries usually give fast scalp upside"},
+      {"text": "Short because abrupt rebounds destabilize microstructure clarity as liquidity reshapes"},
+      {"text": "Wait because early micro reversals distort precision until more candles form"},
+      {"text": "Sell because upward rebounds mask structural thinning across micro flows"}
+    ],
+    "correct_answer": "Buy because sharp micro-dips with immediate recoveries usually give fast scalp upside"
+  },
+  {
+    "type": "Day Trading",
+    "question": "CrankyNova Systems opens at $91.20. Breaks above $91.80 with huge volume. RSI 64 (strong). Tape-speed high. Day trade?",
+    "answers": [
+      {"text": "Buy because clean breakout volume with rising strength typically extends intraday"},
+      {"text": "Short because breakout aggression distorts upward cycles as expansion phases peak"},
+      {"text": "Wait because breakout candles can disguise false upward intent"},
+      {"text": "Sell because strong velocity surges create unreliable continuation phases"}
+    ],
+    "correct_answer": "Buy because clean breakout volume with rising strength typically extends intraday"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "SundaeHarpoon Transport trades at $17.60. Price bouncing along rising daily trendline, RSI 52 (healthy), MACD gradually improving. Swing approach?",
+    "answers": [
+      {"text": "Buy because rising trendline support with improving indicators usually supports multi-day upside"},
+      {"text": "Short because trendline touches distort higher-cycle momentum as upward pressure fades"},
+      {"text": "Wait because trendline tests require additional confirmation for reliability"},
+      {"text": "Sell because price strength produces structural inconsistencies across longer frames"}
+    ],
+    "correct_answer": "Buy because rising trendline support with improving indicators usually supports multi-day upside"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "GalaxyCrank Electronics opens at $133.40. RSI 71 (overbought but strong), volume surging, price breaks $133.90. Momentum signal?",
+    "answers": [
+      {"text": "Buy because overbought momentum with increasing volume often pushes further"},
+      {"text": "Short because extreme readings distort upward direction as reactive activity increases"},
+      {"text": "Wait because volume surges sometimes conceal false directional moves"},
+      {"text": "Sell because elevated strength disrupts balance across accelerated flows"}
+    ],
+    "correct_answer": "Buy because overbought momentum with increasing volume often pushes further"
+  },
+  {
+    "type": "Day Trading",
+    "question": "VelvetCircuit Automation opens at $58.40. Price dips to $58.12 then instantly surges back over VWAP with heavy green tape. RSI 63 (strong). Day-trade move?",
+    "answers": [
+      {"text": "Buy because VWAP snap recoveries with strong tape usually lead to clean intraday pushes"},
+      {"text": "Short because rebound strength disrupts trend structure as micro liquidity rotates downward"},
+      {"text": "Wait because reactive surges distort clarity until multiple candles confirm direction"},
+      {"text": "Sell because sharp recoveries destabilize intraday reliability as pressure increases"}
+    ],
+    "correct_answer": "Buy because VWAP snap recoveries with strong tape usually lead to clean intraday pushes"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "MegaWaffle Biosystems trades at $22.60. Price sits right above multi-week support, RSI 45 (slightly weak), but MACD histogram turns positive. Swing approach?",
+    "answers": [
+      {"text": "Buy because multi-week support combined with momentum reversal usually fuels swing upside"},
+      {"text": "Short because cyclical pressure disrupts structural integrity as deeper weakness circulates"},
+      {"text": "Wait because early MACD turns require stronger confirmation for swing setups"},
+      {"text": "Sell because neutral RSI conditions weaken longer-term reliability across trend frames"}
+    ],
+    "correct_answer": "Buy because multi-week support combined with momentum reversal usually fuels swing upside"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "CryptoTaffy Dynamics at $39.10 breaks $39.40 with surging volume. RSI 68 (strong). Tape pushing aggressively. Momentum perspective?",
+    "answers": [
+      {"text": "Buy because strong-volume breakouts with accelerating tape tend to extend before fading"},
+      {"text": "Short because bursting velocity destabilizes upward flow as compression builds"},
+      {"text": "Wait because breakout acceleration can conceal deeper weaknesses initially"},
+      {"text": "Sell because early strength masks structural imbalance as crowd activity increases"}
+    ],
+    "correct_answer": "Buy because strong-volume breakouts with accelerating tape tend to extend before fading"
+  },
+  {
+    "type": "Scalping",
+    "question": "FoggyMarmot Robotics trades at $5.20. Price dips to $5.17 and immediately bounces. 1-second RSI 27 (oversold). Tape-speed flashes green. Best scalp?",
+    "answers": [
+      {"text": "Buy because oversold micro-dips with instant bounce usually give fast scalp opportunities"},
+      {"text": "Short because reactive rebounds distort microstructure reliability as pressure shifts"},
+      {"text": "Wait because snap reversals can misrepresent true flow until more ticks print"},
+      {"text": "Sell because early micro-bounces create unstable liquidity for precise entries"}
+    ],
+    "correct_answer": "Buy because oversold micro-dips with instant bounce usually give fast scalp opportunities"
+  },
+  {
+    "type": "Day Trading",
+    "question": "NebulaPretzel Industrial opens at $74.20. Price forms a tight intraday base at $74.35 with volume rising slowly. RSI 55 (healthy). What’s the day-trade setup?",
+    "answers": [
+      {"text": "Buy because tightening bases with steady volume often lead to clean intraday breakouts"},
+      {"text": "Short because coiling near resistance weakens upward structure as pressure builds"},
+      {"text": "Wait because early base formations can misalign with real trend continuation"},
+      {"text": "Sell because compression phases destabilize balance across intraday intervals"}
+    ],
+    "correct_answer": "Buy because tightening bases with steady volume often lead to clean intraday breakouts"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "GigaHarpoon Energy trades at $41.80. Price bounces from rising 100 SMA, RSI 50 (neutral), MACD slowly improving. Swing-trader’s call?",
+    "answers": [
+      {"text": "Buy because rising long-term moving averages with improving momentum often support swing continuation"},
+      {"text": "Short because structural compression distorts multi-day cycles as momentum weakens"},
+      {"text": "Wait because moving-average reactions require further candlestick confirmation"},
+      {"text": "Sell because sideways RSI reduces reliability across longer timeframe moves"}
+    ],
+    "correct_answer": "Buy because rising long-term moving averages with improving momentum often support swing continuation"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "TurboNimbus Electronics surges from $18.40 to $18.78. Volume spikes 260%. RSI 71 (overbought but powerful). Momentum reaction?",
+    "answers": [
+      {"text": "Buy because strong overbought momentum with heavy volume usually extends before slowing"},
+      {"text": "Short because overbought conditions weaken flow as upward displacement saturates"},
+      {"text": "Wait because high-intensity bursts misrepresent reliability without follow-through"},
+      {"text": "Sell because extended thrust phases distort direction across quick momentum cycles"}
+    ],
+    "correct_answer": "Buy because strong overbought momentum with heavy volume usually extends before slowing"
+  },
+  {
+    "type": "Scalping",
+    "question": "CrispyVortex Maritime trades at $3.90. Price bounces rapidly between $3.88 and $3.92. RSI 1-second climbs from 40 to 62. Tape rising. Scalper action?",
+    "answers": [
+      {"text": "Buy because rising tape-speed with upward micro-momentum usually produces quick scalp upticks"},
+      {"text": "Short because repeated bounces disrupt micro-flow as upward strength weakens"},
+     {"text": "Wait because oscillating ranges misrepresent clarity for precise entries"},
+      {"text": "Sell because upward flickers distort stability across microstructure intervals"}
+    ],
+    "correct_answer": "Buy because rising tape-speed with upward micro-momentum usually produces quick scalp upticks"
+  },
+  {
+    "type": "Day Trading",
+    "question": "WaffleNebula Solutions at $115.40 breaks intraday high $115.82 on strong volume. RSI 66 (strong). Day trade?",
+    "answers": [
+      {"text": "Buy because clean volume-backed highs usually continue intraday before pulling back"},
+      {"text": "Short because breakout aggression distorts reliable upward cycles as strength peaks"},
+      {"text": "Wait because initial breakout candles can mask fading pressure"},
+      {"text": "Sell because rapid upward moves form unstable continuation patterns"}
+    ],
+    "correct_answer": "Buy because clean volume-backed highs usually continue intraday before pulling back"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "PepperNova Renewable trades at $25.70. Price holds above multi-day EMA20, RSI 53 (healthy), volume rising slightly. Swing decision?",
+    "answers": [
+      {"text": "Buy because stable EMA support with strengthening momentum frequently drives swing continuation"},
+      {"text": "Short because cyclical noise disrupts broader structural consistency as strength compresses"},
+      {"text": "Wait because multi-day setups need more volume confirmation before acting"},
+      {"text": "Sell because neutral RSI phases weaken swing reliability across broader intervals"}
+    ],
+    "correct_answer": "Buy because stable EMA support with strengthening momentum frequently drives swing continuation"
+  },
+  {
+    "type": "Momentum Trading",
+    "question": "FrostyGizmo Robotics at $62.15 surges above $62.60 on 200% volume. MACD spikes. RSI 70 (overbought but forceful). Momentum?",
+    "answers": [
+      {"text": "Buy because strong volume with high-speed momentum indicators usually accelerates upward"},
+      {"text": "Short because overbought bursts distort upward cycles as structural tension increases"},
+      {"text": "Wait because large spikes can conceal unreliable momentum continuation"},
+      {"text": "Sell because strong acceleration phases disrupt flow alignment across rapid intervals"}
+    ],
+    "correct_answer": "Buy because strong volume with high-speed momentum indicators usually accelerates upward"
+  },
+  {
+    "type": "Scalping",
+    "question": "QuantumMuffin Aerospace trades at $8.10. A dip to $8.06 instantly recovers to $8.11 with rapid green prints. 1-second RSI jumps from 31 (oversold) to 54. Scalper reaction?",
+    "answers": [
+      {"text": "Buy because oversold micro-dips with immediate tape recovery usually create quick scalp gains"},
+      {"text": "Short because reactive rebounds distort short-term precision as flow rotates"},
+      {"text": "Wait because bounce pulses require more ticks for confirmation"},
+      {"text": "Sell because early rise masks weakening microstructure across liquidity layers"}
+    ],
+    "correct_answer": "Buy because oversold micro-dips with immediate tape recovery usually create quick scalp gains"
+  },
+  {
+    "type": "Day Trading",
+    "question": "CosmoTangent Electronics opens at $49.80. It steadily climbs to $50.12 with rising volume and RSI 59 (healthy). VWAP holds below as support. Day-trade entry?",
+    "answers": [
+      {"text": "Buy because steady climbs with rising volume above VWAP often lead to controlled intraday continuation"},
+      {"text": "Short because volume expansion disrupts structure as upward displacement reaches instability"},
+      {"text": "Wait because shallow climbs sometimes disguise weakening demand before reversal"},
+      {"text": "Sell because consistent upward candles distort balance across intraday flow"}
+    ],
+    "correct_answer": "Buy because steady climbs with rising volume above VWAP often lead to controlled intraday continuation"
+  },
+  {
+    "type": "Swing Trading",
+    "question": "StarlightSprocket Holdings trades at $14.40. Daily chart forms higher lows, RSI 51 (neutral but rising), and MACD curling up. Swing positioning?",
+    "answers": [
+      {"text": "Buy because higher lows with improving indicators often generate stable multi-day continuation"},
+      {"text": "Short because emerging upward structure misaligns with deeper cycle limitations"},
+      {"text": "Wait because small upward rotations can misrepresent true swing direction"},
+      {"text": "Sell because early consolidations weaken structural integrity across the trend"}
+    ],
+    "correct_answer": "Buy because higher lows with improving indicators often generate stable multi-day continuation"
+  }
+]
